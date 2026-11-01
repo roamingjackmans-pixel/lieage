@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Lieage | josephjackman.com</title>
+  <meta name="description" content="Lieage: a bluffing trivia party game. Put the game on a big screen, everyone joins on their phone, writes fake answers to strange-but-true facts, and tries to spot the truth.">
+  <meta name="theme-color" content="#170f33">
+  <meta property="og:title" content="Lieage 🤥">
+  <meta property="og:description" content="The bluffing trivia party game. Tell believable lies, spot the truth. Click my link to join my game!">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤥</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="version.js"></script>
+  <script src="vendor/peerjs.min.js"></script>
+</head>
+<body>
+  <!-- home: join a game, or host one on this screen -->
+  <section id="home" class="screen home">
+    <p class="site"><a href="/">josephjackman.com</a></p>
+    <h1 class="logo"><span class="logo-face" aria-hidden="true">🤥</span> Lieage</h1>
+    <p class="tagline">The bluffing trivia party game.<br>Tell believable lies. Spot the truth.</p>
+
+    <div class="card home-card">
+      <h2 class="home-h">Join a game</h2>
+      <label class="field-label" for="nameInput">Your name</label>
+      <div class="you-row">
+        <button id="avatarBtn" class="avatar-btn" type="button" title="Change your picture">🦊</button>
+        <input id="nameInput" maxlength="16" autocomplete="nickname" placeholder="Your name">
+      </div>
+      <form id="joinForm" class="join-row">
+        <input id="codeInput" inputmode="numeric" pattern="[0-9]*" maxlength="5" autocomplete="off" placeholder="5-number code" aria-label="Game code">
+        <button id="joinBtn" class="btn primary" type="submit">Join</button>
+      </form>
+      <p id="homeMsg" class="msg" role="status"></p>
+      <div class="or"><span>or put the game on a big screen</span></div>
+      <button id="hostBtn" class="btn gold big" type="button">📺 Host a game on this screen</button>
+      <p class="host-note">The host screen <b>is the game</b>: put it on a TV or laptop everyone can see. It shows the questions, the answers and the scores, and doesn't play. Everyone else joins on their phone.</p>
+      <button id="resumeBtn" class="btn small resume" type="button" hidden></button>
+      <a class="check-link" href="/horserace/check.html">Can't get in? Run a connection check</a>
+    </div>
+
+    <details class="card rules">
+      <summary>How to play</summary>
+      <ol>
+        <li><b>One screen hosts.</b> Open Lieage on a TV, laptop or tablet everyone can see and tap <b>Host a game</b>. It shows a 5-number code. The host screen is the game itself, not a player.</li>
+        <li><b>Everyone else joins on their phone</b> with the code (2 to 10 players). The first player to join gets a 👑 and can start the game from their phone too.</li>
+        <li>Each question is a <b>strange but true fact</b> with a word missing. Players take turns picking the topic.</li>
+        <li>Everyone secretly <b>writes a lie</b> to fill the blank, something believable enough to fool the others. Stuck? Tap 💡 for an idea.</li>
+        <li>All the lies get mixed in with the real answer. <b>Find the truth</b> on your phone. You can't pick your own lie.</li>
+        <li><b>Scoring:</b> find the truth for <b>500</b>, and get <b>250</b> for every player who falls for your lie. Round 2 is worth <b>double</b>, and the final question <b>triple</b>.</li>
+        <li>Tap 😂 on answers that make you laugh. At the end there are awards for the best liar, the best truth detector, the crowd favourite and the most gullible.</li>
+      </ol>
+    </details>
+    <p id="buildTag" class="build"></p>
+  </section>
+
+  <!-- the game screen (the host): it runs the game and everyone watches it -->
+  <section id="screen" class="screen tv" hidden>
+    <header class="topbar tv-top">
+      <div class="brand-sm"><span aria-hidden="true">🤥</span> Lieage</div>
+      <button id="tvCode" class="code-btn" type="button" title="Copy the invite link"><span class="join-at">josephjackman.com/lieage</span> Code <b id="tvCodeText">-----</b></button>
+      <div class="spacer"></div>
+      <button id="tvPause" class="icon-btn" type="button" title="Pause (P)" hidden>⏸</button>
+      <button id="tvSkip" class="icon-btn" type="button" title="Skip ahead (N)" hidden>⏭</button>
+      <button id="tvMute" class="icon-btn" type="button" title="Sound on/off">🔊</button>
+      <button id="tvFull" class="icon-btn" type="button" title="Full screen (F)">⛶</button>
+      <button id="tvMenu" class="icon-btn" type="button" title="Menu">☰</button>
+    </header>
+    <div id="tvStatus" class="status" hidden></div>
+    <main id="tvStage" class="tv-stage"></main>
+    <footer id="tvPlayers" class="tv-players"></footer>
+  </section>
+
+  <!-- a player's phone -->
+  <section id="phone" class="screen phone" hidden>
+    <header class="topbar ph-top">
+      <button id="phMe" class="me-chip" type="button" title="Change your name or picture"><span id="phAv" class="av">🦊</span><span id="phName" class="nm">You</span></button>
+      <span id="phScore" class="ph-score"></span>
+      <div class="spacer"></div>
+      <span class="code-sm">Code <b id="phCode">-----</b></span>
+      <button id="phLeave" class="icon-btn leave" type="button">Leave</button>
+    </header>
+    <div id="phStatus" class="status" hidden></div>
+    <div id="phTimer" class="ph-timer" hidden><i></i><span></span></div>
+    <main id="phStage" class="ph-stage"></main>
+    <div id="phLead" class="lead-bar" hidden>
+      <span>👑 Lead</span>
+      <button id="phPause" class="btn small" type="button">⏸ Pause</button>
+      <button id="phSkip" class="btn small" type="button">⏭ Skip</button>
+    </div>
+  </section>
+
+  <div id="modal" class="modal-root"></div>
+  <div id="toasts" class="toasts" aria-live="polite"></div>
+  <noscript><div style="padding:40px;text-align:center;color:#fff">Lieage needs JavaScript turned on.</div></noscript>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

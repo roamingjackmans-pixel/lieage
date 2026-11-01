@@ -1,0 +1,602 @@
+[
+  {
+    "id": "pop-01",
+    "topic": "Mask Shopping",
+    "q": "The blank white mask Michael Myers wears in Halloween (1978) started life as a cheap store-bought _____ mask, spray-painted white with the eyeholes widened.",
+    "a": "Captain Kirk",
+    "alt": ["Kirk", "James T. Kirk", "Captain James T. Kirk", "William Shatner", "Shatner", "Star Trek"],
+    "d": ["Elvis Presley", "Richard Nixon", "Frankenstein"],
+    "x": 0,
+    "src": "Wikipedia: Michael Myers (Halloween)"
+  },
+  {
+    "id": "pop-02",
+    "topic": "Signature Look",
+    "q": "Bob Ross only got his famous curly perm to save money on _____.",
+    "a": "haircuts",
+    "alt": ["haircut", "hair cuts", "barbers", "the barber"],
+    "d": ["shampoo", "hats", "hair dye"],
+    "x": 0,
+    "src": "NPR (2016): The Real Bob Ross; Mental Floss"
+  },
+  {
+    "id": "pop-03",
+    "topic": "Almost Called",
+    "q": "Before NBC aired it as Friends, the sitcom went through working titles including _____.",
+    "a": "Insomnia Cafe",
+    "alt": ["Six of One", "Friends Like Us"],
+    "d": ["Bottomless Cup", "Manhattan Mornings", "Coffee Talk"],
+    "x": 0,
+    "src": "Wikipedia: Friends"
+  },
+  {
+    "id": "pop-04",
+    "topic": "Gatsby, Take One",
+    "q": "An earlier draft of The Great Gatsby, finally published on its own in 2000, carried the title _____.",
+    "a": "Trimalchio",
+    "alt": ["Trimalchio in West Egg"],
+    "d": ["Daisy's Folly", "Champagne Summer", "The Last Party"],
+    "x": 0,
+    "src": "Wikipedia: The Great Gatsby"
+  },
+  {
+    "id": "pop-05",
+    "topic": "Album Title",
+    "q": "The Beatles almost named Abbey Road _____, after the brand of cigarettes their recording engineer smoked.",
+    "a": "Everest",
+    "alt": ["Mount Everest"],
+    "d": ["Woodbine", "Lucky Strike", "Embassy"],
+    "x": 0,
+    "src": "Wikipedia: Abbey Road"
+  },
+  {
+    "id": "pop-06",
+    "topic": "Walkies",
+    "q": "In a famous 1969 photograph, Salvador Dali steps out of a Paris Metro station walking an _____ on a leash.",
+    "a": "anteater",
+    "alt": ["giant anteater", "ant eater"],
+    "d": ["armadillo", "ostrich", "iguana"],
+    "x": 0,
+    "src": "1969 press photograph of Dali with an anteater at a Paris Metro station (widely published)"
+  },
+  {
+    "id": "pop-07",
+    "topic": "Monster Name",
+    "q": "Cookie Monster announced in a 2004 song that, before cookies came into his life, his name was _____.",
+    "a": "Sid",
+    "alt": ["Sidney", "Sid Monster"],
+    "d": ["Gary", "Kevin", "Lenny"],
+    "x": 0,
+    "src": "Wikipedia: Cookie Monster"
+  },
+  {
+    "id": "pop-08",
+    "topic": "Monster Voice",
+    "q": "To create Godzilla's roar in 1954, composer Akira Ifukube dragged a resin-coated leather glove along the strings of a _____.",
+    "a": "double bass",
+    "alt": ["contrabass", "upright bass", "string bass", "bass", "bass fiddle"],
+    "d": ["grand piano", "cello", "harp"],
+    "x": 0,
+    "src": "Wikipedia: Godzilla (1954 film)"
+  },
+  {
+    "id": "pop-09",
+    "topic": "Day Job",
+    "q": "Brad Pitt's pre-fame jobs included standing outside a Los Angeles restaurant dressed as a giant _____.",
+    "a": "chicken",
+    "alt": ["chicken mascot"],
+    "d": ["hot dog", "taco", "burrito"],
+    "x": 0,
+    "src": "Wikipedia: Brad Pitt"
+  },
+  {
+    "id": "pop-10",
+    "topic": "Draft Surname",
+    "q": "In J.K. Rowling's early notes, Hermione's last name wasn't Granger but _____.",
+    "a": "Puckle",
+    "alt": [],
+    "d": ["Higgle", "Pennyfeather", "Bramblewick"],
+    "x": 0,
+    "src": "Wikipedia: Hermione Granger"
+  },
+  {
+    "id": "pop-11",
+    "topic": "Pitchfork Models",
+    "q": "Grant Wood used his sister and his _____ as the models for the stern couple in American Gothic.",
+    "a": "dentist",
+    "alt": ["family dentist", "the dentist"],
+    "d": ["landlord", "barber", "mailman"],
+    "x": 0,
+    "src": "Wikipedia: American Gothic"
+  },
+  {
+    "id": "pop-12",
+    "topic": "Name Taken",
+    "q": "SpongeBob was originally going to be called SpongeBoy, but that name was already trademarked for a _____.",
+    "a": "mop",
+    "alt": ["mop product", "brand of mop", "mops"],
+    "d": ["kitchen sponge", "bubble bath", "car wash"],
+    "x": 0,
+    "src": "Wikipedia: SpongeBob SquarePants (character)"
+  },
+  {
+    "id": "pop-13",
+    "topic": "Stage Name",
+    "q": "U2 singer Bono took his nickname from Bonavox, a Dublin _____.",
+    "a": "hearing aid shop",
+    "alt": ["hearing aid store", "hearing-aid shop", "hearing aid company", "hearing aid retailer"],
+    "d": ["sausage shop", "karaoke bar", "piano store"],
+    "x": 0,
+    "src": "Wikipedia: Bono"
+  },
+  {
+    "id": "pop-14",
+    "topic": "Early Model",
+    "q": "In early drafts of Back to the Future, the time machine wasn't a DeLorean but a _____.",
+    "a": "refrigerator",
+    "alt": ["fridge"],
+    "d": ["phone booth", "washing machine", "school bus"],
+    "x": 0,
+    "src": "Wikipedia: Back to the Future"
+  },
+  {
+    "id": "pop-15",
+    "topic": "Birthday Gift",
+    "q": "Agatha Christie handed the rights to her play The Mousetrap to her _____ as a birthday present.",
+    "a": "grandson",
+    "alt": ["grandchild"],
+    "d": ["gardener", "goddaughter", "dog"],
+    "x": 0,
+    "src": "Wikipedia: The Mousetrap"
+  },
+  {
+    "id": "pop-16",
+    "topic": "First Words",
+    "q": "Mickey Mouse's very first spoken words on film, in 1929, were _____.",
+    "a": "Hot dogs!",
+    "alt": ["Hot dogs", "Hot dog", "Hot dogs! Hot dogs!"],
+    "d": ["Oh boy!", "Hiya, pal!", "Hello, Minnie!"],
+    "x": 0,
+    "src": "Wikipedia: The Karnival Kid"
+  },
+  {
+    "id": "pop-17",
+    "topic": "Secret Agent Chef",
+    "q": "During World War II, Julia Child worked for the OSS spy agency, where she helped develop a _____.",
+    "a": "shark repellent",
+    "alt": ["shark repellant", "shark-repellent", "shark deterrent"],
+    "d": ["itching powder", "edible map", "smoke bomb"],
+    "x": 0,
+    "src": "Wikipedia: Julia Child"
+  },
+  {
+    "id": "pop-18",
+    "topic": "Hidden Note",
+    "q": "A tiny pencil note on Edvard Munch's The Scream says it could only have been painted by a _____, and in 2021 experts confirmed Munch wrote it himself.",
+    "a": "madman",
+    "alt": ["mad man", "crazy man"],
+    "d": ["genius", "Norwegian", "ghost"],
+    "x": 0,
+    "src": "National Museum of Norway (2021); Wikipedia: The Scream"
+  },
+  {
+    "id": "pop-19",
+    "topic": "Unlikely Publisher",
+    "q": "Frank Herbert's Dune was turned down by about twenty publishers before Chilton, a company best known for _____, took a chance on it.",
+    "a": "auto repair manuals",
+    "alt": ["car repair manuals", "auto manuals", "car manuals", "repair manuals", "automotive manuals", "auto repair guides"],
+    "d": ["knitting patterns", "tax guides", "school yearbooks"],
+    "x": 0,
+    "src": "Wikipedia: Dune (novel)"
+  },
+  {
+    "id": "pop-20",
+    "topic": "Code Source",
+    "q": "The cascading green code in The Matrix was made from symbols its designer scanned out of his wife's Japanese _____.",
+    "a": "cookbooks",
+    "alt": ["cookbook", "sushi cookbooks", "sushi recipes", "recipe books", "recipes"],
+    "d": ["comic books", "train timetables", "phone books"],
+    "x": 0,
+    "src": "Wikipedia: Matrix digital rain"
+  },
+  {
+    "id": "pop-21",
+    "topic": "Name Clash",
+    "q": "ABBA had to ask permission to use their name, because it already belonged to a Swedish _____ company.",
+    "a": "seafood",
+    "alt": ["fish", "canned fish", "fish canning", "fish-canning", "herring", "canned seafood"],
+    "d": ["furniture", "toothpaste", "match"],
+    "x": 0,
+    "src": "Wikipedia: ABBA"
+  },
+  {
+    "id": "pop-22",
+    "topic": "Secret Identity",
+    "q": "Matt Groening's original idea was for Krusty the Clown to secretly be _____ in disguise.",
+    "a": "Homer",
+    "alt": ["Homer Simpson"],
+    "d": ["Mr. Burns", "Ned Flanders", "Principal Skinner"],
+    "x": 0,
+    "src": "Wikipedia: Krusty the Clown"
+  },
+  {
+    "id": "pop-23",
+    "topic": "Summer Job",
+    "q": "Christopher Walken spent one teenage summer working at a circus as a trainee _____.",
+    "a": "lion tamer",
+    "alt": ["lion-tamer", "lion trainer", "lion tamer's assistant"],
+    "d": ["clown", "knife thrower", "tightrope walker"],
+    "x": 0,
+    "src": "Mental Floss: 10 Surprising Facts About Christopher Walken; Walken interviews"
+  },
+  {
+    "id": "pop-24",
+    "topic": "Southern Belle",
+    "q": "Until shortly before Gone with the Wind was published, Margaret Mitchell's heroine was named _____ O'Hara.",
+    "a": "Pansy",
+    "alt": [],
+    "d": ["Daisy", "Lula", "Magnolia"],
+    "x": 0,
+    "src": "Wikipedia: Scarlett O'Hara"
+  },
+  {
+    "id": "pop-25",
+    "topic": "Soft Watches",
+    "q": "Salvador Dali said the melting clocks in The Persistence of Memory were inspired by _____ going runny in the sun.",
+    "a": "Camembert",
+    "alt": ["Camembert cheese", "cheese", "melting cheese"],
+    "d": ["candle wax", "chocolate", "butter"],
+    "x": 0,
+    "src": "Wikipedia: The Persistence of Memory"
+  },
+  {
+    "id": "pop-26",
+    "topic": "Priciest Ticket",
+    "q": "When EMI pulled out of Monty Python's Life of Brian, _____ mortgaged his home to fund it, simply because he wanted to see the film.",
+    "a": "George Harrison",
+    "alt": ["Harrison"],
+    "d": ["Elton John", "Mick Jagger", "Ringo Starr"],
+    "x": 0,
+    "src": "Wikipedia: Monty Python's Life of Brian"
+  },
+  {
+    "id": "pop-27",
+    "topic": "Good Boy",
+    "q": "Charles Schulz meant to name Charlie Brown's beagle _____, but spotted that name in another comic and went with Snoopy instead.",
+    "a": "Sniffy",
+    "alt": [],
+    "d": ["Buster", "Biscuit", "Rascal"],
+    "x": 0,
+    "src": "Wikipedia: Snoopy"
+  },
+  {
+    "id": "pop-28",
+    "topic": "Feathered Fan",
+    "q": "Mozart owned a pet _____ that could sing a melody from one of his piano concertos.",
+    "a": "starling",
+    "alt": ["pet starling"],
+    "d": ["canary", "parrot", "nightingale"],
+    "x": 0,
+    "src": "Wikipedia: Piano Concerto No. 17 (Mozart)"
+  },
+  {
+    "id": "pop-29",
+    "topic": "Wild Draft",
+    "q": "Maurice Sendak's classic was first going to be called Where the Wild _____ Are, until he admitted he couldn't draw them.",
+    "a": "Horses",
+    "alt": ["horse"],
+    "d": ["Bears", "Goats", "Penguins"],
+    "x": 0,
+    "src": "Wikipedia: Where the Wild Things Are"
+  },
+  {
+    "id": "pop-30",
+    "topic": "Fake Film",
+    "q": "Kevin's favorite black-and-white gangster movie in Home Alone, _____, never existed; the clip was shot just for the film.",
+    "a": "Angels with Filthy Souls",
+    "alt": ["Angels With Filthy Souls"],
+    "d": ["Bullets Before Breakfast", "Dames, Dough and Dynamite", "Tommy Guns at Midnight"],
+    "x": 0,
+    "src": "Wikipedia: Home Alone"
+  },
+  {
+    "id": "pop-31",
+    "topic": "Master of Fear",
+    "q": "Alfred Hitchcock told interviewers he had a lifelong fear of _____.",
+    "a": "eggs",
+    "alt": ["egg"],
+    "d": ["birds", "staircases", "balloons"],
+    "x": 0,
+    "src": "Alfred Hitchcock interviews (widely quoted); Wikipedia: Alfred Hitchcock"
+  },
+  {
+    "id": "pop-32",
+    "topic": "Self-Destruct",
+    "q": "Banksy's Girl with Balloon shredded itself moments after selling at auction in 2018, and the half-shredded work was retitled _____.",
+    "a": "Love is in the Bin",
+    "alt": ["Love Is in the Bin"],
+    "d": ["Confetti Girl", "Shreds of Love", "Going, Going, Gone"],
+    "x": 0,
+    "src": "Wikipedia: Love Is in the Bin"
+  },
+  {
+    "id": "pop-33",
+    "topic": "Title Fight",
+    "q": "Saturday Night Live debuted as NBC's Saturday Night, because ABC already had a show called Saturday Night Live hosted by _____.",
+    "a": "Howard Cosell",
+    "alt": ["Cosell"],
+    "d": ["Johnny Carson", "Dick Clark", "Ed Sullivan"],
+    "x": 0,
+    "src": "Wikipedia: Saturday Night Live"
+  },
+  {
+    "id": "pop-34",
+    "topic": "Elementary",
+    "q": "In Arthur Conan Doyle's first notes, Sherlock Holmes's loyal companion was not Dr. Watson but Dr. _____.",
+    "a": "Ormond Sacker",
+    "alt": ["Sacker"],
+    "d": ["Percival Pugh", "Horace Bellweather", "Algernon Finch"],
+    "x": 0,
+    "src": "Wikipedia: Dr. Watson"
+  },
+  {
+    "id": "pop-35",
+    "topic": "Flight Risk",
+    "q": "During a 1976 photo shoot for a Pink Floyd album cover, a giant inflatable _____ broke loose and drifted into Heathrow's flight path.",
+    "a": "pig",
+    "alt": ["inflatable pig", "pig balloon", "flying pig"],
+    "d": ["octopus", "rubber duck", "eyeball"],
+    "x": 0,
+    "src": "Wikipedia: Animals (Pink Floyd album)"
+  },
+  {
+    "id": "pop-36",
+    "topic": "Boop Origins",
+    "q": "Betty Boop made her 1930 debut not as a human flapper but as a singing _____.",
+    "a": "French poodle",
+    "alt": ["poodle", "dog"],
+    "d": ["Persian cat", "white rabbit", "baby kangaroo"],
+    "x": 0,
+    "src": "Wikipedia: Betty Boop"
+  },
+  {
+    "id": "pop-37",
+    "topic": "Saber Sound",
+    "q": "Sound designer Ben Burtt made the lightsaber hum by mixing TV interference with the idling motor of an old _____.",
+    "a": "film projector",
+    "alt": ["projector", "movie projector", "film projectors", "projectors"],
+    "d": ["vacuum cleaner", "electric razor", "dentist's drill"],
+    "x": 0,
+    "src": "Wikipedia: Lightsaber"
+  },
+  {
+    "id": "pop-38",
+    "topic": "Early Gig",
+    "q": "Long before Hollywood, Whoopi Goldberg had a job doing hair and makeup at a _____.",
+    "a": "funeral home",
+    "alt": ["mortuary", "funeral parlor", "funeral parlour", "morgue"],
+    "d": ["dog groomer's", "wax museum", "clown college"],
+    "x": 0,
+    "src": "Oprah's Master Class (Whoopi Goldberg); Looper: The Untold Truth of Whoopi Goldberg"
+  },
+  {
+    "id": "pop-39",
+    "topic": "Monkey Business",
+    "q": "In the original manuscript that its authors carried out of Paris by bicycle in 1940, Curious George was called _____.",
+    "a": "Fifi",
+    "alt": [],
+    "d": ["Pierre", "Coco", "Jacques"],
+    "x": 0,
+    "src": "Wikipedia: Curious George"
+  },
+  {
+    "id": "pop-40",
+    "topic": "Rough Draft",
+    "q": "West Side Story was first imagined as _____, a love story across feuding Jewish and Catholic families.",
+    "a": "East Side Story",
+    "alt": [],
+    "d": ["Uptown Romeo", "Manhattan Melody", "Brooklyn Lovers"],
+    "x": 0,
+    "src": "Wikipedia: West Side Story"
+  },
+  {
+    "id": "pop-41",
+    "topic": "Pen Name",
+    "q": "Prince wrote the Bangles' hit Manic Monday but took the songwriting credit under the pseudonym _____.",
+    "a": "Christopher",
+    "alt": [],
+    "d": ["Lord Purple", "Julian Gray", "Mister Monday"],
+    "x": 0,
+    "src": "Wikipedia: Manic Monday"
+  },
+  {
+    "id": "pop-42",
+    "topic": "Script Notes",
+    "q": "Simpsons scripts don't spell out Homer's famous 'D'oh!'; it's traditionally written as _____.",
+    "a": "(annoyed grunt)",
+    "alt": ["annoyed grunt"],
+    "d": ["(frustrated groan)", "(Homer noise)", "(angry yelp)"],
+    "x": 0,
+    "src": "Wikipedia: D'oh!"
+  },
+  {
+    "id": "pop-43",
+    "topic": "Usual Suspects",
+    "q": "When the Mona Lisa vanished from the Louvre in 1911, police hauled in _____ for questioning.",
+    "a": "Pablo Picasso",
+    "alt": ["Picasso"],
+    "d": ["Henri Matisse", "Claude Monet", "Marcel Duchamp"],
+    "x": 0,
+    "src": "Wikipedia: Mona Lisa"
+  },
+  {
+    "id": "pop-44",
+    "topic": "Studio Memo",
+    "q": "A studio boss sent a memo insisting Back to the Future be retitled _____.",
+    "a": "Spaceman from Pluto",
+    "alt": ["Spaceman From Pluto"],
+    "d": ["Time Kid", "The Flux Capacitor Kid", "Marty's Wild Ride"],
+    "x": 0,
+    "src": "Wikipedia: Back to the Future"
+  },
+  {
+    "id": "pop-45",
+    "topic": "Bear Name",
+    "q": "The 'Pooh' in Winnie-the-Pooh was borrowed from a _____ that young Christopher Robin Milne had nicknamed Pooh.",
+    "a": "swan",
+    "alt": [],
+    "d": ["goldfish", "hedgehog", "squirrel"],
+    "x": 0,
+    "src": "Wikipedia: Winnie-the-Pooh"
+  },
+  {
+    "id": "pop-46",
+    "topic": "Loophole Pet",
+    "q": "Because his Cambridge college banned students from keeping dogs, Lord Byron kept a pet _____ there instead.",
+    "a": "bear",
+    "alt": ["tame bear"],
+    "d": ["goat", "peacock", "kangaroo"],
+    "x": 0,
+    "src": "Wikipedia: Lord Byron"
+  },
+  {
+    "id": "pop-47",
+    "topic": "Repeat Performance",
+    "q": "Erik Satie's short piano piece Vexations comes with a note suggesting the motif be played _____ times in a row.",
+    "a": "840",
+    "alt": ["eight hundred forty", "eight hundred and forty"],
+    "d": ["333", "1,000", "99"],
+    "x": 0,
+    "src": "Wikipedia: Vexations"
+  },
+  {
+    "id": "pop-48",
+    "topic": "Grouch Glow-Up",
+    "q": "Oscar the Grouch spent Sesame Street's first season with _____ fur before switching to green.",
+    "a": "orange",
+    "alt": ["orange-colored", "orange colored"],
+    "d": ["purple", "pink", "blue"],
+    "x": 0,
+    "src": "Wikipedia: Oscar the Grouch"
+  },
+  {
+    "id": "pop-49",
+    "topic": "Sweet Sponsor",
+    "q": "The 1971 film Willy Wonka & the Chocolate Factory was bankrolled by _____, which hoped to sell real Wonka Bars.",
+    "a": "Quaker Oats",
+    "alt": ["the Quaker Oats Company", "Quaker Oats Company", "Quaker"],
+    "d": ["Hershey's", "Kellogg's", "General Mills"],
+    "x": 0,
+    "src": "Wikipedia: Willy Wonka & the Chocolate Factory"
+  },
+  {
+    "id": "pop-50",
+    "topic": "Licence to Write",
+    "q": "Roald Dahl, author of Charlie and the Chocolate Factory, also wrote the screenplay for the James Bond film _____.",
+    "a": "You Only Live Twice",
+    "alt": [],
+    "d": ["Goldfinger", "Thunderball", "Dr. No"],
+    "x": 0,
+    "src": "Wikipedia: You Only Live Twice (film)"
+  },
+  {
+    "id": "pop-51",
+    "topic": "Homemade Axe",
+    "q": "Brian May built his famous Red Special guitar with his dad, carving its neck from an old _____.",
+    "a": "fireplace mantel",
+    "alt": ["fireplace", "mantel", "mantelpiece", "fireplace mantelpiece", "mantle", "fireplace mantle"],
+    "d": ["church pew", "rowing oar", "kitchen table"],
+    "x": 0,
+    "src": "Wikipedia: Red Special"
+  },
+  {
+    "id": "pop-52",
+    "topic": "Auction Win",
+    "q": "Nicolas Cage once outbid Leonardo DiCaprio for a _____, then had to hand it back when it turned out to have been stolen from Mongolia.",
+    "a": "dinosaur skull",
+    "alt": ["Tyrannosaurus skull", "T. rex skull", "T rex skull", "dino skull", "tyrannosaur skull", "Tarbosaurus skull"],
+    "d": ["samurai sword", "meteorite", "mummy"],
+    "x": 0,
+    "src": "CNN Money / Reuters (Dec 2015): Nicolas Cage returns his Tyrannosaurus skull to Mongolia"
+  },
+  {
+    "id": "pop-53",
+    "topic": "Working Title",
+    "q": "Woody Allen's working title for Annie Hall was _____, a term for the inability to feel pleasure.",
+    "a": "Anhedonia",
+    "alt": [],
+    "d": ["Dysphoria", "Neurotica", "Ennui"],
+    "x": 0,
+    "src": "Wikipedia: Annie Hall"
+  },
+  {
+    "id": "pop-54",
+    "topic": "Middle Name",
+    "q": "A 1942 cartoon revealed Donald Duck's full name on his draft notice: Donald _____ Duck.",
+    "a": "Fauntleroy",
+    "alt": [],
+    "d": ["Archibald", "Quackington", "Ebenezer"],
+    "x": 0,
+    "src": "Wikipedia: Donald Duck"
+  },
+  {
+    "id": "pop-55",
+    "topic": "Hole Story",
+    "q": "Before it became The Very Hungry Caterpillar, Eric Carle's book was a story called A Week with _____.",
+    "a": "Willi the Worm",
+    "alt": ["Willi Worm", "Willie the Worm", "Willy the Worm", "Willie Worm", "Willi"],
+    "d": ["Barry the Bookworm", "Sammy the Snail", "Lenny the Ladybug"],
+    "x": 0,
+    "src": "Wikipedia: The Very Hungry Caterpillar"
+  },
+  {
+    "id": "pop-56",
+    "topic": "Special Award",
+    "q": "Ventriloquist Edgar Bergen's honorary Oscar, presented in 1938, was made of _____ and had a movable mouth.",
+    "a": "wood",
+    "alt": ["wooden", "timber"],
+    "d": ["chocolate", "rubber", "papier-mache"],
+    "x": 0,
+    "src": "Wikipedia: Edgar Bergen; Wikipedia: Academy Honorary Award"
+  },
+  {
+    "id": "pop-57",
+    "topic": "Holiday Promo",
+    "q": "Rudolph the Red-Nosed Reindeer was dreamed up in 1939 as a free giveaway booklet for shoppers at _____.",
+    "a": "Montgomery Ward",
+    "alt": ["Montgomery Ward's", "Wards", "Ward's"],
+    "d": ["Macy's", "Sears", "Woolworth's"],
+    "x": 0,
+    "src": "Wikipedia: Rudolph the Red-Nosed Reindeer"
+  },
+  {
+    "id": "pop-58",
+    "topic": "Thinking Music",
+    "q": "Merv Griffin originally composed the Jeopardy! 'Think!' music as a _____ for his son.",
+    "a": "lullaby",
+    "alt": ["lullabye"],
+    "d": ["birthday song", "doorbell chime", "wedding march"],
+    "x": 0,
+    "src": "Wikipedia: Jeopardy!"
+  },
+  {
+    "id": "pop-59",
+    "topic": "Deleted Ending",
+    "q": "Dr. Strangelove was originally supposed to end with a giant _____ in the War Room, but Stanley Kubrick cut it.",
+    "a": "pie fight",
+    "alt": ["custard pie fight", "cream pie fight", "pie-fight", "pie-throwing fight", "food fight"],
+    "d": ["conga line", "musical number", "pillow fight"],
+    "x": 0,
+    "src": "Wikipedia: Dr. Strangelove"
+  },
+  {
+    "id": "pop-60",
+    "topic": "Before the Hat",
+    "q": "In early Toy Story treatments, Woody wasn't a cowboy doll but a _____.",
+    "a": "ventriloquist's dummy",
+    "alt": ["ventriloquist dummy", "dummy", "ventriloquist puppet", "ventriloquist doll"],
+    "d": ["jack-in-the-box", "wind-up robot", "sock puppet"],
+    "x": 0,
+    "src": "Wikipedia: Woody (Toy Story)"
+  }
+]

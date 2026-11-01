@@ -1,0 +1,602 @@
+[
+  {
+    "id": "fod-01",
+    "topic": "Uncola Secret",
+    "q": "Until 1948, the lemon-lime soft drink 7 Up contained _____, a compound that's now prescribed as a mood stabilizer.",
+    "a": "lithium",
+    "alt": ["lithium citrate", "lithium salts"],
+    "d": ["radium", "bromine", "quinine"],
+    "x": 0,
+    "src": "Wikipedia: 7 Up"
+  },
+  {
+    "id": "fod-02",
+    "topic": "Leftover Soda",
+    "q": "Fanta was invented in 1940 in Germany, when Coca-Cola syrup couldn't be imported. Early batches were made from apple pomace and _____, both leftovers from other food industries.",
+    "a": "whey",
+    "alt": ["milk whey", "cheese whey"],
+    "d": ["potato peels", "sauerkraut juice", "brewer's yeast"],
+    "x": 0,
+    "src": "Wikipedia: Fanta"
+  },
+  {
+    "id": "fod-03",
+    "topic": "Nebraska Bottle",
+    "q": "Before he turned it into a powder in 1927, Kool-Aid inventor Edwin Perkins sold his drink as a bottled liquid concentrate called _____.",
+    "a": "Fruit Smack",
+    "alt": ["Fruit-Smack"],
+    "d": ["Fizz Wizz", "Thirst-Ade", "Punch Pop"],
+    "x": 0,
+    "src": "Wikipedia: Kool-Aid"
+  },
+  {
+    "id": "fod-04",
+    "topic": "Hillbilly Origins",
+    "q": "Two Tennessee bottlers created Mountain Dew in the 1940s as a mixer for _____.",
+    "a": "whiskey",
+    "alt": ["whisky", "moonshine", "bourbon"],
+    "d": ["gin", "rum", "brandy"],
+    "x": 0,
+    "src": "Wikipedia: Mountain Dew"
+  },
+  {
+    "id": "fod-05",
+    "topic": "Chilly Arrivals",
+    "q": "Irish coffee was first served in the 1940s at Foynes, Ireland, to warm up cold, tired passengers arriving by _____.",
+    "a": "flying boat",
+    "alt": ["flying boats", "seaplane", "seaplanes"],
+    "d": ["steam train", "fishing trawler", "zeppelin"],
+    "x": 0,
+    "src": "Wikipedia: Irish coffee"
+  },
+  {
+    "id": "fod-06",
+    "topic": "Divine Brew",
+    "q": "A Sumerian hymn nearly 4,000 years old doubles as one of the world's oldest beer recipes. It praises _____, the goddess of beer.",
+    "a": "Ninkasi",
+    "alt": [],
+    "d": ["Ishmalta", "Barlubu", "Zymara"],
+    "x": 0,
+    "src": "Wikipedia: Ninkasi"
+  },
+  {
+    "id": "fod-07",
+    "topic": "Ancient Vintage",
+    "q": "The oldest known unopened bottle of wine, sealed in the 4th century AD, is on display in a museum in _____, Germany.",
+    "a": "Speyer",
+    "alt": [],
+    "d": ["Trier", "Mainz", "Heidelberg"],
+    "x": 0,
+    "src": "Wikipedia: Speyer wine bottle"
+  },
+  {
+    "id": "fod-08",
+    "topic": "Barrel Losses",
+    "q": "Distillers have a traditional name for the whisky that evaporates out of the barrels while it ages: the '_____ share.'",
+    "a": "angels'",
+    "alt": ["angels", "angel's", "angel"],
+    "d": ["fairies'", "taxman's", "ghosts'"],
+    "x": 0,
+    "src": "Wikipedia: Angels' share"
+  },
+  {
+    "id": "fod-09",
+    "topic": "Pint Shade",
+    "q": "Guinness looks black in the glass, but the brewery insists it's actually a very dark shade of _____.",
+    "a": "ruby red",
+    "alt": ["ruby", "red", "dark red"],
+    "d": ["navy blue", "forest green", "eggplant purple"],
+    "x": 0,
+    "src": "Wikipedia: Guinness"
+  },
+  {
+    "id": "fod-10",
+    "topic": "Cold War Barter",
+    "q": "In a 1989 barter deal with the Soviet Union, PepsiCo briefly took ownership of 17 Soviet _____, which were quickly sold off for scrap.",
+    "a": "submarines",
+    "alt": ["submarine", "subs", "warships"],
+    "d": ["fighter jets", "tanks", "helicopters"],
+    "x": 0,
+    "src": "History.com: Pepsi's Soviet navy; New York Times, May 1989"
+  },
+  {
+    "id": "fod-11",
+    "topic": "Premium Roast",
+    "q": "Thailand's Black Ivory Coffee, one of the world's priciest, is made from beans that have been eaten and passed by _____.",
+    "a": "elephants",
+    "alt": ["elephant", "Thai elephants"],
+    "d": ["water buffalo", "pythons", "goats"],
+    "x": 0,
+    "src": "Wikipedia: Black Ivory Coffee; NPR (2014)"
+  },
+  {
+    "id": "fod-12",
+    "topic": "Mountain Secret",
+    "q": "Hidden inside the mountain on Toblerone's classic logo is the outline of a _____.",
+    "a": "bear",
+    "alt": ["dancing bear", "standing bear"],
+    "d": ["goat", "skier", "cow"],
+    "x": 0,
+    "src": "Wikipedia: Toblerone"
+  },
+  {
+    "id": "fod-13",
+    "topic": "Double M",
+    "q": "The two M's in M&M's stand for the surnames of the candy's founders: Forrest Mars and Bruce _____.",
+    "a": "Murrie",
+    "alt": [],
+    "d": ["Milton", "Morgan", "Mueller"],
+    "x": 0,
+    "src": "Wikipedia: M&M's"
+  },
+  {
+    "id": "fod-14",
+    "topic": "Dispenser Name",
+    "q": "The candy brand PEZ takes its name from the German word for _____.",
+    "a": "peppermint",
+    "alt": ["Pfefferminz", "Pfefferminze", "mint"],
+    "d": ["pocket", "pebble", "treat"],
+    "x": 0,
+    "src": "Wikipedia: PEZ"
+  },
+  {
+    "id": "fod-15",
+    "topic": "Lucky Break",
+    "q": "Japanese students often get Kit Kats as a good-luck gift before _____, since the name sounds like a phrase meaning 'you will surely win.'",
+    "a": "exams",
+    "alt": ["entrance exams", "exam", "tests", "school exams", "big tests"],
+    "d": ["sports day", "graduation", "the school play"],
+    "x": 0,
+    "src": "Wikipedia: Kit Kats in Japan"
+  },
+  {
+    "id": "fod-16",
+    "topic": "Kernel Branding",
+    "q": "The Goelitz candy company, which later became Jelly Belly, once sold its candy corn in boxes labeled _____.",
+    "a": "Chicken Feed",
+    "alt": [],
+    "d": ["Harvest Kernels", "Scarecrow Snacks", "Sweet Cob"],
+    "x": 0,
+    "src": "Wikipedia: Candy corn"
+  },
+  {
+    "id": "fod-17",
+    "topic": "Combat Chocolate",
+    "q": "The U.S. Army asked Hershey to make its WWII 'Ration D' chocolate bar taste only a little better than a boiled _____, so soldiers wouldn't snack on it.",
+    "a": "potato",
+    "alt": ["potatoes"],
+    "d": ["turnip", "shoe", "cabbage"],
+    "x": 0,
+    "src": "Wikipedia: Military chocolate (United States)"
+  },
+  {
+    "id": "fod-18",
+    "topic": "Pink Bubble",
+    "q": "Walter Diemer invented bubble gum in 1928 while working in the _____ department of the Fleer candy company.",
+    "a": "accounting",
+    "alt": ["accounts", "bookkeeping", "finance"],
+    "d": ["shipping", "janitorial", "security"],
+    "x": 0,
+    "src": "Wikipedia: Walter Diemer"
+  },
+  {
+    "id": "fod-19",
+    "topic": "Spun Sugar",
+    "q": "The electric cotton candy machine was co-invented in 1897 by a candy maker and William Morrison, a _____.",
+    "a": "dentist",
+    "alt": [],
+    "d": ["pharmacist", "barber", "magician"],
+    "x": 0,
+    "src": "Wikipedia: Cotton candy"
+  },
+  {
+    "id": "fod-20",
+    "topic": "Sweet Town",
+    "q": "Along the main drag of Hershey, Pennsylvania, the _____ are shaped like Hershey's Kisses.",
+    "a": "streetlights",
+    "alt": ["street lights", "streetlamps", "street lamps", "lampposts"],
+    "d": ["fire hydrants", "mailboxes", "traffic cones"],
+    "x": 0,
+    "src": "Wikipedia: Hershey, Pennsylvania"
+  },
+  {
+    "id": "fod-21",
+    "topic": "Squeeze Play",
+    "q": "Heinz's first colored ketchup, launched for kids in 2000, was called Blastin' _____.",
+    "a": "Green",
+    "alt": [],
+    "d": ["Black", "Silver", "Gold"],
+    "x": 0,
+    "src": "Mental Floss: The Rise and Fall of Heinz's Green Ketchup"
+  },
+  {
+    "id": "fod-22",
+    "topic": "Magically Named",
+    "q": "General Mills has an official name for the marshmallow pieces in Lucky Charms: _____.",
+    "a": "marbits",
+    "alt": ["marshmallow bits", "marbit"],
+    "d": ["charmallows", "lucky bits", "mallowmarks"],
+    "x": 0,
+    "src": "Wikipedia: Lucky Charms"
+  },
+  {
+    "id": "fod-23",
+    "topic": "Captain's Papers",
+    "q": "According to the cereal's makers, Cap'n Crunch's full name is _____ Magellan Crunch.",
+    "a": "Horatio",
+    "alt": [],
+    "d": ["Bartholomew", "Cornelius", "Archibald"],
+    "x": 0,
+    "src": "ABC News (2013): Is Cap'n Crunch a Real Captain?"
+  },
+  {
+    "id": "fod-24",
+    "topic": "Original Menu",
+    "q": "When Richard and Maurice McDonald opened their San Bernardino drive-in in 1940, it specialized in _____.",
+    "a": "barbecue",
+    "alt": ["BBQ", "bar-b-q", "barbeque"],
+    "d": ["fried fish", "pancakes", "tamales"],
+    "x": 0,
+    "src": "Wikipedia: McDonald's"
+  },
+  {
+    "id": "fod-25",
+    "topic": "Clown Career",
+    "q": "Willard Scott, who played Ronald McDonald in the clown's first TV commercials in 1963, later became famous as a _____.",
+    "a": "TV weatherman",
+    "alt": ["weatherman", "weather forecaster", "meteorologist", "weather presenter"],
+    "d": ["game show host", "U.S. congressman", "rodeo announcer"],
+    "x": 0,
+    "src": "Wikipedia: Willard Scott"
+  },
+  {
+    "id": "fod-26",
+    "topic": "Initial Confusion",
+    "q": "Arby's isn't short for 'roast beef.' The name comes from the initials R.B., which stand for _____.",
+    "a": "Raffel Brothers",
+    "alt": ["the Raffel brothers", "Raffel Bros"],
+    "d": ["Royal Burger", "Rodeo Barn", "Russell Bradley"],
+    "x": 0,
+    "src": "Wikipedia: Arby's"
+  },
+  {
+    "id": "fod-27",
+    "topic": "Chicken Namesake",
+    "q": "Founder Al Copeland said he named Popeyes not after the cartoon sailor but after a _____ in the 1971 film The French Connection.",
+    "a": "detective",
+    "alt": ["cop", "police detective", "narcotics detective", "policeman"],
+    "d": ["drug smuggler", "getaway driver", "hit man"],
+    "x": 0,
+    "src": "Wikipedia: Popeyes"
+  },
+  {
+    "id": "fod-28",
+    "topic": "Disaster Gauge",
+    "q": "FEMA officials have informally used the '_____ Index' to judge how badly a disaster has hit a community.",
+    "a": "Waffle House",
+    "alt": [],
+    "d": ["Walmart", "Cracker Barrel", "Dunkin'"],
+    "x": 0,
+    "src": "Wikipedia: Waffle House Index"
+  },
+  {
+    "id": "fod-29",
+    "topic": "Big Purchase",
+    "q": "On April Fools' Day 1996, Taco Bell ran full-page newspaper ads announcing that it had bought the _____.",
+    "a": "Liberty Bell",
+    "alt": ["the Liberty Bell", "Taco Liberty Bell"],
+    "d": ["Alamo", "Statue of Liberty", "Hollywood sign"],
+    "x": 0,
+    "src": "Wikipedia: Taco Liberty Bell"
+  },
+  {
+    "id": "fod-30",
+    "topic": "Long-Distance Delivery",
+    "q": "Back in 2001, _____ paid to have a pizza delivered to the International Space Station.",
+    "a": "Pizza Hut",
+    "alt": [],
+    "d": ["Domino's", "Papa John's", "Little Caesars"],
+    "x": 0,
+    "src": "Wikipedia: Pizza Hut"
+  },
+  {
+    "id": "fod-31",
+    "topic": "Old Kitchen",
+    "q": "Guinness World Records lists Sobrino de Botin, serving diners since 1725, as the oldest restaurant in the world. It's in _____.",
+    "a": "Madrid",
+    "alt": ["Madrid, Spain", "Spain"],
+    "d": ["Lisbon", "Vienna", "Paris"],
+    "x": 0,
+    "src": "Wikipedia: Sobrino de Botin"
+  },
+  {
+    "id": "fod-32",
+    "topic": "Meatless Flop",
+    "q": "Ray Kroc's meatless rival to the Filet-O-Fish was the Hula Burger: a slice of grilled _____ and cheese on a bun.",
+    "a": "pineapple",
+    "alt": ["pineapple ring"],
+    "d": ["eggplant", "watermelon", "portobello mushroom"],
+    "x": 0,
+    "src": "Wikipedia: Filet-O-Fish"
+  },
+  {
+    "id": "fod-33",
+    "topic": "Offal Import",
+    "q": "In 1971, U.S. food rules effectively banned traditional Scottish haggis, because one of its key ingredients is sheep _____.",
+    "a": "lung",
+    "alt": ["lungs"],
+    "d": ["eyeballs", "brain", "blood"],
+    "x": 0,
+    "src": "Wikipedia: Haggis"
+  },
+  {
+    "id": "fod-34",
+    "topic": "Sardinian Specialty",
+    "q": "Casu marzu, a sheep's-milk cheese from Sardinia, is deliberately infested with live _____.",
+    "a": "maggots",
+    "alt": ["maggot", "larvae", "fly larvae", "cheese fly larvae", "insect larvae"],
+    "d": ["ants", "snails", "earthworms"],
+    "x": 0,
+    "src": "Wikipedia: Casu martzu"
+  },
+  {
+    "id": "fod-35",
+    "topic": "Nordic Delicacy",
+    "q": "Hakarl, a famously pungent Icelandic delicacy, is fermented and air-dried _____ meat.",
+    "a": "shark",
+    "alt": ["Greenland shark", "sleeper shark"],
+    "d": ["puffin", "seal", "reindeer"],
+    "x": 0,
+    "src": "Wikipedia: Hakarl"
+  },
+  {
+    "id": "fod-36",
+    "topic": "Not a Bird",
+    "q": "Despite its name, Bombay duck, a delicacy in Mumbai, is actually a _____.",
+    "a": "fish",
+    "alt": ["lizardfish", "a fish", "dried fish"],
+    "d": ["lentil fritter", "pickled mango", "fried flatbread"],
+    "x": 0,
+    "src": "Wikipedia: Bombay duck"
+  },
+  {
+    "id": "fod-37",
+    "topic": "No Bread Here",
+    "q": "Sweetbreads, served in fancy restaurants, aren't bread at all. They're usually the _____ of a calf or lamb.",
+    "a": "thymus gland",
+    "alt": ["thymus", "thymus glands", "pancreas", "glands"],
+    "d": ["eyelids", "earlobes", "tail fat"],
+    "x": 0,
+    "src": "Wikipedia: Sweetbread"
+  },
+  {
+    "id": "fod-38",
+    "topic": "Priciest Cheese",
+    "q": "Pule, often called the world's most expensive cheese, is made in Serbia mostly from the milk of _____.",
+    "a": "donkeys",
+    "alt": ["donkey", "Balkan donkeys", "asses"],
+    "d": ["reindeer", "camels", "yaks"],
+    "x": 0,
+    "src": "Wikipedia: Pule cheese"
+  },
+  {
+    "id": "fod-39",
+    "topic": "Secured Loan",
+    "q": "Since 1953, the Italian bank Credito Emiliano has accepted _____ as collateral for loans, aging them in its own vaults.",
+    "a": "wheels of Parmesan",
+    "alt": ["Parmesan", "Parmigiano-Reggiano", "Parmesan cheese", "parmigiano", "cheese wheels", "cheese"],
+    "d": ["bottles of Barolo", "legs of prosciutto", "white truffles"],
+    "x": 0,
+    "src": "Wikipedia: Credito Emiliano"
+  },
+  {
+    "id": "fod-40",
+    "topic": "Holey Mystery",
+    "q": "Swiss researchers concluded in 2015 that the holes in cheeses like Emmental form around microscopic bits of _____ in the milk.",
+    "a": "hay",
+    "alt": ["hay particles", "straw"],
+    "d": ["sand", "rust", "beeswax"],
+    "x": 0,
+    "src": "Agroscope press release (May 2015); Wikipedia: Swiss cheese"
+  },
+  {
+    "id": "fod-41",
+    "topic": "Table Manners",
+    "q": "Lovingly placing a mouthful of food directly into a dining companion's mouth is an Ethiopian custom called _____.",
+    "a": "gursha",
+    "alt": [],
+    "d": ["fikir", "mesob", "dabo"],
+    "x": 0,
+    "src": "Cultural Atlas (SBS): Ethiopian Culture"
+  },
+  {
+    "id": "fod-42",
+    "topic": "Original Filling",
+    "q": "Twinkies were originally filled with _____ cream, until WWII rationing forced a switch to vanilla.",
+    "a": "banana",
+    "alt": [],
+    "d": ["strawberry", "maple", "coconut"],
+    "x": 0,
+    "src": "Wikipedia: Twinkie"
+  },
+  {
+    "id": "fod-43",
+    "topic": "Frozen Rebrand",
+    "q": "Frank Epperson originally called his frozen treat on a stick the _____, before his kids talked him into a new name.",
+    "a": "Epsicle",
+    "alt": ["Epsicles"],
+    "d": ["Frosticle", "Icy Stick", "Freezle Pop"],
+    "x": 0,
+    "src": "Wikipedia: Popsicle (brand)"
+  },
+  {
+    "id": "fod-44",
+    "topic": "After-Hours Snack",
+    "q": "Nachos were improvised in 1943 in Piedras Negras, Mexico, for a group of wives of American _____ who showed up after the kitchen had closed.",
+    "a": "soldiers",
+    "alt": ["soldier", "servicemen", "army officers", "GIs", "troops"],
+    "d": ["oilmen", "bullfighters", "senators"],
+    "x": 0,
+    "src": "Wikipedia: Nachos"
+  },
+  {
+    "id": "fod-45",
+    "topic": "Dressing Down",
+    "q": "Steve Henson came up with ranch dressing in the early 1950s while working in Alaska as a _____.",
+    "a": "plumber",
+    "alt": ["plumbing contractor"],
+    "d": ["fur trapper", "gold miner", "bush pilot"],
+    "x": 0,
+    "src": "Wikipedia: Ranch dressing"
+  },
+  {
+    "id": "fod-46",
+    "topic": "Chip Birthplace",
+    "q": "Doritos were born at a restaurant inside _____, where staff fried up leftover tortillas instead of throwing them out.",
+    "a": "Disneyland",
+    "alt": ["Disney Land", "Disneyland's Casa de Fritos"],
+    "d": ["a Las Vegas casino", "an Army base", "the Alamo"],
+    "x": 0,
+    "src": "Wikipedia: Doritos"
+  },
+  {
+    "id": "fod-47",
+    "topic": "Tax Tribunal",
+    "q": "McVitie's won a 1991 UK tax case by arguing Jaffa Cakes are cakes, not biscuits. One key point: when they go stale, they turn _____.",
+    "a": "hard",
+    "alt": ["rock hard", "firm"],
+    "d": ["soggy", "chewy", "sticky"],
+    "x": 0,
+    "src": "Wikipedia: Jaffa Cakes"
+  },
+  {
+    "id": "fod-48",
+    "topic": "Danish Disguise",
+    "q": "Haagen-Dazs is a made-up name designed to sound Scandinavian. The brand was actually founded in 1960 in _____.",
+    "a": "the Bronx",
+    "alt": ["Bronx", "the Bronx, New York", "New York", "New York City", "NYC"],
+    "d": ["Minneapolis", "Milwaukee", "New Jersey"],
+    "x": 0,
+    "src": "Wikipedia: Haagen-Dazs"
+  },
+  {
+    "id": "fod-49",
+    "topic": "Misleading Label",
+    "q": "The cream cheese later sold as 'Philadelphia' was first made in 1872 in _____.",
+    "a": "New York",
+    "alt": ["New York State", "Chester, New York", "upstate New York", "NY"],
+    "d": ["Wisconsin", "Vermont", "Delaware"],
+    "x": 0,
+    "src": "Wikipedia: Cream cheese"
+  },
+  {
+    "id": "fod-50",
+    "topic": "First Mention",
+    "q": "Bagels first appear in writing in 1610, in community rules from Krakow that mention them as a gift for women _____.",
+    "a": "in childbirth",
+    "alt": ["giving birth", "who had given birth", "after childbirth", "who just gave birth"],
+    "d": ["on their wedding day", "in mourning", "entering a convent"],
+    "x": 0,
+    "src": "Wikipedia: Bagel"
+  },
+  {
+    "id": "fod-51",
+    "topic": "Future Dessert",
+    "q": "Dippin' Dots were invented in 1988 by Curt Jones, a _____ who had been flash-freezing animal feed with liquid nitrogen.",
+    "a": "microbiologist",
+    "alt": ["scientist", "biologist"],
+    "d": ["rocket engineer", "dairy farmer", "veterinarian"],
+    "x": 0,
+    "src": "Wikipedia: Dippin' Dots; Smithsonian Magazine"
+  },
+  {
+    "id": "fod-52",
+    "topic": "Hot Sauce Hometown",
+    "q": "Sriracha hot sauce is named after Si Racha, a coastal city in _____.",
+    "a": "Thailand",
+    "alt": [],
+    "d": ["Vietnam", "Malaysia", "Indonesia"],
+    "x": 0,
+    "src": "Wikipedia: Sriracha"
+  },
+  {
+    "id": "fod-53",
+    "topic": "Pollination Breakthrough",
+    "q": "The hand-pollination method that made vanilla farming practical was discovered in 1841 by Edmond Albius, a 12-year-old enslaved boy on the island of _____.",
+    "a": "Reunion",
+    "alt": ["Réunion", "La Reunion", "Reunion Island", "Bourbon"],
+    "d": ["Madagascar", "Mauritius", "Tahiti"],
+    "x": 0,
+    "src": "Wikipedia: Edmond Albius"
+  },
+  {
+    "id": "fod-54",
+    "topic": "Cookie Namesake",
+    "q": "Fig Newtons aren't named after Sir Isaac. They're named after _____.",
+    "a": "Newton, Massachusetts",
+    "alt": ["a town in Massachusetts", "Newton, Mass.", "Newton MA", "the town of Newton", "Newton"],
+    "d": ["a Boston mayor", "a Nabisco racehorse", "the baker's cat"],
+    "x": 0,
+    "src": "Wikipedia: Fig Newtons"
+  },
+  {
+    "id": "fod-55",
+    "topic": "Polka Dots",
+    "q": "Wonder Bread's name and the colorful dots on its wrapper were inspired by an executive's visit to a _____ race.",
+    "a": "balloon",
+    "alt": ["hot-air balloon", "hot air balloon", "gas balloon", "balloons"],
+    "d": ["stock car", "horse", "soapbox derby"],
+    "x": 0,
+    "src": "Wikipedia: Wonder Bread"
+  },
+  {
+    "id": "fod-56",
+    "topic": "Flaming Namesake",
+    "q": "Bananas Foster is named after Richard Foster, a friend of the New Orleans restaurant's owner who chaired the city's _____.",
+    "a": "Crime Commission",
+    "alt": ["New Orleans Crime Commission"],
+    "d": ["Jazz Society", "Mardi Gras committee", "Banana Importers' Guild"],
+    "x": 0,
+    "src": "Wikipedia: Bananas Foster"
+  },
+  {
+    "id": "fod-57",
+    "topic": "Hollywood Gift",
+    "q": "According to the Roman restaurant that made fettuccine Alfredo famous, silent film stars Mary Pickford and Douglas Fairbanks gave its creator a golden _____.",
+    "a": "fork and spoon",
+    "alt": ["fork & spoon", "spoon and fork", "fork", "spoon"],
+    "d": ["pasta pot", "rolling pin", "cheese grater"],
+    "x": 0,
+    "src": "Wikipedia: Fettuccine Alfredo"
+  },
+  {
+    "id": "fod-58",
+    "topic": "Cheap Education",
+    "q": "Ben Cohen and Jerry Greenfield learned to make ice cream by splitting the cost of a $5 _____ from Penn State.",
+    "a": "correspondence course",
+    "alt": ["mail-order course", "course by mail", "correspondence class", "course"],
+    "d": ["used freezer", "dairy cow", "summer camp"],
+    "x": 0,
+    "src": "CNBC (2019): Ben & Jerry's founders started out by taking a $5 ice cream class"
+  },
+  {
+    "id": "fod-59",
+    "topic": "Imperial Contest",
+    "q": "Margarine was invented by a French chemist in 1869 to win a prize offered by _____ for a cheap butter substitute.",
+    "a": "Napoleon III",
+    "alt": ["Emperor Napoleon III", "Louis-Napoleon", "Louis Napoleon", "Napoleon"],
+    "d": ["Queen Victoria", "the Pope", "Louis Pasteur"],
+    "x": 0,
+    "src": "Wikipedia: Margarine"
+  },
+  {
+    "id": "fod-60",
+    "topic": "Takeout Origins",
+    "q": "General Tso's chicken was invented in the 1950s by chef Peng Chang-kuei, who created it in _____.",
+    "a": "Taiwan",
+    "alt": ["Taipei"],
+    "d": ["Hong Kong", "San Francisco", "Hunan"],
+    "x": 0,
+    "src": "Wikipedia: General Tso's chicken"
+  }
+]

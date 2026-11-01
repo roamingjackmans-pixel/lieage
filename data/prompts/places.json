@@ -1,0 +1,602 @@
+[
+  {
+    "id": "wld-01",
+    "topic": "Sister Cities",
+    "q": "Since 2012, the town of Boring, Oregon, has been officially paired with a Scottish village called _____.",
+    "a": "Dull",
+    "alt": ["Dull, Scotland"],
+    "d": ["Drab", "Glum", "Dreary"],
+    "x": 0,
+    "src": "Wikipedia: Boring, Oregon; Dull, Perth and Kinross"
+  },
+  {
+    "id": "wld-02",
+    "topic": "Name Taken",
+    "q": "According to its best-known origin story, Peculiar, Missouri, got its odd name after the postmaster's first choice was rejected because another Missouri town already had it. That first choice was _____.",
+    "a": "Excelsior",
+    "alt": [],
+    "d": ["Paradise", "Eden", "Prosperity"],
+    "x": 0,
+    "src": "Wikipedia: Peculiar, Missouri"
+  },
+  {
+    "id": "wld-03",
+    "topic": "Plan B",
+    "q": "Santa Claus, Indiana, only chose its jolly name after the Post Office turned down its original one, _____, because the state already had a town called that.",
+    "a": "Santa Fe",
+    "alt": ["Santa Fe, Indiana"],
+    "d": ["Bethlehem", "Noel", "St. Nicholas"],
+    "x": 0,
+    "src": "Wikipedia: Santa Claus, Indiana"
+  },
+  {
+    "id": "wld-04",
+    "topic": "Three-Letter Rule",
+    "q": "An Arizona town grew up where two highways met in a Y shape. Locals wanted to call it 'Y', but state rules required place names to have at least three letters, so it became _____.",
+    "a": "Why",
+    "alt": ["Why, Arizona"],
+    "d": ["Wye", "Yonder", "Ypsilon"],
+    "x": 0,
+    "src": "Wikipedia: Why, Arizona"
+  },
+  {
+    "id": "wld-05",
+    "topic": "Spelling Bee",
+    "q": "As the local story goes, gold miners in one Alaska settlement wanted to name it after the ptarmigan, a common local bird, but couldn't agree how to spell it. So they named the town _____.",
+    "a": "Chicken",
+    "alt": ["Chicken, Alaska"],
+    "d": ["Goose", "Birdville", "Grouse"],
+    "x": 0,
+    "src": "Wikipedia: Chicken, Alaska"
+  },
+  {
+    "id": "wld-06",
+    "topic": "Nothing Unusual",
+    "q": "Normal, Illinois, is named after a 'normal school', the old term for a college that trained _____.",
+    "a": "teachers",
+    "alt": ["teacher", "schoolteachers", "school teachers"],
+    "d": ["nurses", "surveyors", "clergymen"],
+    "x": 0,
+    "src": "Wikipedia: Normal, Illinois; Normal school"
+  },
+  {
+    "id": "wld-07",
+    "topic": "Welcome Sign",
+    "q": "Tourists love posing beside the sign for the village of Hell, Norway, but in modern Norwegian 'hell' is an everyday word meaning _____.",
+    "a": "luck",
+    "alt": ["good luck", "fortune", "good fortune"],
+    "d": ["hello", "cheers", "frost"],
+    "x": 0,
+    "src": "Wikipedia: Hell, Norway; Hell Tunnel"
+  },
+  {
+    "id": "wld-08",
+    "topic": "Name Dispute",
+    "q": "In 2008, the mayor of _____, a city in southeastern Turkey, announced plans to sue Warner Bros. for using his city's name in a blockbuster without permission.",
+    "a": "Batman",
+    "alt": ["Batman, Turkey"],
+    "d": ["Titanic", "Avatar", "Rambo"],
+    "x": 0,
+    "src": "Wikipedia: Batman, Turkey"
+  },
+  {
+    "id": "wld-09",
+    "topic": "Nickname Source",
+    "q": "New York's nickname 'Gotham' comes from an English village whose residents, legend says, scared off a visit from King John by pretending to be _____.",
+    "a": "mad",
+    "alt": ["insane", "crazy", "madmen", "lunatics", "fools", "idiots", "mad men"],
+    "d": ["dead", "lepers", "plague victims"],
+    "x": 0,
+    "src": "Wikipedia: Gotham, Nottinghamshire; Wise Men of Gotham"
+  },
+  {
+    "id": "wld-10",
+    "topic": "Longest Name",
+    "q": "The famously enormous 58-letter name of a village on Anglesey, Wales, was invented in the 1860s as a publicity stunt, so that the village's _____ would have the longest name of any in Britain.",
+    "a": "railway station",
+    "alt": ["train station", "station", "railroad station", "rail station"],
+    "d": ["post office", "pub", "lighthouse"],
+    "x": 0,
+    "src": "Wikipedia: Llanfairpwllgwyngyll"
+  },
+  {
+    "id": "wld-11",
+    "topic": "Sign Thieves",
+    "q": "Fed up with tourists stealing its road signs, an Austrian village whose old name looked like an English swear word officially renamed itself on January 1, 2021. It is now called _____.",
+    "a": "Fugging",
+    "alt": [],
+    "d": ["Fudging", "Fuggen", "Flocking"],
+    "x": 1,
+    "src": "Wikipedia: Fugging, Upper Austria"
+  },
+  {
+    "id": "wld-12",
+    "topic": "Border House",
+    "q": "In Baarle, a town tangled across the Belgian-Dutch border, a house that straddles the line legally belongs to whichever country its _____ is in.",
+    "a": "front door",
+    "alt": ["door", "front entrance", "entrance", "main door"],
+    "d": ["toilet", "kitchen sink", "master bed"],
+    "x": 0,
+    "src": "Wikipedia: Baarle-Hertog"
+  },
+  {
+    "id": "wld-13",
+    "topic": "Split Venue",
+    "q": "The Haskell Opera House straddles the US-Canada border: you walk in through the front door in Vermont, but the _____ is in Quebec.",
+    "a": "stage",
+    "alt": ["the stage"],
+    "d": ["dance floor", "bowling alley", "boxing ring"],
+    "x": 0,
+    "src": "Wikipedia: Haskell Free Library and Opera House"
+  },
+  {
+    "id": "wld-14",
+    "topic": "Unwanted Land",
+    "q": "Thanks to two competing border lines, Bir Tawil, a stretch of desert between Egypt and Sudan, is claimed by _____.",
+    "a": "no country",
+    "alt": ["neither", "neither country", "nobody", "no one", "no nation", "neither of them"],
+    "d": ["both countries", "the United Nations", "a Bedouin king"],
+    "x": 0,
+    "src": "Wikipedia: Bir Tawil"
+  },
+  {
+    "id": "wld-15",
+    "topic": "Map Glitch",
+    "q": "Buggy mapping software often dumps bad data at zero latitude and zero longitude, a spot in the Atlantic off West Africa that map nerds jokingly call _____.",
+    "a": "Null Island",
+    "alt": [],
+    "d": ["Zero Point", "Error Atoll", "Origin Bay"],
+    "x": 0,
+    "src": "Wikipedia: Null Island"
+  },
+  {
+    "id": "wld-16",
+    "topic": "Small Town",
+    "q": "Nearly everyone in Whittier, Alaska, lives in the same _____.",
+    "a": "building",
+    "alt": ["apartment building", "tower", "high-rise", "apartment block", "14-story building", "Begich Towers", "tower block"],
+    "d": ["cruise ship", "trailer park", "houseboat"],
+    "x": 0,
+    "src": "Wikipedia: Whittier, Alaska; Begich Towers"
+  },
+  {
+    "id": "wld-17",
+    "topic": "City Limits",
+    "q": "Most of the famous Las Vegas Strip lies outside Las Vegas city limits, largely in an unincorporated town with the fitting name of _____.",
+    "a": "Paradise",
+    "alt": ["Paradise, Nevada", "Paradise, NV"],
+    "d": ["Fortune", "Lucky", "Jackpot"],
+    "x": 0,
+    "src": "Wikipedia: Las Vegas Strip; Paradise, Nevada"
+  },
+  {
+    "id": "wld-18",
+    "topic": "Lady's Day Job",
+    "q": "From 1886 to 1902, the Statue of Liberty was officially operated as a _____.",
+    "a": "lighthouse",
+    "alt": ["light house", "beacon", "navigation light"],
+    "d": ["weather station", "post office", "fire lookout"],
+    "x": 0,
+    "src": "Wikipedia: Statue of Liberty"
+  },
+  {
+    "id": "wld-19",
+    "topic": "Texas Paris",
+    "q": "Paris, Texas, has its own 65-foot Eiffel Tower replica, crowned with a giant red _____.",
+    "a": "cowboy hat",
+    "alt": ["hat", "Stetson", "ten-gallon hat"],
+    "d": ["cowboy boot", "lone star", "longhorn skull"],
+    "x": 0,
+    "src": "Wikipedia: Eiffel Tower (Paris, Texas)"
+  },
+  {
+    "id": "wld-20",
+    "topic": "Soak It Up",
+    "q": "The word 'spa' comes from Spa, a town in _____ that has been famous for centuries for its healing mineral springs.",
+    "a": "Belgium",
+    "alt": [],
+    "d": ["Austria", "Switzerland", "Germany"],
+    "x": 0,
+    "src": "Etymonline: spa; Wikipedia: Spa, Belgium"
+  },
+  {
+    "id": "wld-21",
+    "topic": "Flex Appeal",
+    "q": "The word 'muscle' comes from a Latin word meaning 'little _____'.",
+    "a": "mouse",
+    "alt": ["mice"],
+    "d": ["snake", "pillow", "fist"],
+    "x": 0,
+    "src": "Etymonline: muscle"
+  },
+  {
+    "id": "wld-22",
+    "topic": "Room With a View",
+    "q": "'Window' comes from an Old Norse word that literally meant 'wind _____'.",
+    "a": "eye",
+    "alt": ["eyes"],
+    "d": ["hole", "door", "mouth"],
+    "x": 0,
+    "src": "Etymonline: window"
+  },
+  {
+    "id": "wld-23",
+    "topic": "Bad Dreams",
+    "q": "The 'mare' in 'nightmare' has nothing to do with horses: it was a _____ believed to sit on people's chests while they slept.",
+    "a": "goblin",
+    "alt": ["evil spirit", "spirit", "demon", "incubus", "monster", "hag", "fiend"],
+    "d": ["giant toad", "ghost cat", "dead relative"],
+    "x": 0,
+    "src": "Etymonline: nightmare; mare (n.2)"
+  },
+  {
+    "id": "wld-24",
+    "topic": "Flat Broke",
+    "q": "'Bankrupt' comes from Italian words that literally mean a broken _____.",
+    "a": "bench",
+    "alt": ["table", "counter", "banker's bench"],
+    "d": ["piggy bank", "promise", "abacus"],
+    "x": 0,
+    "src": "Etymonline: bankrupt"
+  },
+  {
+    "id": "wld-25",
+    "topic": "Detective Work",
+    "q": "'Clue' is a respelling of 'clew', an old word for a ball of _____.",
+    "a": "thread",
+    "alt": ["yarn", "string", "twine"],
+    "d": ["wax", "dough", "dung"],
+    "x": 0,
+    "src": "Etymonline: clue"
+  },
+  {
+    "id": "wld-26",
+    "topic": "Spellbinding",
+    "q": "'Glamour' began in the 1700s as a Scottish variant of the word _____, from an old link between book learning and magic.",
+    "a": "grammar",
+    "alt": ["gramarye"],
+    "d": ["glimmer", "clamor", "armor"],
+    "x": 0,
+    "src": "Etymonline: glamour"
+  },
+  {
+    "id": "wld-27",
+    "topic": "Family Tree",
+    "q": "'Pedigree' comes from the Old French for 'crane's _____', after the branching lines drawn on family trees.",
+    "a": "foot",
+    "alt": ["feet"],
+    "d": ["neck", "nest", "feather"],
+    "x": 0,
+    "src": "Etymonline: pedigree"
+  },
+  {
+    "id": "wld-28",
+    "topic": "Home Loan",
+    "q": "'Mortgage' comes from Old French words meaning a '_____ pledge'.",
+    "a": "dead",
+    "alt": ["death"],
+    "d": ["golden", "lifelong", "sacred"],
+    "x": 0,
+    "src": "Etymonline: mortgage"
+  },
+  {
+    "id": "wld-29",
+    "topic": "Due Date",
+    "q": "The word 'deadline' first described a boundary at a Civil War _____: anyone who crossed it could be shot.",
+    "a": "prison camp",
+    "alt": ["prison", "military prison", "prisoner camp", "POW camp", "prisoner-of-war camp", "prison stockade"],
+    "d": ["cemetery", "racetrack", "riverbank"],
+    "x": 0,
+    "src": "Etymonline: deadline"
+  },
+  {
+    "id": "wld-30",
+    "topic": "Compliment?",
+    "q": "When 'nice' entered English around 1300, calling someone nice meant they were _____.",
+    "a": "foolish",
+    "alt": ["stupid", "ignorant", "silly", "senseless", "a fool"],
+    "d": ["wealthy", "drunk", "pale"],
+    "x": 0,
+    "src": "Etymonline: nice"
+  },
+  {
+    "id": "wld-31",
+    "topic": "Playground Word",
+    "q": "When 'bully' first appeared in English in the 1500s, it meant _____.",
+    "a": "sweetheart",
+    "alt": ["darling", "lover", "dear", "beloved"],
+    "d": ["blacksmith", "bodyguard", "young bull"],
+    "x": 0,
+    "src": "Etymonline: bully"
+  },
+  {
+    "id": "wld-32",
+    "topic": "Cockney Talk",
+    "q": "In Cockney rhyming slang, telling someone to 'use your loaf' means use your _____.",
+    "a": "head",
+    "alt": ["brain", "noggin", "brains"],
+    "d": ["hands", "manners", "money"],
+    "x": 0,
+    "src": "Wikipedia: Rhyming slang"
+  },
+  {
+    "id": "wld-33",
+    "topic": "Idle Watcher",
+    "q": "In Britain, a 'gongoozler' is someone who idly watches the boats and goings-on along _____.",
+    "a": "canals",
+    "alt": ["a canal", "the canals", "canal locks", "canal"],
+    "d": ["golf courses", "building sites", "railway platforms"],
+    "x": 0,
+    "src": "Wikipedia: Gongoozler"
+  },
+  {
+    "id": "wld-34",
+    "topic": "Unlucky Walk",
+    "q": "Folklore warned against walking 'widdershins' around a church, which means going around it _____.",
+    "a": "counterclockwise",
+    "alt": ["anticlockwise", "counter-clockwise", "anti-clockwise", "against the sun"],
+    "d": ["barefoot", "blindfolded", "on tiptoe"],
+    "x": 0,
+    "src": "Merriam-Webster: widdershins"
+  },
+  {
+    "id": "wld-35",
+    "topic": "Bookish Habit",
+    "q": "The Japanese word 'tsundoku' describes the habit of _____.",
+    "a": "hoarding unread books",
+    "alt": ["buying books you never read", "piling up unread books", "stacking unread books", "buying books and not reading"],
+    "d": ["napping on trains", "apologizing to objects", "eating while standing"],
+    "x": 0,
+    "src": "Wikipedia: Tsundoku"
+  },
+  {
+    "id": "wld-36",
+    "topic": "Comfort Eating",
+    "q": "Germans call the weight you gain from emotional overeating 'Kummerspeck', which literally means 'grief _____'.",
+    "a": "bacon",
+    "alt": ["fat", "lard"],
+    "d": ["pudding", "pillow", "belly"],
+    "x": 0,
+    "src": "Duden: Kummerspeck"
+  },
+  {
+    "id": "wld-37",
+    "topic": "Punctuation?!",
+    "q": "The rarely used punctuation mark that merges a question mark and an exclamation point into one symbol is called the _____.",
+    "a": "interrobang",
+    "alt": ["interabang"],
+    "d": ["exclamaquest", "shriekmark", "quizbang"],
+    "x": 0,
+    "src": "Wikipedia: Interrobang"
+  },
+  {
+    "id": "wld-38",
+    "topic": "Comic Cursing",
+    "q": "In comics, a string of symbols like @#$%! standing in for a swear word is called a _____.",
+    "a": "grawlix",
+    "alt": ["grawlixes"],
+    "d": ["squiggle", "cussmark", "blurt"],
+    "x": 0,
+    "src": "Wikipedia: Grawlix"
+  },
+  {
+    "id": "wld-39",
+    "topic": "Shady Origins",
+    "q": "Silhouettes are named after Etienne de Silhouette, a French _____ whose penny-pinching made his name a byword for anything done on the cheap.",
+    "a": "finance minister",
+    "alt": ["minister of finance", "controller-general of finances", "treasurer", "finance chief"],
+    "d": ["court painter", "royal tailor", "candlemaker"],
+    "x": 0,
+    "src": "Wikipedia: Etienne de Silhouette"
+  },
+  {
+    "id": "wld-40",
+    "topic": "Take It, or Else",
+    "q": "'Hobson's choice' comes from Thomas Hobson of Cambridge, who rented out _____ but made every customer take the one nearest the door.",
+    "a": "horses",
+    "alt": ["horse", "his horses"],
+    "d": ["rowboats", "umbrellas", "rooms"],
+    "x": 0,
+    "src": "Wikipedia: Hobson's choice"
+  },
+  {
+    "id": "wld-41",
+    "topic": "Fancy Compliment",
+    "q": "Someone described as 'callipygian' has beautifully shaped _____.",
+    "a": "buttocks",
+    "alt": ["buttock", "bottom", "butt", "rear", "behind", "backside", "rear end", "bum"],
+    "d": ["eyebrows", "ankles", "handwriting"],
+    "x": 1,
+    "src": "Merriam-Webster: callipygian"
+  },
+  {
+    "id": "wld-42",
+    "topic": "Wake-Up Call",
+    "q": "Before alarm clocks were affordable, British workers paid a '_____' to rap on their bedroom windows with a long pole every morning.",
+    "a": "knocker-up",
+    "alt": ["knocker up", "knocker-upper", "knocker upper", "knocker-uppers"],
+    "d": ["window-rapper", "dawn-caller", "pole-man"],
+    "x": 0,
+    "src": "Wikipedia: Knocker-up"
+  },
+  {
+    "id": "wld-43",
+    "topic": "Dirty Work",
+    "q": "Victorian London's 'toshers' made a living hunting for lost coins and scrap metal in the city's _____.",
+    "a": "sewers",
+    "alt": ["sewer", "sewer tunnels", "drains"],
+    "d": ["chimneys", "graveyards", "rubbish heaps"],
+    "x": 0,
+    "src": "Wikipedia: Tosher"
+  },
+  {
+    "id": "wld-44",
+    "topic": "Factory Perk",
+    "q": "Cuban cigar rollers traditionally chipped in from their own wages to pay a 'lector', whose job was to _____ while they worked.",
+    "a": "read aloud to them",
+    "alt": ["read to them", "read aloud", "read", "read books", "read the news", "read out loud"],
+    "d": ["sing to them", "tell them jokes", "fan them"],
+    "x": 0,
+    "src": "Araceli Tinajero, El Lector: A History of the Cigar Factory Reader (2010)"
+  },
+  {
+    "id": "wld-45",
+    "topic": "Lost in Translation",
+    "q": "Tire maker Bridgestone is named after its founder, Shojiro Ishibashi, whose surname means '_____' in Japanese.",
+    "a": "stone bridge",
+    "alt": ["bridge of stone"],
+    "d": ["black road", "iron wheel", "strong river"],
+    "x": 0,
+    "src": "Wikipedia: Bridgestone"
+  },
+  {
+    "id": "wld-46",
+    "topic": "Three of a Kind",
+    "q": "The name Mitsubishi combines the Japanese for 'three' with a word for _____, which explains the shape of its logo.",
+    "a": "water chestnuts",
+    "alt": ["water chestnut", "water caltrops", "water caltrop", "diamonds", "diamond", "rhombuses", "rhombus", "caltrops"],
+    "d": ["arrows", "mountains", "swords"],
+    "x": 0,
+    "src": "Wikipedia: Mitsubishi"
+  },
+  {
+    "id": "wld-47",
+    "topic": "Divine Lens",
+    "q": "Canon's first camera prototype, in 1934, was called the Kwanon, after the Buddhist goddess of _____.",
+    "a": "mercy",
+    "alt": ["compassion"],
+    "d": ["light", "luck", "vision"],
+    "x": 0,
+    "src": "Canon Global: Canon Camera Museum (Kwanon)"
+  },
+  {
+    "id": "wld-48",
+    "topic": "Humble Beginnings",
+    "q": "Long before mobile phones, Nokia got its start in 1865 as a _____.",
+    "a": "pulp mill",
+    "alt": ["paper mill", "wood pulp mill", "groundwood pulp mill", "paper company", "pulp and paper mill"],
+    "d": ["fishing company", "match factory", "sauna maker"],
+    "x": 0,
+    "src": "Wikipedia: Nokia"
+  },
+  {
+    "id": "wld-49",
+    "topic": "Little Blue Box",
+    "q": "Tiffany & Co. opened in New York in 1837 not as a jeweler but as a shop selling _____ and fancy goods.",
+    "a": "stationery",
+    "alt": ["stationary", "paper goods", "writing paper"],
+    "d": ["umbrellas", "pocket watches", "cigars"],
+    "x": 0,
+    "src": "Wikipedia: Tiffany & Co."
+  },
+  {
+    "id": "wld-50",
+    "topic": "Door to Door",
+    "q": "Avon's founder started out selling _____ door to door, handing out free perfume as a sweetener, until he noticed customers cared more about the perfume.",
+    "a": "books",
+    "alt": ["book", "Bibles"],
+    "d": ["brushes", "sewing needles", "pots and pans"],
+    "x": 0,
+    "src": "Wikipedia: David H. McConnell; Avon Products"
+  },
+  {
+    "id": "wld-51",
+    "topic": "Name Game",
+    "q": "Bill Hewlett and Dave Packard decided whose name would come first in their company's name by _____.",
+    "a": "flipping a coin",
+    "alt": ["coin toss", "a coin toss", "tossing a coin", "coin flip", "a coin flip", "flipping coins"],
+    "d": ["arm wrestling", "rock-paper-scissors", "drawing straws"],
+    "x": 0,
+    "src": "Wikipedia: Hewlett-Packard"
+  },
+  {
+    "id": "wld-52",
+    "topic": "Bottoms Up",
+    "q": "The 1898 poster that introduced the Michelin Man shows him raising a toast with a goblet full of _____.",
+    "a": "nails and broken glass",
+    "alt": ["broken glass and nails", "nails", "broken glass", "glass and nails"],
+    "d": ["motor oil", "champagne", "rubber cement"],
+    "x": 0,
+    "src": "Wikipedia: Michelin Man"
+  },
+  {
+    "id": "wld-53",
+    "topic": "Roadside Poetry",
+    "q": "From the 1920s to the 1960s, American drivers read corny rhymes spread across a series of small roadside signs, all advertising _____.",
+    "a": "shaving cream",
+    "alt": ["Burma-Shave", "Burma Shave", "brushless shaving cream", "shave cream"],
+    "d": ["motor oil", "chewing gum", "root beer"],
+    "x": 0,
+    "src": "Wikipedia: Burma-Shave"
+  },
+  {
+    "id": "wld-54",
+    "topic": "Sparkling Slogan",
+    "q": "The slogan 'A Diamond Is Forever' was written in 1947 by copywriter Frances Gerety, who herself _____.",
+    "a": "never married",
+    "alt": ["never got married", "was never married", "stayed single", "was single", "was unmarried"],
+    "d": ["hated jewelry", "was colorblind", "married five times"],
+    "x": 0,
+    "src": "Wikipedia: A Diamond Is Forever; NPR, 'The Ad Woman Who Made Diamonds Forever' (2013)"
+  },
+  {
+    "id": "wld-55",
+    "topic": "Holiday Promo",
+    "q": "Rudolph the Red-Nosed Reindeer was created in 1939 by a copywriter at the department store chain _____, for a free children's booklet.",
+    "a": "Montgomery Ward",
+    "alt": ["Montgomery Ward's", "Montgomery Wards", "Montgomery Ward & Co."],
+    "d": ["Macy's", "Sears", "Woolworth's"],
+    "x": 0,
+    "src": "Wikipedia: Rudolph the Red-Nosed Reindeer"
+  },
+  {
+    "id": "wld-56",
+    "topic": "Not for Noses",
+    "q": "When Kleenex tissues launched in 1924, they were marketed as a way to remove _____.",
+    "a": "cold cream",
+    "alt": ["makeup", "face cream", "cold cream and makeup", "make-up"],
+    "d": ["shoe polish", "eyeglass smudges", "fingerprints"],
+    "x": 0,
+    "src": "Wikipedia: Kleenex"
+  },
+  {
+    "id": "wld-57",
+    "topic": "Old Name",
+    "q": "Before it was renamed Best Buy, the electronics chain founded in Minnesota in 1966 was called _____.",
+    "a": "Sound of Music",
+    "alt": ["The Sound of Music"],
+    "d": ["Stereo City", "Radio Ranch", "Hi-Fi Heaven"],
+    "x": 0,
+    "src": "Wikipedia: Best Buy"
+  },
+  {
+    "id": "wld-58",
+    "topic": "Hillside Ad",
+    "q": "The Hollywood sign was first put up in 1923 as a billboard for a _____.",
+    "a": "real estate development",
+    "alt": ["housing development", "real-estate development", "property development", "subdivision", "housing estate", "real estate"],
+    "d": ["movie studio", "dance hall", "radio station"],
+    "x": 0,
+    "src": "Wikipedia: Hollywood Sign"
+  },
+  {
+    "id": "wld-59",
+    "topic": "Corporate HQ",
+    "q": "The former headquarters of the Longaberger company in Newark, Ohio, is a seven-story office building shaped like a giant _____.",
+    "a": "picnic basket",
+    "alt": ["basket", "market basket"],
+    "d": ["teapot", "cash register", "filing cabinet"],
+    "x": 0,
+    "src": "Wikipedia: The Longaberger Company"
+  },
+  {
+    "id": "wld-60",
+    "topic": "Brand New Word",
+    "q": "The word 'zipper' started out in the 1920s as B.F. Goodrich's brand name for its _____.",
+    "a": "rubber boots",
+    "alt": ["galoshes", "boots", "overshoes", "rubber galoshes"],
+    "d": ["mail bags", "sleeping bags", "raincoats"],
+    "x": 0,
+    "src": "Etymonline: zipper; Wikipedia: Zipper"
+  }
+]

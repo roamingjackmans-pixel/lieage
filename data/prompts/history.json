@@ -1,0 +1,602 @@
+[
+  {
+    "id": "his-01",
+    "topic": "A Captain's Grudge",
+    "q": "Britain and Spain went to war in 1739 in a conflict named after a sea captain's severed _____.",
+    "a": "ear",
+    "alt": ["ears", "Jenkins' ear", "his ear"],
+    "d": ["thumb", "pigtail", "big toe"],
+    "x": 0,
+    "src": "Wikipedia: War of Jenkins' Ear"
+  },
+  {
+    "id": "his-02",
+    "topic": "Sweet Hostilities",
+    "q": "France blockaded Mexico in 1838 partly over damages claimed by a French chef whose shop had been wrecked, so the conflict is remembered as the _____ War.",
+    "a": "Pastry",
+    "alt": ["Pastry War", "Pastries"],
+    "d": ["Omelette", "Croissant", "Baguette"],
+    "x": 0,
+    "src": "Wikipedia: Pastry War"
+  },
+  {
+    "id": "his-03",
+    "topic": "Border Incident",
+    "q": "A brief 1925 clash on the Greece-Bulgaria border is nicknamed 'the War of the _____' after the incident said to have set it off.",
+    "a": "Stray Dog",
+    "alt": ["Stray Dogs", "Dog", "Runaway Dog"],
+    "d": ["Lost Goat", "Stolen Melon", "Spilled Wine"],
+    "x": 0,
+    "src": "Wikipedia: Incident at Petrich"
+  },
+  {
+    "id": "his-04",
+    "topic": "Spoils of Victory",
+    "q": "After crushing Bologna at the Battle of Zappolino in 1325, troops from Modena carried home a humble trophy the city still keeps: a wooden _____.",
+    "a": "bucket",
+    "alt": ["pail", "well bucket"],
+    "d": ["spoon", "clog", "toilet seat"],
+    "x": 0,
+    "src": "Wikipedia: Battle of Zappolino"
+  },
+  {
+    "id": "his-05",
+    "topic": "Island Standoff",
+    "q": "An 1859 border standoff between the U.S. and Britain in the San Juan Islands produced exactly one casualty: a _____ shot by an American farmer.",
+    "a": "pig",
+    "alt": ["hog", "boar", "pigs"],
+    "d": ["cow", "rooster", "mule"],
+    "x": 0,
+    "src": "Wikipedia: Pig War (1859)"
+  },
+  {
+    "id": "his-06",
+    "topic": "A Fatal Request",
+    "q": "The Asante uprising of 1900 erupted after Britain's colonial governor demanded the right to _____ the Asante people's most sacred object, the Golden Stool.",
+    "a": "sit on",
+    "alt": ["sit on it", "sit upon"],
+    "d": ["melt down", "polish", "ship to London"],
+    "x": 0,
+    "src": "Wikipedia: War of the Golden Stool"
+  },
+  {
+    "id": "his-07",
+    "topic": "The Last Holdout",
+    "q": "Japanese officer Hiroo Onoda kept fighting World War II in the Philippine jungle until 1974, and only laid down his arms after _____ flew in to formally order him to stop.",
+    "a": "his old commanding officer",
+    "alt": ["his former commander", "his commanding officer", "his old commander", "his former commanding officer", "his commander"],
+    "d": ["the Emperor himself", "a sumo champion", "the Prime Minister"],
+    "x": 0,
+    "src": "Wikipedia: Hiroo Onoda"
+  },
+  {
+    "id": "his-08",
+    "topic": "Winged Warfare",
+    "q": "During World War II, the U.S. military tested a scheme to set Japanese cities ablaze by releasing thousands of _____ fitted with tiny time-delayed firebombs.",
+    "a": "bats",
+    "alt": ["bat", "free-tailed bats"],
+    "d": ["seagulls", "crows", "flying squirrels"],
+    "x": 0,
+    "src": "Wikipedia: Bat bomb"
+  },
+  {
+    "id": "his-09",
+    "topic": "Mad Jack",
+    "q": "British commando 'Mad Jack' Churchill went into World War II battles carrying a longbow, a Scottish broadsword, and _____.",
+    "a": "bagpipes",
+    "alt": ["a set of bagpipes", "his bagpipes", "bagpipe"],
+    "d": ["a cricket bat", "an umbrella", "a trombone"],
+    "x": 0,
+    "src": "Wikipedia: Jack Churchill"
+  },
+  {
+    "id": "his-10",
+    "topic": "Secret Weapon",
+    "q": "Britain's 'Great Panjandrum,' a World War II weapon meant to smash through beach defenses, was essentially a giant explosive _____ driven by rockets.",
+    "a": "wheel",
+    "alt": ["wheels", "cart", "drum", "spool", "cotton reel"],
+    "d": ["pogo stick", "kite", "bowling ball"],
+    "x": 0,
+    "src": "Wikipedia: Panjandrum"
+  },
+  {
+    "id": "his-11",
+    "topic": "Museum Piece",
+    "q": "When Mexican general Santa Anna fled a battle in 1847, his cork prosthetic leg was captured by U.S. soldiers from _____, and that state still has it on display.",
+    "a": "Illinois",
+    "alt": [],
+    "d": ["Texas", "Kentucky", "Tennessee"],
+    "x": 0,
+    "src": "Wikipedia: Antonio Lopez de Santa Anna; Illinois State Military Museum"
+  },
+  {
+    "id": "his-12",
+    "topic": "Royal Hobby",
+    "q": "Peter the Great fancied himself a skilled amateur _____ and happily practiced on his own courtiers and servants.",
+    "a": "dentist",
+    "alt": ["tooth puller", "dentistry"],
+    "d": ["tattoo artist", "fortune teller", "portrait painter"],
+    "x": 0,
+    "src": "Kunstkamera museum (teeth extracted by Peter I); Wikipedia: Peter the Great"
+  },
+  {
+    "id": "his-13",
+    "topic": "Grave Gifts",
+    "q": "Visitors to Frederick the Great's grave at Sanssouci often leave _____ on it, honoring his campaign to get Prussian farmers to plant the crop.",
+    "a": "potatoes",
+    "alt": ["potato", "spuds"],
+    "d": ["turnips", "cabbages", "sugar beets"],
+    "x": 0,
+    "src": "Wikipedia: Frederick the Great"
+  },
+  {
+    "id": "his-14",
+    "topic": "Uninvited Guest",
+    "q": "On his wedding night in 1796, Napoleon was reportedly bitten by Josephine's beloved pet _____, named Fortune.",
+    "a": "pug",
+    "alt": ["pug dog", "dog"],
+    "d": ["parrot", "monkey", "poodle"],
+    "x": 0,
+    "src": "Mimi Matthews, The Pug Who Bit Napoleon; Wikipedia: Josephine de Beauharnais"
+  },
+  {
+    "id": "his-15",
+    "topic": "Coronation Day",
+    "q": "After her coronation in 1838, the teenage Queen Victoria noted in her diary that she came home and gave her spaniel Dash his _____.",
+    "a": "bath",
+    "alt": ["bath time", "wash"],
+    "d": ["supper", "knighthood", "birthday cake"],
+    "x": 0,
+    "src": "Wikipedia: Dash (spaniel)"
+  },
+  {
+    "id": "his-16",
+    "topic": "Teenage King",
+    "q": "At just 14, Louis XIV played the rising sun in a royal _____, an image he later adopted as his personal emblem.",
+    "a": "ballet",
+    "alt": ["court ballet", "dance performance"],
+    "d": ["puppet show", "fireworks display", "opera"],
+    "x": 0,
+    "src": "Wikipedia: Ballet Royal de la Nuit"
+  },
+  {
+    "id": "his-17",
+    "topic": "Last Supper",
+    "q": "Sweden's King Adolf Frederick died in 1771 after a gigantic feast of lobster, caviar, sauerkraut and champagne, finished off with _____ served in hot milk.",
+    "a": "cream buns",
+    "alt": ["semla", "semlor", "semla buns", "hetvagg", "cream bun"],
+    "d": ["pancakes", "cinnamon rolls", "oatcakes"],
+    "x": 0,
+    "src": "Wikipedia: Adolf Frederick, King of Sweden; Semla"
+  },
+  {
+    "id": "his-18",
+    "topic": "Royal Delusion",
+    "q": "France's King Charles VI suffered from a delusion that his body was made of _____.",
+    "a": "glass",
+    "alt": [],
+    "d": ["butter", "wax", "straw"],
+    "x": 0,
+    "src": "Wikipedia: Charles VI of France; Glass delusion"
+  },
+  {
+    "id": "his-19",
+    "topic": "Founding Father",
+    "q": "Wilfred, the 9th-century count of Barcelona revered as a founding figure of Catalonia, is known to history as Wilfred the _____.",
+    "a": "Hairy",
+    "alt": ["Hairy One"],
+    "d": ["Bald", "Fat", "Clumsy"],
+    "x": 0,
+    "src": "Wikipedia: Wilfred the Hairy"
+  },
+  {
+    "id": "his-20",
+    "topic": "Royal Tinkerer",
+    "q": "Louis XVI had an unusual pastime for a king of France: he was a dedicated amateur at _____.",
+    "a": "locksmithing",
+    "alt": ["making locks", "lock making", "lockmaking", "locks"],
+    "d": ["beekeeping", "embroidery", "cheese making"],
+    "x": 0,
+    "src": "Wikipedia: Louis XVI"
+  },
+  {
+    "id": "his-21",
+    "topic": "Dressed for the Day",
+    "q": "On the freezing morning of his execution in 1649, King Charles I reportedly wore _____ so the crowd wouldn't see him shiver and think he was afraid.",
+    "a": "two shirts",
+    "alt": ["2 shirts", "an extra shirt", "a second shirt"],
+    "d": ["a fur-lined hat", "three pairs of socks", "his heaviest crown"],
+    "x": 0,
+    "src": "Wikipedia: Execution of Charles I"
+  },
+  {
+    "id": "his-22",
+    "topic": "Shogun Nickname",
+    "q": "Tokugawa Tsunayoshi, a Japanese shogun who passed sweeping laws protecting animals, was mockingly nicknamed the '_____ Shogun.'",
+    "a": "Dog",
+    "alt": ["Dog Shogun", "Inu"],
+    "d": ["Cat", "Rabbit", "Turtle"],
+    "x": 0,
+    "src": "Wikipedia: Tokugawa Tsunayoshi"
+  },
+  {
+    "id": "his-23",
+    "topic": "Lucky Pocket",
+    "q": "When Theodore Roosevelt was shot in 1912, the bullet was slowed by the thick folded speech in his coat and by his steel _____, and he went on to deliver the speech anyway.",
+    "a": "glasses case",
+    "alt": ["eyeglass case", "spectacle case", "eyeglasses case", "glasses holder"],
+    "d": ["cigar case", "pocket watch", "flask"],
+    "x": 0,
+    "src": "Wikipedia: Attempted assassination of Theodore Roosevelt"
+  },
+  {
+    "id": "his-24",
+    "topic": "Thanksgiving Reprieve",
+    "q": "Calvin Coolidge was sent a raccoon to be cooked for Thanksgiving dinner, but he kept it as a White House pet and named it _____.",
+    "a": "Rebecca",
+    "alt": [],
+    "d": ["Martha", "Bandit", "Lady Liberty"],
+    "x": 0,
+    "src": "Wikipedia: Rebecca (raccoon)"
+  },
+  {
+    "id": "his-25",
+    "topic": "Sheriff's Duties",
+    "q": "Before he was president, Grover Cleveland served as a county sheriff in New York and twice personally performed the job of _____.",
+    "a": "hangman",
+    "alt": ["executioner", "the hangman"],
+    "d": ["town crier", "dogcatcher", "undertaker"],
+    "x": 0,
+    "src": "Wikipedia: Grover Cleveland"
+  },
+  {
+    "id": "his-26",
+    "topic": "Before Politics",
+    "q": "Long before the Oval Office, a young Gerald Ford worked as a _____, even appearing on the cover of Cosmopolitan magazine.",
+    "a": "model",
+    "alt": ["fashion model", "male model"],
+    "d": ["magician's assistant", "radio announcer", "rodeo clown"],
+    "x": 0,
+    "src": "Wikipedia: Gerald Ford; History.com"
+  },
+  {
+    "id": "his-27",
+    "topic": "Private Conversations",
+    "q": "To keep White House staff from eavesdropping, Herbert Hoover and his wife Lou sometimes talked to each other in _____.",
+    "a": "Mandarin",
+    "alt": ["Chinese", "Mandarin Chinese"],
+    "d": ["Pig Latin", "Esperanto", "Morse code"],
+    "x": 0,
+    "src": "Wikipedia: Lou Henry Hoover"
+  },
+  {
+    "id": "his-28",
+    "topic": "Close Encounter",
+    "q": "While fishing near his Georgia hometown in 1979, President Jimmy Carter used his paddle to fend off an aggressive swimming _____ that approached his boat.",
+    "a": "rabbit",
+    "alt": ["swamp rabbit", "bunny"],
+    "d": ["beaver", "goose", "alligator"],
+    "x": 0,
+    "src": "Wikipedia: Jimmy Carter rabbit incident"
+  },
+  {
+    "id": "his-29",
+    "topic": "Island SOS",
+    "q": "Stranded after his PT boat was sunk in 1943, John F. Kennedy scratched a rescue message onto a _____, which he later kept on his Oval Office desk.",
+    "a": "coconut",
+    "alt": ["coconut shell", "coconut husk"],
+    "d": ["turtle shell", "piece of driftwood", "palm leaf"],
+    "x": 0,
+    "src": "Wikipedia: PT-109"
+  },
+  {
+    "id": "his-30",
+    "topic": "Spy Games",
+    "q": "Among the CIA's documented schemes to assassinate Fidel Castro was a plan to give him a contaminated _____.",
+    "a": "diving suit",
+    "alt": ["wetsuit", "scuba suit", "skin diving suit", "dive suit"],
+    "d": ["baseball glove", "cowboy hat", "bowling ball"],
+    "x": 0,
+    "src": "Wikipedia: CIA assassination attempts on Fidel Castro (Church Committee)"
+  },
+  {
+    "id": "his-31",
+    "topic": "Self-Made Monarch",
+    "q": "In 1859, a bankrupt San Francisco businessman named Joshua Norton proclaimed himself Emperor of _____, and the city happily played along for two decades.",
+    "a": "the United States",
+    "alt": ["United States", "the USA", "America", "the U.S.", "USA"],
+    "d": ["the Pacific", "California", "the Moon"],
+    "x": 0,
+    "src": "Wikipedia: Emperor Norton"
+  },
+  {
+    "id": "his-32",
+    "topic": "Hands-On Hobby",
+    "q": "Winston Churchill was such a keen amateur _____ that in 1928 he joined the trade union for it.",
+    "a": "bricklayer",
+    "alt": ["bricklaying", "brick layer"],
+    "d": ["beekeeper", "clockmaker", "chimney sweep"],
+    "x": 0,
+    "src": "Wikipedia: Winston Churchill (Chartwell, Amalgamated Union of Building Trade Workers)"
+  },
+  {
+    "id": "his-33",
+    "topic": "Sea Sightings",
+    "q": "In January 1493, Christopher Columbus recorded seeing three 'mermaids,' grumbling that they weren't as pretty as they're painted; they were almost certainly _____.",
+    "a": "manatees",
+    "alt": ["manatee", "sea cows"],
+    "d": ["dolphins", "sea turtles", "walruses"],
+    "x": 0,
+    "src": "Wikipedia: Manatee; Columbus's journal"
+  },
+  {
+    "id": "his-34",
+    "topic": "Buried in Africa",
+    "q": "When explorer David Livingstone died in 1873, his companions buried his _____ under a tree near the spot, then carried his body more than a thousand miles to the coast to be shipped to Britain.",
+    "a": "heart",
+    "alt": ["heart and organs", "internal organs", "organs"],
+    "d": ["hat", "compass", "walking stick"],
+    "x": 0,
+    "src": "Wikipedia: David Livingstone"
+  },
+  {
+    "id": "his-35",
+    "topic": "Expedition Member",
+    "q": "Among the members of the Lewis and Clark Expedition was a big Newfoundland dog named _____.",
+    "a": "Seaman",
+    "alt": [],
+    "d": ["Captain", "Scout", "Biscuit"],
+    "x": 0,
+    "src": "Wikipedia: Seaman (dog)"
+  },
+  {
+    "id": "his-36",
+    "topic": "Ghostwritten Travels",
+    "q": "Marco Polo's famous account of his travels was dictated to a writer of romances while both men were in _____.",
+    "a": "prison",
+    "alt": ["jail", "a Genoese prison", "prison in Genoa", "a prison"],
+    "d": ["a monastery", "quarantine", "exile"],
+    "x": 0,
+    "src": "Wikipedia: The Travels of Marco Polo; Rustichello da Pisa"
+  },
+  {
+    "id": "his-37",
+    "topic": "Exotic Tribute",
+    "q": "One of Admiral Zheng He's treasure fleet voyages brought a _____ back to the Ming court, where it was hailed as a qilin, a mythical creature of good omen.",
+    "a": "giraffe",
+    "alt": ["giraffes"],
+    "d": ["kangaroo", "hippopotamus", "gorilla"],
+    "x": 0,
+    "src": "Wikipedia: Zheng He; Ming treasure voyages"
+  },
+  {
+    "id": "his-38",
+    "topic": "Naming Rights",
+    "q": "According to the Norse sagas, Leif Erikson named the land he found in North America 'Vinland' because his crew discovered _____ there.",
+    "a": "grapes",
+    "alt": ["wild grapes", "grapevines", "vines"],
+    "d": ["wolves", "walruses", "wild honey"],
+    "x": 0,
+    "src": "Wikipedia: Vinland"
+  },
+  {
+    "id": "his-39",
+    "topic": "Sick Day Excuses",
+    "q": "An Egyptian work register from around 1250 BC lists reasons laborers missed work, including 'bitten by a scorpion' and '_____.'",
+    "a": "brewing beer",
+    "alt": ["brewing", "making beer"],
+    "d": ["chasing a hippo", "lost his sandals", "too hot outside"],
+    "x": 0,
+    "src": "British Museum: ostracon EA 5634 (Deir el-Medina)"
+  },
+  {
+    "id": "his-40",
+    "topic": "Naval Tactics",
+    "q": "During a sea battle around 184 BC, Hannibal had his men hurl clay pots full of _____ onto the decks of enemy ships.",
+    "a": "venomous snakes",
+    "alt": ["snakes", "vipers", "poisonous snakes", "serpents"],
+    "d": ["rotten fish", "live crabs", "angry badgers"],
+    "x": 0,
+    "src": "Wikipedia: Hannibal (Cornelius Nepos)"
+  },
+  {
+    "id": "his-41",
+    "topic": "Tomb Inventory",
+    "q": "Howard Carter's team found about 130 _____ among the treasures in Tutankhamun's tomb.",
+    "a": "walking sticks",
+    "alt": ["canes", "walking canes", "staffs", "sticks", "walking staffs"],
+    "d": ["wigs", "harps", "fly swatters"],
+    "x": 0,
+    "src": "Wikipedia: Tutankhamun"
+  },
+  {
+    "id": "his-42",
+    "topic": "Feline Mourning",
+    "q": "According to Herodotus, when a household cat died in ancient Egypt, everyone living in the house shaved off their _____.",
+    "a": "eyebrows",
+    "alt": ["eyebrow", "brows"],
+    "d": ["beards", "leg hair", "mustaches"],
+    "x": 0,
+    "src": "Herodotus, Histories 2.66; Wikipedia: Cats in ancient Egypt"
+  },
+  {
+    "id": "his-43",
+    "topic": "Oldest Complaint",
+    "q": "A Babylonian clay tablet from around 1750 BC, often called the world's oldest customer complaint, scolds a merchant named Ea-nasir for selling poor-quality _____.",
+    "a": "copper",
+    "alt": ["copper ingots", "copper bars"],
+    "d": ["beer", "goats", "dates"],
+    "x": 0,
+    "src": "Wikipedia: Complaint tablet to Ea-nasir"
+  },
+  {
+    "id": "his-44",
+    "topic": "Frontier Mail",
+    "q": "One of the earliest known letters written in part by a woman in Latin, found at the Roman fort of Vindolanda near Hadrian's Wall, is an invitation to a _____.",
+    "a": "birthday party",
+    "alt": ["birthday", "birthday celebration"],
+    "d": ["chariot race", "gladiator fight", "wedding feast"],
+    "x": 0,
+    "src": "Wikipedia: Vindolanda tablets"
+  },
+  {
+    "id": "his-45",
+    "topic": "Happy Retirement",
+    "q": "Begged to come out of retirement and retake power, the Roman emperor Diocletian reportedly replied that he'd rather stay home tending his _____.",
+    "a": "cabbages",
+    "alt": ["cabbage", "cabbage patch", "vegetables"],
+    "d": ["beehives", "grapevines", "pet eels"],
+    "x": 0,
+    "src": "Wikipedia: Diocletian (Epitome de Caesaribus)"
+  },
+  {
+    "id": "his-46",
+    "topic": "Spartan Reply",
+    "q": "When Philip II of Macedon warned Sparta what he would do 'if' he invaded, the Spartans sent back a one-word answer: '_____.'",
+    "a": "If",
+    "alt": ["If.", "if"],
+    "d": ["Nope", "Come", "Try"],
+    "x": 0,
+    "src": "Wikipedia: Laconic phrase (Plutarch)"
+  },
+  {
+    "id": "his-47",
+    "topic": "Punishing the Sea",
+    "q": "According to Herodotus, when a storm wrecked his bridge across the Hellespont, the Persian king Xerxes ordered the water itself to be _____.",
+    "a": "whipped",
+    "alt": ["lashed", "flogged", "given 300 lashes", "whipped 300 times"],
+    "d": ["arrested", "drained", "exiled"],
+    "x": 0,
+    "src": "Herodotus, Histories 7.35; Wikipedia: Xerxes' Pontoon Bridges"
+  },
+  {
+    "id": "his-48",
+    "topic": "Victory Wreath",
+    "q": "Suetonius wrote that Julius Caesar especially enjoyed his honorary right to wear a laurel wreath at all times, because it helped hide his _____.",
+    "a": "baldness",
+    "alt": ["bald spot", "bald head", "receding hairline", "thinning hair"],
+    "d": ["big ears", "battle scar", "gray hair"],
+    "x": 0,
+    "src": "Suetonius, Life of Julius Caesar 45"
+  },
+  {
+    "id": "his-49",
+    "topic": "Industrial Espionage",
+    "q": "Around 552 AD, two monks smuggled silkworm eggs out of Asia for the Byzantine emperor Justinian by hiding them inside _____.",
+    "a": "hollow canes",
+    "alt": ["canes", "bamboo canes", "walking sticks", "hollow sticks", "bamboo"],
+    "d": ["loaves of bread", "their beards", "wine jugs"],
+    "x": 0,
+    "src": "Wikipedia: Silk Road (Procopius)"
+  },
+  {
+    "id": "his-50",
+    "topic": "Strasbourg, 1518",
+    "q": "During the summer of 1518, hundreds of people in Strasbourg were seized by a mysterious compulsion to _____ for days on end.",
+    "a": "dance",
+    "alt": ["dancing", "dance nonstop"],
+    "d": ["sneeze", "yodel", "walk backwards"],
+    "x": 0,
+    "src": "Wikipedia: Dancing plague of 1518"
+  },
+  {
+    "id": "his-51",
+    "topic": "Soft Landing",
+    "q": "In 1618, Protestant nobles threw three Catholic officials out of a high window in Prague; Catholics credited angels for their survival, while Protestants said they landed in _____.",
+    "a": "a dung heap",
+    "alt": ["dung", "manure", "a manure pile", "horse manure", "a pile of manure", "a dunghill"],
+    "d": ["a hay cart", "a fishpond", "a featherbed"],
+    "x": 0,
+    "src": "Wikipedia: Defenestrations of Prague"
+  },
+  {
+    "id": "his-52",
+    "topic": "Unusual Defendant",
+    "q": "In 897, Pope Stephen VI put his predecessor Formosus on trial, even though Formosus had been _____ for about nine months.",
+    "a": "dead",
+    "alt": ["deceased", "buried"],
+    "d": ["missing", "on pilgrimage", "in a monastery"],
+    "x": 0,
+    "src": "Wikipedia: Cadaver Synod"
+  },
+  {
+    "id": "his-53",
+    "topic": "Garden Feature",
+    "q": "Some wealthy 18th-century British landowners paid a man to live in a grotto on their estate and serve as a decorative _____.",
+    "a": "hermit",
+    "alt": ["ornamental hermit", "garden hermit"],
+    "d": ["wizard", "pirate", "court jester"],
+    "x": 0,
+    "src": "Wikipedia: Ornamental hermit"
+  },
+  {
+    "id": "his-54",
+    "topic": "Viking Graffiti",
+    "q": "Scratched into a marble parapet in Istanbul's Hagia Sophia is runic graffiti, probably left by a Viking guardsman, that preserves the name _____.",
+    "a": "Halfdan",
+    "alt": ["Halvdan", "Halfdane"],
+    "d": ["Bjorn", "Olaf", "Ragnar"],
+    "x": 0,
+    "src": "Wikipedia: Runic inscriptions in Hagia Sophia"
+  },
+  {
+    "id": "his-55",
+    "topic": "Fire Precautions",
+    "q": "As the Great Fire of London spread in 1666, diarist Samuel Pepys dug a pit in his garden to save his wine and his _____.",
+    "a": "Parmesan cheese",
+    "alt": ["Parmesan", "cheese", "parmazan cheese", "parmesan"],
+    "d": ["best wig", "pickled herring", "Dutch tulip bulbs"],
+    "x": 0,
+    "src": "Wikipedia: Samuel Pepys (diary, 4 September 1666)"
+  },
+  {
+    "id": "his-56",
+    "topic": "News from Above",
+    "q": "In 1835, the New York Sun ran a hoax series claiming astronomer John Herschel had spotted _____ living on the Moon.",
+    "a": "bat-winged people",
+    "alt": ["bat people", "man-bats", "winged humans", "batmen", "bat-men", "winged people", "bat-winged humans"],
+    "d": ["giant snails", "talking owls", "dancing penguins"],
+    "x": 0,
+    "src": "Wikipedia: Great Moon Hoax"
+  },
+  {
+    "id": "his-57",
+    "topic": "Calendar Glitch",
+    "q": "Thanks to a botched calendar reform, Sweden in 1712 had a date that never existed anywhere else: February _____.",
+    "a": "30",
+    "alt": ["30th", "thirty", "thirtieth"],
+    "d": ["31", "32", "35"],
+    "x": 0,
+    "src": "Wikipedia: February 30"
+  },
+  {
+    "id": "his-58",
+    "topic": "Royal Impostor",
+    "q": "In 1817, a young woman convinced wealthy hosts near Bristol that she was Princess Caraboo from the island of Javasu; she was actually a _____ from Devon.",
+    "a": "cobbler's daughter",
+    "alt": ["shoemaker's daughter", "cobblers daughter", "servant", "servant girl"],
+    "d": ["runaway nun", "chimney sweep", "fishmonger's wife"],
+    "x": 0,
+    "src": "Wikipedia: Princess Caraboo"
+  },
+  {
+    "id": "his-59",
+    "topic": "Victorian Craze",
+    "q": "Victorian Britain was gripped by 'Pteridomania,' a national obsession with collecting _____.",
+    "a": "ferns",
+    "alt": ["fern"],
+    "d": ["beetles", "teapots", "bird eggs"],
+    "x": 0,
+    "src": "Wikipedia: Pteridomania"
+  },
+  {
+    "id": "his-60",
+    "topic": "Brief Reign",
+    "q": "After his father abdicated during the 1830 revolution, Louis Antoine of France is often said to have reigned as King Louis XIX for only about _____ before abdicating himself.",
+    "a": "20 minutes",
+    "alt": ["twenty minutes", "20 mins"],
+    "d": ["4 hours", "3 days", "90 seconds"],
+    "x": 0,
+    "src": "Wikipedia: Louis Antoine, Duke of Angouleme"
+  }
+]

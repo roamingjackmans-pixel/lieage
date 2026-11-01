@@ -1,0 +1,13 @@
+{
+  "name": "lieage",
+  "version": "1.0.0",
+  "description": "Lieage: a bluffing trivia party game. The host screen is the game; players write lies and find the truth on their phones.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node tools/serve.mjs",
+    "build": "node tools/build-prompts.mjs",
+    "test": "node tools/build-prompts.mjs --check && node tools/test.mjs"
+  },
+  "engines": { "node": ">=18" }
+}

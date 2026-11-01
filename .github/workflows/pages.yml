@@ -1,0 +1,40 @@
+# Publishes the public/ folder to GitHub Pages on every push to main.
+# The site shows up at josephjackman.com/lieage/ because this repo is named "lieage"
+# and the account's user site has the josephjackman.com custom domain.
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Question and rules checks
+        run: node tools/build-prompts.mjs --check && node tools/test.mjs
+      - uses: actions/configure-pages@v5
+      - name: Stamp version
+        run: node tools/stamp-build.mjs public "${GITHUB_SHA::7}"
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+      - id: deployment
+        uses: actions/deploy-pages@v4

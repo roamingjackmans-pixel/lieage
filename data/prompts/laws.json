@@ -1,0 +1,602 @@
+[
+  {
+    "id": "law-01",
+    "topic": "Medieval Dress Code",
+    "q": "A law passed in 1313 and never repealed forbids anyone from turning up to the English Parliament wearing _____.",
+    "a": "a suit of armour",
+    "alt": ["armour", "armor", "a suit of armor", "suit of armour", "suit of armor", "full armour"],
+    "d": ["a powdered wig", "purple stockings", "a jester's hat"],
+    "x": 0,
+    "src": "Statute Forbidding Bearing of Armour 1313 (legislation.gov.uk); UK Law Commission legal oddities"
+  },
+  {
+    "id": "law-02",
+    "topic": "Fishy Business",
+    "q": "Britain's Salmon Act 1986 created the criminal offence of handling a salmon _____.",
+    "a": "in suspicious circumstances",
+    "alt": ["suspiciously", "under suspicious circumstances", "in suspicious circumstance"],
+    "d": ["in a threatening manner", "after dark on a Sunday", "while wearing a disguise"],
+    "x": 0,
+    "src": "Salmon Act 1986, s.32 (legislation.gov.uk); Wikipedia: Salmon Act 1986"
+  },
+  {
+    "id": "law-03",
+    "topic": "Courtroom Comedy",
+    "q": "When Mattel sued the record label behind the song 'Barbie Girl,' Judge Alex Kozinski ended his 2002 ruling with the line: 'The parties are advised to _____.'",
+    "a": "chill",
+    "alt": ["chill out", "chill."],
+    "d": ["grow up", "play nice", "go outside"],
+    "x": 0,
+    "src": "Mattel, Inc. v. MCA Records, Inc., 296 F.3d 894 (9th Cir. 2002)"
+  },
+  {
+    "id": "law-04",
+    "topic": "Night Exercise",
+    "q": "During a night training march in 2007, about 170 Swiss soldiers got lost in the dark and accidentally invaded _____.",
+    "a": "Liechtenstein",
+    "alt": ["Lichtenstein", "Liechtenstien"],
+    "d": ["Austria", "Italy", "France"],
+    "x": 0,
+    "src": "BBC News, 2 March 2007: Swiss troops accidentally enter Liechtenstein"
+  },
+  {
+    "id": "law-05",
+    "topic": "Sweet Heist",
+    "q": "Thieves in Germany drove off with a refrigerated trailer in 2017 that was loaded with 20 tonnes of Nutella and _____.",
+    "a": "Kinder Surprise eggs",
+    "alt": ["Kinder eggs", "Kinder Surprise", "Kinder Surprises", "chocolate eggs", "Kinder Surprise egg"],
+    "d": ["gummy bears", "Toblerone bars", "pretzels"],
+    "x": 0,
+    "src": "NPR, 15 Aug 2017: 'Truck With 20 Tons Of Nutella And Chocolate Vanishes'"
+  },
+  {
+    "id": "law-06",
+    "topic": "Drunk In Charge",
+    "q": "An 1872 British law that is still in force makes it an offence to be drunk in public while in charge of a carriage, a horse, cattle, or a _____.",
+    "a": "steam engine",
+    "alt": ["steam engines", "steam-engine"],
+    "d": ["hot air balloon", "rowing boat", "pack of hounds"],
+    "x": 0,
+    "src": "Licensing Act 1872, s.12 (legislation.gov.uk)"
+  },
+  {
+    "id": "law-07",
+    "topic": "Protest Vote",
+    "q": "About 100,000 people in Sao Paulo, Brazil, cast protest votes in a 1959 city council election for a candidate who was actually a _____ from the local zoo.",
+    "a": "rhinoceros",
+    "alt": ["rhino", "female rhinoceros", "rhinoceroses"],
+    "d": ["hippopotamus", "giraffe", "llama"],
+    "x": 0,
+    "src": "Wikipedia: Cacareco"
+  },
+  {
+    "id": "law-08",
+    "topic": "Odd Case Name",
+    "q": "In 1916, the US Supreme Court decided a case officially titled United States v. Forty Barrels and Twenty Kegs of _____.",
+    "a": "Coca-Cola",
+    "alt": ["Coca Cola", "Coke"],
+    "d": ["Pickled Herring", "Moonshine", "Root Beer"],
+    "x": 0,
+    "src": "Wikipedia: United States v. Forty Barrels and Twenty Kegs of Coca-Cola"
+  },
+  {
+    "id": "law-09",
+    "topic": "Arctic Standoff",
+    "q": "For decades, Canada and Denmark squabbled over tiny Hans Island by swapping flags and leaving bottles of booze there. Denmark left schnapps; Canada left _____.",
+    "a": "whisky",
+    "alt": ["whiskey", "Canadian Club", "Canadian whisky", "rye", "rye whisky"],
+    "d": ["ice wine", "Labatt beer", "vodka"],
+    "x": 0,
+    "src": "Wikipedia: Whisky War; CBC News, June 2022"
+  },
+  {
+    "id": "law-10",
+    "topic": "Protected Species",
+    "q": "Skamania County, Washington, passed an ordinance in 1969 making it a crime, punishable by up to five years in prison, to kill a _____.",
+    "a": "Bigfoot",
+    "alt": ["Sasquatch", "Big Foot", "a Bigfoot", "Bigfeet"],
+    "d": ["jackalope", "mermaid", "lake monster"],
+    "x": 0,
+    "src": "Skamania County Ordinance 69-01 (amended 1984); Wikipedia: Bigfoot"
+  },
+  {
+    "id": "law-11",
+    "topic": "Cold War Gadget",
+    "q": "In the 1960s, the CIA spent years trying to turn a surgically wired _____ into a walking eavesdropping device to spy on Soviet officials.",
+    "a": "cat",
+    "alt": ["house cat", "kitty", "cats", "housecat"],
+    "d": ["parrot", "squirrel", "poodle"],
+    "x": 0,
+    "src": "Wikipedia: Acoustic Kitty (CIA documents declassified 2001)"
+  },
+  {
+    "id": "law-12",
+    "topic": "Shelf Life",
+    "q": "A British tabloid livestreamed a _____ in 2022 to see whether it would outlast Prime Minister Liz Truss's time in office. It did.",
+    "a": "lettuce",
+    "alt": ["head of lettuce", "iceberg lettuce", "lettuce head"],
+    "d": ["banana", "goldfish", "candle"],
+    "x": 0,
+    "src": "Wikipedia: Premiership of Liz Truss (Daily Star lettuce livestream, October 2022)"
+  },
+  {
+    "id": "law-13",
+    "topic": "Oath of Office",
+    "q": "Kentucky's oath of office still requires new officials and lawyers to swear that they have never fought a _____.",
+    "a": "duel",
+    "alt": ["duel with deadly weapons", "a duel", "duels"],
+    "d": ["bear", "pirate", "fistfight on a riverboat"],
+    "x": 0,
+    "src": "Kentucky Constitution, Section 228"
+  },
+  {
+    "id": "law-14",
+    "topic": "Divine Defendant",
+    "q": "Nebraska state senator Ernie Chambers filed a lawsuit in 2007 against _____. A judge tossed it out, partly because the defendant had no address where papers could be served.",
+    "a": "God",
+    "alt": ["the Almighty", "the Lord"],
+    "d": ["the Moon", "Santa Claus", "the Easter Bunny"],
+    "x": 0,
+    "src": "Wikipedia: Ernie Chambers (Chambers v. God, 2007-2008)"
+  },
+  {
+    "id": "law-15",
+    "topic": "Palace Heist",
+    "q": "Thieves broke into Blenheim Palace, Winston Churchill's birthplace, in 2019 and stole a fully working 18-carat gold _____.",
+    "a": "toilet",
+    "alt": ["loo", "lavatory", "golden toilet", "gold toilet"],
+    "d": ["bathtub", "trombone", "lawnmower"],
+    "x": 0,
+    "src": "Wikipedia: America (Cattelan)"
+  },
+  {
+    "id": "law-16",
+    "topic": "State Symbol",
+    "q": "New Mexico is the only US state with an official state _____, adopted in 1996: 'Red or green?'",
+    "a": "question",
+    "alt": ["state question"],
+    "d": ["password", "riddle", "pickup line"],
+    "x": 0,
+    "src": "Wikipedia: List of New Mexico state symbols (official state question, 1996)"
+  },
+  {
+    "id": "law-17",
+    "topic": "Overkill",
+    "q": "In 1976, the US and South Korea launched a massive military operation, backed by B-52 bombers and attack helicopters, just to cut down a _____ in the Korean DMZ.",
+    "a": "tree",
+    "alt": ["poplar tree", "poplar", "single tree"],
+    "d": ["flagpole", "billboard", "fence"],
+    "x": 0,
+    "src": "Wikipedia: Operation Paul Bunyan"
+  },
+  {
+    "id": "law-18",
+    "topic": "Permit Required",
+    "q": "A 1963 ordinance in Carmel-by-the-Sea, California, says you need a permit from the city to wear _____ on its public streets.",
+    "a": "high heels",
+    "alt": ["high-heeled shoes", "heels", "stilettos", "high heel shoes"],
+    "d": ["clown shoes", "tap shoes", "swim fins"],
+    "x": 0,
+    "src": "Carmel-by-the-Sea Municipal Code, Chapter 8.44"
+  },
+  {
+    "id": "law-19",
+    "topic": "Sticky Fingers",
+    "q": "Between 2011 and 2012, thieves in Quebec quietly drained about $18 million worth of _____ from a strategic reserve.",
+    "a": "maple syrup",
+    "alt": ["syrup", "maple"],
+    "d": ["ice wine", "poutine gravy", "diesel fuel"],
+    "x": 0,
+    "src": "Wikipedia: Great Canadian Maple Syrup Heist"
+  },
+  {
+    "id": "law-20",
+    "topic": "Sweet Tradition",
+    "q": "Since 1965, one desk on the floor of the US Senate has been kept stocked with _____ for senators to share.",
+    "a": "candy",
+    "alt": ["sweets", "candies", "candy bars"],
+    "d": ["cigars", "bourbon", "aspirin"],
+    "x": 0,
+    "src": "US Senate Historical Office: 'The Candy Desk'"
+  },
+  {
+    "id": "law-21",
+    "topic": "Swiss Pet Rule",
+    "q": "Swiss animal-welfare rules have, since 2008, made it illegal to keep a _____ on its own, because they are social animals that need company.",
+    "a": "guinea pig",
+    "alt": ["guinea pigs", "cavy"],
+    "d": ["hamster", "tortoise", "tarantula"],
+    "x": 0,
+    "src": "Swiss Animal Protection Ordinance (2008); widely reported, e.g. Swissinfo"
+  },
+  {
+    "id": "law-22",
+    "topic": "Long Holdout",
+    "q": "Japanese soldier Hiroo Onoda kept fighting WWII in the Philippine jungle until 1974, surrendering only after his former _____ flew out to personally order him to stop.",
+    "a": "commanding officer",
+    "alt": ["commander", "superior officer", "officer", "major", "boss"],
+    "d": ["schoolteacher", "girlfriend", "barber"],
+    "x": 0,
+    "src": "Wikipedia: Hiroo Onoda"
+  },
+  {
+    "id": "law-23",
+    "topic": "Buyer Beware",
+    "q": "A New York appeals court ruled in 1991 that a house in Nyack was legally _____, so the buyer was allowed to back out of the sale.",
+    "a": "haunted",
+    "alt": ["a haunted house"],
+    "d": ["cursed", "a boat", "a zoo"],
+    "x": 0,
+    "src": "Wikipedia: Stambovsky v. Ackley"
+  },
+  {
+    "id": "law-24",
+    "topic": "Election Landslide",
+    "q": "In 2010, a professional _____ known as Tiririca won a seat in Brazil's Congress with more votes than any other congressional candidate in the country.",
+    "a": "clown",
+    "alt": ["circus clown", "clowns"],
+    "d": ["wrestler", "mime", "ventriloquist"],
+    "x": 0,
+    "src": "Wikipedia: Tiririca"
+  },
+  {
+    "id": "law-25",
+    "topic": "Scrap Metal Scam",
+    "q": "Using a crane and forged paperwork, thieves in the Czech Republic dismantled and hauled away an entire 10-ton _____ in 2012.",
+    "a": "bridge",
+    "alt": ["footbridge", "steel bridge", "railway bridge"],
+    "d": ["statue of Lenin", "tram", "church bell tower"],
+    "x": 0,
+    "src": "TIME / NBC News, May 2012: 'Thieves Make Off With 10-Ton Bridge, Railroad Track'"
+  },
+  {
+    "id": "law-26",
+    "topic": "French Weddings",
+    "q": "With special permission from the president, French law allows a person to marry someone who is _____.",
+    "a": "already dead",
+    "alt": ["dead", "deceased", "no longer alive"],
+    "d": ["already married", "a cartoon character", "an imaginary friend"],
+    "x": 0,
+    "src": "French Civil Code, Article 171; Wikipedia: Posthumous marriage"
+  },
+  {
+    "id": "law-27",
+    "topic": "Floating Fortress",
+    "q": "During WWII, Britain experimented with building a giant aircraft carrier out of _____ mixed with wood pulp.",
+    "a": "ice",
+    "alt": ["frozen water", "pykrete", "seawater ice"],
+    "d": ["cork", "seaweed", "rubber"],
+    "x": 0,
+    "src": "Wikipedia: Project Habakkuk"
+  },
+  {
+    "id": "law-28",
+    "topic": "Campaign Promise",
+    "q": "Comedian Jon Gnarr was elected mayor of Reykjavik in 2010 after promising free towels at public swimming pools and a _____ for the city zoo.",
+    "a": "polar bear",
+    "alt": ["polar bears"],
+    "d": ["penguin", "Viking ship", "T. rex"],
+    "x": 0,
+    "src": "Wikipedia: Jon Gnarr; Wikipedia: Best Party"
+  },
+  {
+    "id": "law-29",
+    "topic": "Tax Man's Loaf",
+    "q": "Ireland's Supreme Court ruled in 2020 that the bread in Subway's sandwiches contains too much _____ to legally count as bread for tax purposes.",
+    "a": "sugar",
+    "alt": ["sugar content"],
+    "d": ["air", "salt", "cheese"],
+    "x": 0,
+    "src": "Bookfinders Ltd v Revenue Commissioners, Irish Supreme Court (2020); BBC News"
+  },
+  {
+    "id": "law-30",
+    "topic": "Calendar Reform",
+    "q": "Turkmenistan's president Saparmurat Niyazov renamed the month of April after his _____ in 2002.",
+    "a": "mother",
+    "alt": ["mom", "mum", "late mother"],
+    "d": ["horse", "favorite melon", "dentist"],
+    "x": 0,
+    "src": "Wikipedia: Turkmen calendar reform (2002); BBC News, August 2002"
+  },
+  {
+    "id": "law-31",
+    "topic": "Island Escape",
+    "q": "The three men who escaped from Alcatraz in 1962 built their getaway raft out of more than 50 stolen _____.",
+    "a": "raincoats",
+    "alt": ["rain coats", "raincoat", "rubber raincoats"],
+    "d": ["mattresses", "bedsheets", "inner tubes"],
+    "x": 0,
+    "src": "FBI History: 'Alcatraz Escape'"
+  },
+  {
+    "id": "law-32",
+    "topic": "Muppet Lawsuit",
+    "q": "The makers of Spam sued Jim Henson Productions in 1996 over a Muppet _____ named Spa'am in the film Muppet Treasure Island.",
+    "a": "wild boar",
+    "alt": ["boar", "wild pig", "pig"],
+    "d": ["pirate", "parrot", "tiki idol"],
+    "x": 0,
+    "src": "Hormel Foods Corp. v. Jim Henson Productions, 73 F.3d 497 (2d Cir. 1996)"
+  },
+  {
+    "id": "law-33",
+    "topic": "Fishing Trip Peril",
+    "q": "While fishing in Georgia in 1979, President Jimmy Carter used a canoe paddle to fend off a _____ that was swimming toward his boat.",
+    "a": "rabbit",
+    "alt": ["swamp rabbit", "bunny", "killer rabbit"],
+    "d": ["beaver", "wild turkey", "possum"],
+    "x": 0,
+    "src": "Wikipedia: Jimmy Carter rabbit incident"
+  },
+  {
+    "id": "law-34",
+    "topic": "Alabama Showdown",
+    "q": "Until a 2015 cleanup of obsolete laws, Alabama made it a felony to promote, take part in, or work at a _____ match.",
+    "a": "bear wrestling",
+    "alt": ["bear-wrestling", "bear wrestle"],
+    "d": ["kangaroo boxing", "pillow fighting", "midnight bowling"],
+    "x": 0,
+    "src": "Ala. Code 13A-12-5 (Act 96-468, repealed by Act 2015-70)"
+  },
+  {
+    "id": "law-35",
+    "topic": "Be Prepared",
+    "q": "The US Centers for Disease Control and Prevention published an emergency preparedness guide in 2011 that was framed around surviving a _____.",
+    "a": "zombie apocalypse",
+    "alt": ["zombie attack", "zombie outbreak", "zombie invasion", "zombies"],
+    "d": ["Godzilla attack", "Martian invasion", "giant squid attack"],
+    "x": 0,
+    "src": "CDC blog, May 2011: 'Preparedness 101: Zombie Apocalypse'"
+  },
+  {
+    "id": "law-36",
+    "topic": "Sandwich Evidence",
+    "q": "The gang behind the 2003 Antwerp diamond heist was partly undone when police found a half-eaten _____ sandwich dumped in the woods with other evidence.",
+    "a": "salami",
+    "alt": ["salami sandwich"],
+    "d": ["tuna", "egg salad", "peanut butter"],
+    "x": 0,
+    "src": "Wikipedia: Antwerp diamond heist"
+  },
+  {
+    "id": "law-37",
+    "topic": "Downing Street Staff",
+    "q": "Since 2011, a tabby cat named Larry has held the official title of Chief _____ to the Cabinet Office.",
+    "a": "Mouser",
+    "alt": ["mouser"],
+    "d": ["Napper", "Purr Officer", "Lap Warmer"],
+    "x": 0,
+    "src": "Wikipedia: Larry (cat)"
+  },
+  {
+    "id": "law-38",
+    "topic": "Roadside Rules",
+    "q": "Vermont, Maine, Alaska and Hawaii are the only US states that ban _____ statewide.",
+    "a": "billboards",
+    "alt": ["billboard", "roadside billboards", "billboard ads"],
+    "d": ["drive-thru windows", "plastic lawn flamingos", "car horns"],
+    "x": 0,
+    "src": "Wikipedia: Billboard (US state bans: Hawaii 1927, Vermont 1968, Maine 1977, Alaska 1998)"
+  },
+  {
+    "id": "law-39",
+    "topic": "Show of Strength",
+    "q": "In 1958, the US Air Force secretly studied whether to detonate a nuclear bomb on the _____ as a display of American power.",
+    "a": "Moon",
+    "alt": ["moon", "lunar surface", "the Moon"],
+    "d": ["North Pole", "Grand Canyon", "Sahara"],
+    "x": 0,
+    "src": "Wikipedia: Project A119"
+  },
+  {
+    "id": "law-40",
+    "topic": "Costly Laundry",
+    "q": "In a 2007 trial, a Washington, DC administrative judge sought $54 million from his local dry cleaner over a lost pair of _____.",
+    "a": "pants",
+    "alt": ["trousers", "suit pants", "suit trousers", "slacks"],
+    "d": ["socks", "silk pajamas", "suspenders"],
+    "x": 0,
+    "src": "Wikipedia: Pearson v. Chung"
+  },
+  {
+    "id": "law-41",
+    "topic": "Health Checkup",
+    "q": "Under Japan's 2008 'metabo law,' adults aged 40 to 74 have their _____ measured at annual checkups, and the government sets limits for them.",
+    "a": "waistlines",
+    "alt": ["waist", "waists", "waistline", "waist size", "waist measurement"],
+    "d": ["shoe sizes", "earlobes", "pinky fingers"],
+    "x": 0,
+    "src": "Wikipedia: Metabo law; New York Times, June 2008"
+  },
+  {
+    "id": "law-42",
+    "topic": "Perennial Candidate",
+    "q": "US presidential hopeful Vermin Supreme campaigns with a rubber boot on his head and promises every American a free _____.",
+    "a": "pony",
+    "alt": ["ponies"],
+    "d": ["jetpack", "llama", "hot tub"],
+    "x": 0,
+    "src": "Wikipedia: Vermin Supreme"
+  },
+  {
+    "id": "law-43",
+    "topic": "Express Delivery",
+    "q": "The US Navy and Post Office tried a new way to deliver mail in 1959: they loaded 3,000 letters into a _____ and fired it from a submarine.",
+    "a": "cruise missile",
+    "alt": ["missile", "Regulus missile", "guided missile", "rocket"],
+    "d": ["torpedo", "cannonball", "weather balloon"],
+    "x": 0,
+    "src": "Smithsonian National Postal Museum: Missile Mail (USS Barbero, 1959)"
+  },
+  {
+    "id": "law-44",
+    "topic": "Game Show Lawsuit",
+    "q": "Vanna White won a 1992 lawsuit against Samsung over an ad showing a _____ in a blond wig and gown turning letters on a game show set.",
+    "a": "robot",
+    "alt": ["robots", "robot in a wig"],
+    "d": ["chimpanzee", "mannequin", "kangaroo"],
+    "x": 0,
+    "src": "White v. Samsung Electronics America, 971 F.2d 1395 (9th Cir. 1992)"
+  },
+  {
+    "id": "law-45",
+    "topic": "Afterlife Paperwork",
+    "q": "Since 2007, Chinese regulations have required Tibetan Buddhist lamas to get government permission before they _____.",
+    "a": "reincarnate",
+    "alt": ["are reincarnated", "get reincarnated", "reincarnate themselves"],
+    "d": ["shave their heads", "levitate", "take selfies"],
+    "x": 0,
+    "src": "State Religious Affairs Bureau Order No. 5 (2007); Wikipedia: Reincarnation application"
+  },
+  {
+    "id": "law-46",
+    "topic": "Police Discipline",
+    "q": "Bangkok police punished officers who broke minor rules in 2007 by making them wear a bright pink armband featuring _____.",
+    "a": "Hello Kitty",
+    "alt": ["hello kitty"],
+    "d": ["Barney", "Winnie the Pooh", "Pikachu"],
+    "x": 0,
+    "src": "BBC News, August 2007: Thai police Hello Kitty armbands"
+  },
+  {
+    "id": "law-47",
+    "topic": "Neighborly Plans",
+    "q": "In 1930, US military planners approved War Plan Red, a detailed contingency scheme that included invading _____.",
+    "a": "Canada",
+    "alt": [],
+    "d": ["Iceland", "Brazil", "Norway"],
+    "x": 0,
+    "src": "Wikipedia: War Plan Red"
+  },
+  {
+    "id": "law-48",
+    "topic": "Color Crime",
+    "q": "Until 1967, it was illegal in Wisconsin to sell _____ that had been colored yellow.",
+    "a": "margarine",
+    "alt": ["oleomargarine", "oleo", "margarine spread"],
+    "d": ["cheese curds", "snow cones", "golf balls"],
+    "x": 0,
+    "src": "Wikipedia: Margarine (US colored-margarine bans; Wisconsin repeal 1967)"
+  },
+  {
+    "id": "law-49",
+    "topic": "Election Day Snack",
+    "q": "Australians often celebrate voting by buying a 'democracy _____' from a fundraising stall at their polling place.",
+    "a": "sausage",
+    "alt": ["sausages", "snag", "sausage sizzle"],
+    "d": ["pie", "lamington", "donut"],
+    "x": 0,
+    "src": "Wikipedia: Democracy sausage (Australian National Dictionary Centre Word of the Year 2016)"
+  },
+  {
+    "id": "law-50",
+    "topic": "Toy Trade Ruling",
+    "q": "A US trade court ruled in 2003 that Marvel's X-Men action figures were not _____, which meant they qualified for a lower import tax.",
+    "a": "human",
+    "alt": ["humans", "human beings", "people"],
+    "d": ["superheroes", "mutants", "Canadian"],
+    "x": 0,
+    "src": "Toy Biz, Inc. v. United States, 248 F. Supp. 2d 1234 (Ct. Int'l Trade 2003)"
+  },
+  {
+    "id": "law-51",
+    "topic": "Special Delivery",
+    "q": "Soon after US parcel post began in 1913, a few parents used it to send their _____ through the mail, until postal officials banned the practice.",
+    "a": "children",
+    "alt": ["kids", "child", "babies", "baby", "kid"],
+    "d": ["mothers-in-law", "pet goats", "pianos"],
+    "x": 0,
+    "src": "Smithsonian National Postal Museum; Smithsonian Magazine: 'Very Special Deliveries'"
+  },
+  {
+    "id": "law-52",
+    "topic": "Marathon Speech",
+    "q": "During a 21-hour Senate speech against Obamacare in 2013, Ted Cruz read aloud from the Dr. Seuss book _____.",
+    "a": "Green Eggs and Ham",
+    "alt": ["Green Eggs & Ham", "Green Eggs and Ham."],
+    "d": ["The Cat in the Hat", "The Lorax", "Fox in Socks"],
+    "x": 0,
+    "src": "Wikipedia: Ted Cruz (2013 Senate speech); Washington Post, September 2013"
+  },
+  {
+    "id": "law-53",
+    "topic": "Caribbean Caper",
+    "q": "In 2008, thieves in Jamaica carted off roughly 500 truckloads of _____ from a site that was supposed to become a luxury resort.",
+    "a": "sand",
+    "alt": ["beach sand", "white sand", "a beach"],
+    "d": ["coconuts", "seashells", "bananas"],
+    "x": 0,
+    "src": "Wikipedia: Sand theft; RNZ and Mail & Guardian, October 2008"
+  },
+  {
+    "id": "law-54",
+    "topic": "Banned on TV",
+    "q": "China's broadcasting regulator discouraged TV dramas about _____ in 2011, saying they were frivolous and disrespectful to history.",
+    "a": "time travel",
+    "alt": ["time-travel", "time traveling", "time travelling", "time travelers"],
+    "d": ["talking pandas", "pirates", "robot butlers"],
+    "x": 0,
+    "src": "SARFT guidelines, April 2011; reported by BBC and Reuters"
+  },
+  {
+    "id": "law-55",
+    "topic": "Prison Break",
+    "q": "When cartel boss Joaquin 'El Chapo' Guzman escaped a Mexican prison in 2015, he fled through a mile-long tunnel fitted with a modified _____ on rails.",
+    "a": "motorcycle",
+    "alt": ["motorbike", "dirt bike", "motorcycle on rails"],
+    "d": ["golf cart", "shopping cart", "rowing machine"],
+    "x": 0,
+    "src": "Wikipedia: Joaquin Guzman (2015 escape); BBC News, July 2015"
+  },
+  {
+    "id": "law-56",
+    "topic": "How to Quit",
+    "q": "British MPs can't technically resign, so they leave Parliament by taking a nominal Crown job such as Steward of the _____.",
+    "a": "Chiltern Hundreds",
+    "alt": ["Manor of Northstead", "Chiltern Hundred"],
+    "d": ["Royal Swans", "Queen's Biscuits", "Thames Mudflats"],
+    "x": 0,
+    "src": "Wikipedia: Resignation from the British House of Commons"
+  },
+  {
+    "id": "law-57",
+    "topic": "Roman Holiday",
+    "q": "Since 2019, tourists in Rome can be fined up to 400 euros just for _____ on the Spanish Steps.",
+    "a": "sitting",
+    "alt": ["sitting down", "taking a seat", "sitting on them"],
+    "d": ["whistling", "walking backwards", "skipping"],
+    "x": 0,
+    "src": "Rome urban police regulations (2019); BBC News, August 2019"
+  },
+  {
+    "id": "law-58",
+    "topic": "Sky Patrol",
+    "q": "Dutch police announced in 2016 that they were training _____ to snatch illegal drones out of the sky, but they dropped the program in 2017.",
+    "a": "eagles",
+    "alt": ["eagle", "birds of prey", "raptors"],
+    "d": ["pelicans", "seagulls", "bats"],
+    "x": 0,
+    "src": "BBC News, February 2016 and December 2017: Dutch police drone-catching eagles"
+  },
+  {
+    "id": "law-59",
+    "topic": "New Cabinet Post",
+    "q": "In 2018, the UK government appointed its first-ever Minister for _____.",
+    "a": "Loneliness",
+    "alt": ["loneliness"],
+    "d": ["Fun", "Queuing", "Weather"],
+    "x": 0,
+    "src": "BBC News, January 2018: UK appoints minister for loneliness"
+  },
+  {
+    "id": "law-60",
+    "topic": "Social Media Experiment",
+    "q": "From 2011 to 2018, Sweden's official national Twitter account was handed over to a different _____ every week.",
+    "a": "ordinary citizen",
+    "alt": ["citizen", "random citizen", "Swedish citizen", "Swede", "random Swede", "regular Swede"],
+    "d": ["government robot", "golden retriever", "member of ABBA"],
+    "x": 0,
+    "src": "Wikipedia: Curators of Sweden"
+  }
+]

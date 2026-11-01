@@ -1,0 +1,602 @@
+[
+  {
+    "id": "ani-01",
+    "topic": "Surprise Cousins",
+    "q": "Apart from manatees and dugongs, the elephant's closest living relatives are _____, furry animals about the size of a rabbit.",
+    "a": "hyraxes",
+    "alt": ["hyrax", "rock hyraxes", "rock hyrax", "dassies", "dassie"],
+    "d": ["capybaras", "pangolins", "wombats"],
+    "x": 0,
+    "src": "Wikipedia: Hyrax"
+  },
+  {
+    "id": "ani-02",
+    "topic": "Hippo Skincare",
+    "q": "Hippos ooze a reddish, oily fluid that works as a natural sunscreen, giving rise to the misleading nickname '_____'.",
+    "a": "blood sweat",
+    "alt": ["blood-sweat", "bloody sweat"],
+    "d": ["hippo ketchup", "river wine", "swamp lotion"],
+    "x": 0,
+    "src": "Wikipedia: Hippopotamus"
+  },
+  {
+    "id": "ani-03",
+    "topic": "Slow Roommates",
+    "q": "A sloth's shaggy fur is home to its very own species of _____, which lay their eggs in the sloth's dung.",
+    "a": "moths",
+    "alt": ["moth", "sloth moths", "sloth moth"],
+    "d": ["snails", "tree frogs", "earwigs"],
+    "x": 0,
+    "src": "Wikipedia: Cryptoses choloepi"
+  },
+  {
+    "id": "ani-04",
+    "topic": "Suspicious Specimen",
+    "q": "When the first platypus pelt reached Britain in the late 1790s, scientists suspected it was a _____.",
+    "a": "hoax",
+    "alt": ["fake", "fraud", "forgery", "prank"],
+    "d": ["baby dragon", "sick duck", "mutant otter"],
+    "x": 0,
+    "src": "Wikipedia: Platypus"
+  },
+  {
+    "id": "ani-05",
+    "topic": "Black Light Party",
+    "q": "Shine an ultraviolet light on a North American flying squirrel and its fur glows _____.",
+    "a": "pink",
+    "alt": ["hot pink", "bright pink", "pinkish"],
+    "d": ["lime green", "electric blue", "orange"],
+    "x": 0,
+    "src": "Kohler et al., Journal of Mammalogy (2019); Wikipedia: Flying squirrel"
+  },
+  {
+    "id": "ani-06",
+    "topic": "Tusk Travel",
+    "q": "Because walruses use their tusks to haul themselves onto the ice, their scientific name, Odobenus, means '_____' in Greek.",
+    "a": "tooth walker",
+    "alt": ["tooth-walker", "toothwalker", "tooth walking"],
+    "d": ["ice puller", "whisker horse", "sea grandpa"],
+    "x": 0,
+    "src": "Wikipedia: Walrus"
+  },
+  {
+    "id": "ani-07",
+    "topic": "Breathless Rodent",
+    "q": "Naked mole-rats can survive about 18 minutes with no oxygen at all by switching to running their bodies on _____.",
+    "a": "fructose",
+    "alt": ["fruit sugar"],
+    "d": ["belly fat", "carbon dioxide", "stomach acid"],
+    "x": 0,
+    "src": "Park et al., Science (2017); Wikipedia: Naked mole-rat"
+  },
+  {
+    "id": "ani-08",
+    "topic": "Toxic Cuddles",
+    "q": "One of the only venomous primates, the slow loris makes its toxin by licking an oily gland on its _____ and mixing it with saliva.",
+    "a": "elbows",
+    "alt": ["elbow", "arms", "upper arms", "inner elbows"],
+    "d": ["ankles", "cheeks", "tail"],
+    "x": 0,
+    "src": "Wikipedia: Slow loris"
+  },
+  {
+    "id": "ani-09",
+    "topic": "Warning Routine",
+    "q": "Before it sprays, a threatened spotted skunk often warns attackers by performing a _____.",
+    "a": "handstand",
+    "alt": ["handstands", "front-leg handstand"],
+    "d": ["backflip", "moonwalk", "cartwheel"],
+    "x": 0,
+    "src": "Wikipedia: Spotted skunk"
+  },
+  {
+    "id": "ani-10",
+    "topic": "Lemur Feuds",
+    "q": "Male ring-tailed lemurs compete for status in contests known as '_____ fights', using their long striped tails.",
+    "a": "stink",
+    "alt": ["stinky", "smell", "scent"],
+    "d": ["tickle", "staring", "dance"],
+    "x": 0,
+    "src": "Wikipedia: Ring-tailed lemur"
+  },
+  {
+    "id": "ani-11",
+    "topic": "Seasonal Eyes",
+    "q": "Arctic reindeer eyes change color with the seasons, going from golden in summer to deep _____ in winter.",
+    "a": "blue",
+    "alt": ["dark blue", "navy"],
+    "d": ["red", "violet", "silver"],
+    "x": 0,
+    "src": "Stokkan et al., Proceedings of the Royal Society B (2013)"
+  },
+  {
+    "id": "ani-12",
+    "topic": "Sheep Spotting",
+    "q": "During a 2017 University of Cambridge study, sheep learned to recognize photos of famous faces, including _____.",
+    "a": "Barack Obama",
+    "alt": ["Obama", "Emma Watson", "Jake Gyllenhaal", "Fiona Bruce"],
+    "d": ["Taylor Swift", "Dolly Parton", "Tom Hanks"],
+    "x": 0,
+    "src": "Knolle et al., Royal Society Open Science (2017)"
+  },
+  {
+    "id": "ani-13",
+    "topic": "Baby Name",
+    "q": "Baby echidnas hatch from eggs with no spines at all, and are known as _____.",
+    "a": "puggles",
+    "alt": ["puggle"],
+    "d": ["spikelets", "pricklets", "hoglets"],
+    "x": 0,
+    "src": "Wikipedia: Echidna"
+  },
+  {
+    "id": "ani-14",
+    "topic": "Waxy Records",
+    "q": "By counting the layers in the giant plug of earwax inside a whale's ear, scientists can work out its _____.",
+    "a": "age",
+    "alt": ["age in years"],
+    "d": ["top speed", "favorite song", "blood type"],
+    "x": 0,
+    "src": "Wikipedia: Earwax"
+  },
+  {
+    "id": "ani-15",
+    "topic": "Orca Fashion",
+    "q": "Back in 1987, orcas in Puget Sound started a baffling trend of swimming around wearing dead _____ on their heads.",
+    "a": "salmon",
+    "alt": ["salmons", "fish", "chum salmon"],
+    "d": ["jellyfish", "octopuses", "seagulls"],
+    "x": 0,
+    "src": "National Geographic (2024); CBC News (2024)"
+  },
+  {
+    "id": "ani-16",
+    "topic": "Snout Protection",
+    "q": "Some bottlenose dolphins in Shark Bay, Australia, wear _____ on their beaks to protect them while foraging on the rough seafloor.",
+    "a": "sea sponges",
+    "alt": ["sponges", "sponge", "marine sponges", "a sponge"],
+    "d": ["seaweed", "jellyfish", "coconut husks"],
+    "x": 0,
+    "src": "Wikipedia: Tool use by animals"
+  },
+  {
+    "id": "ani-17",
+    "topic": "Ancient Swimmer",
+    "q": "Using radiocarbon dating of eye lenses, a 2016 study estimated that Greenland sharks can live for around _____.",
+    "a": "400 years",
+    "alt": ["400", "four hundred years", "four centuries", "390 years", "392 years"],
+    "d": ["150 years", "90 years", "1,000 years"],
+    "x": 0,
+    "src": "Nielsen et al., Science (2016); Wikipedia: Greenland shark"
+  },
+  {
+    "id": "ani-18",
+    "topic": "Deep Time",
+    "q": "Sharks are older than _____, which didn't appear on Earth until roughly 385 million years ago.",
+    "a": "trees",
+    "alt": ["tree", "forests"],
+    "d": ["dinosaurs", "flowers", "grass"],
+    "x": 0,
+    "src": "Wikipedia: Shark; Wikipedia: Tree"
+  },
+  {
+    "id": "ani-19",
+    "topic": "Snap Flash",
+    "q": "A pistol shrimp's snap creates a collapsing bubble that gives off a tiny flash of light, a phenomenon nicknamed '_____'.",
+    "a": "shrimpoluminescence",
+    "alt": [],
+    "d": ["claw lightning", "shrimpfire", "snapperglow"],
+    "x": 0,
+    "src": "Wikipedia: Alpheidae"
+  },
+  {
+    "id": "ani-20",
+    "topic": "Name Confusion",
+    "q": "Despite its name, the electric eel isn't a true eel at all; it's more closely related to _____.",
+    "a": "catfish",
+    "alt": ["catfishes", "carp", "knifefish"],
+    "d": ["stingrays", "sharks", "lungfish"],
+    "x": 0,
+    "src": "Wikipedia: Electric eel"
+  },
+  {
+    "id": "ani-21",
+    "topic": "Odd Pupils",
+    "q": "Cuttlefish have pupils shaped like the letter _____.",
+    "a": "W",
+    "alt": ["w"],
+    "d": ["S", "X", "Z"],
+    "x": 0,
+    "src": "Wikipedia: Cuttlefish"
+  },
+  {
+    "id": "ani-22",
+    "topic": "Spooky Squid",
+    "q": "Its name sounds terrifying, but the deep-sea vampire squid lives mostly on a diet of _____.",
+    "a": "marine snow",
+    "alt": ["sea snow", "detritus", "drifting debris"],
+    "d": ["blood", "baby sharks", "lanternfish"],
+    "x": 0,
+    "src": "Wikipedia: Vampire squid"
+  },
+  {
+    "id": "ani-23",
+    "topic": "Fish Driver",
+    "q": "Researchers in Israel reported in 2022 that goldfish could learn to steer a _____ toward a target.",
+    "a": "robotic car",
+    "alt": ["robot car", "wheeled tank", "robotic vehicle", "car", "tank on wheels", "fish-operated vehicle"],
+    "d": ["toy submarine", "remote-control boat", "tiny drone"],
+    "x": 0,
+    "src": "Givon et al., Behavioural Brain Research (2022)"
+  },
+  {
+    "id": "ani-24",
+    "topic": "Beach Origins",
+    "q": "Much of the white sand on tropical beaches in places like Hawaii and the Maldives is actually parrotfish _____.",
+    "a": "poop",
+    "alt": ["poo", "feces", "droppings", "excrement", "waste", "dung"],
+    "d": ["scales", "teeth", "eggshells"],
+    "x": 0,
+    "src": "Wikipedia: Parrotfish"
+  },
+  {
+    "id": "ani-25",
+    "topic": "Unusual Breathing",
+    "q": "Australia's Fitzroy River turtle can stay submerged for days at a time because it absorbs oxygen through its _____.",
+    "a": "butt",
+    "alt": ["bum", "bottom", "cloaca", "rear end", "backside", "rear"],
+    "d": ["eyeballs", "toenails", "ears"],
+    "x": 0,
+    "src": "Wikipedia: Fitzroy River turtle"
+  },
+  {
+    "id": "ani-26",
+    "topic": "Grudge Holders",
+    "q": "In a University of Washington experiment, wild crows learned to scold and dive-bomb anyone wearing a _____ mask.",
+    "a": "caveman",
+    "alt": ["caveman mask", "neanderthal"],
+    "d": ["clown", "Richard Nixon", "gorilla"],
+    "x": 0,
+    "src": "Marzluff et al., Animal Behaviour (2010); University of Washington"
+  },
+  {
+    "id": "ani-27",
+    "topic": "Art Critics",
+    "q": "Pigeons were trained to tell paintings by Monet from those by _____ in a 1995 study that later won an Ig Nobel Prize.",
+    "a": "Picasso",
+    "alt": ["Pablo Picasso"],
+    "d": ["Rembrandt", "Salvador Dali", "Andy Warhol"],
+    "x": 0,
+    "src": "Watanabe et al., Journal of the Experimental Analysis of Behavior (1995); Ig Nobel Prize (1995)"
+  },
+  {
+    "id": "ani-28",
+    "topic": "Big Bird",
+    "q": "Each of an ostrich's _____ is bigger than its brain.",
+    "a": "eyes",
+    "alt": ["eye", "eyeballs", "eyeball"],
+    "d": ["nostrils", "eardrums", "tonsils"],
+    "x": 0,
+    "src": "Wikipedia: Common ostrich"
+  },
+  {
+    "id": "ani-29",
+    "topic": "Military Penguin",
+    "q": "In 2008, Nils Olav, a king penguin at Edinburgh Zoo, was officially _____ by Norway's King's Guard.",
+    "a": "knighted",
+    "alt": ["made a knight"],
+    "d": ["court-martialed", "drafted", "exiled"],
+    "x": 0,
+    "src": "Wikipedia: Nils Olav"
+  },
+  {
+    "id": "ani-30",
+    "topic": "Forest Mimic",
+    "q": "The superb lyrebird of Australia can mimic almost anything it hears, including camera shutters, car alarms and _____.",
+    "a": "chainsaws",
+    "alt": ["chainsaw", "chain saws"],
+    "d": ["bagpipes", "dial-up modems", "kazoos"],
+    "x": 0,
+    "src": "Wikipedia: Superb lyrebird"
+  },
+  {
+    "id": "ani-31",
+    "topic": "Awkward Encounter",
+    "q": "While filming a 2009 BBC documentary, a kakapo parrot named Sirocco famously tried to mate with a zoologist's _____.",
+    "a": "head",
+    "alt": ["his head", "the back of his head"],
+    "d": ["camera", "boot", "backpack"],
+    "x": 1,
+    "src": "Wikipedia: Sirocco (parrot)"
+  },
+  {
+    "id": "ani-32",
+    "topic": "One of a Kind",
+    "q": "North America's common poorwill is the only bird known to _____.",
+    "a": "hibernate",
+    "alt": ["go into hibernation", "hibernate in winter"],
+    "d": ["sweat", "sleepwalk", "purr"],
+    "x": 0,
+    "src": "Wikipedia: Common poorwill"
+  },
+  {
+    "id": "ani-33",
+    "topic": "Frequent Flyer",
+    "q": "Tracking data published in 2016 showed that common swifts can stay airborne for up to _____ without landing.",
+    "a": "10 months",
+    "alt": ["ten months", "10"],
+    "d": ["3 weeks", "6 days", "2 years"],
+    "x": 0,
+    "src": "Hedenstrom et al., Current Biology (2016)"
+  },
+  {
+    "id": "ani-34",
+    "topic": "Hornet Defense",
+    "q": "When a giant hornet invades, Japanese honeybees mob it in a tight ball and kill it by _____ it.",
+    "a": "cooking",
+    "alt": ["overheating", "baking", "heating", "roasting"],
+    "d": ["tickling", "drowning in honey", "hypnotizing"],
+    "x": 0,
+    "src": "Wikipedia: Japanese honey bee"
+  },
+  {
+    "id": "ani-35",
+    "topic": "Zombie Fungus",
+    "q": "A parasitic fungus hijacks carpenter ants, steering them to climb up and clamp their jaws onto a _____ before they die.",
+    "a": "leaf",
+    "alt": ["leaf vein", "leaves", "the underside of a leaf"],
+    "d": ["flower petal", "spider web", "bird feather"],
+    "x": 0,
+    "src": "Wikipedia: Ophiocordyceps unilateralis"
+  },
+  {
+    "id": "ani-36",
+    "topic": "Wasp Mind Control",
+    "q": "After stinging a cockroach in the brain, the jewel wasp leads the dazed roach by its antenna like a _____.",
+    "a": "dog on a leash",
+    "alt": ["dog on a lead", "dog", "leashed dog", "pet on a leash"],
+    "d": ["kite on a string", "shopping cart", "wheelbarrow"],
+    "x": 0,
+    "src": "Wikipedia: Ampulex compressa"
+  },
+  {
+    "id": "ani-37",
+    "topic": "Ladybug Defense",
+    "q": "Threaten a ladybug and it may ooze a foul-tasting yellow fluid from its _____.",
+    "a": "knees",
+    "alt": ["leg joints", "knee joints", "legs", "joints"],
+    "d": ["antennae", "eyeballs", "wing tips"],
+    "x": 0,
+    "src": "Wikipedia: Coccinellidae"
+  },
+  {
+    "id": "ani-38",
+    "topic": "Cicada Math",
+    "q": "Periodical cicadas spend 13 or 17 years underground, and scientists have noted that both are _____ numbers.",
+    "a": "prime",
+    "alt": ["prime numbers"],
+    "d": ["Fibonacci", "lucky", "perfect"],
+    "x": 0,
+    "src": "Wikipedia: Periodical cicadas"
+  },
+  {
+    "id": "ani-39",
+    "topic": "Night Navigator",
+    "q": "A 2013 study found that dung beetles keep their dung balls rolling in a straight line at night by steering by the _____.",
+    "a": "Milky Way",
+    "alt": ["the Milky Way", "Milky Way galaxy", "galaxy"],
+    "d": ["North Star", "Big Dipper", "city lights"],
+    "x": 0,
+    "src": "Dacke et al., Current Biology (2013)"
+  },
+  {
+    "id": "ani-40",
+    "topic": "Stripe Theory",
+    "q": "Experiments with horses wearing striped coats suggest that zebra stripes mainly help to fend off _____.",
+    "a": "biting flies",
+    "alt": ["flies", "horseflies", "horse flies", "tabanids", "insects"],
+    "d": ["lions", "hyenas", "photographers"],
+    "x": 0,
+    "src": "Caro et al., PLOS ONE (2019); Wikipedia: Zebra"
+  },
+  {
+    "id": "ani-41",
+    "topic": "Eye Defense",
+    "q": "Some horned lizards fend off coyotes by squirting _____ from their eyes.",
+    "a": "blood",
+    "alt": ["jets of blood"],
+    "d": ["venom", "milk", "acid"],
+    "x": 0,
+    "src": "Wikipedia: Horned lizard"
+  },
+  {
+    "id": "ani-42",
+    "topic": "Frog Swallowing",
+    "q": "Frogs help push food down their throats by pulling their _____ down into their heads.",
+    "a": "eyeballs",
+    "alt": ["eyes", "eyeball"],
+    "d": ["nostrils", "eardrums", "cheeks"],
+    "x": 0,
+    "src": "Wikipedia: Frog"
+  },
+  {
+    "id": "ani-43",
+    "topic": "Winter Survival",
+    "q": "The wood frog makes it through winter by _____: its heart stops and it doesn't breathe until spring.",
+    "a": "freezing solid",
+    "alt": ["freezing", "being frozen", "turning to ice", "freezing itself"],
+    "d": ["holding its breath", "sleeping in mud", "playing dead"],
+    "x": 0,
+    "src": "Wikipedia: Wood frog"
+  },
+  {
+    "id": "ani-44",
+    "topic": "Giant Grove",
+    "q": "Pando, a forest of quaking aspens in Utah that is genetically one single organism, takes its name from Latin for '_____'.",
+    "a": "I spread",
+    "alt": ["I spread out"],
+    "d": ["one tree", "I tremble", "many hands"],
+    "x": 0,
+    "src": "Wikipedia: Pando (tree)"
+  },
+  {
+    "id": "ani-45",
+    "topic": "Oregon Giant",
+    "q": "A single honey fungus in Oregon's Malheur National Forest spreads underground across nearly 4 square miles and is nicknamed the '_____'.",
+    "a": "Humongous Fungus",
+    "alt": ["humongous fungus"],
+    "d": ["Mushroom Monster", "Big Spore", "Fungzilla"],
+    "x": 0,
+    "src": "Wikipedia: Armillaria ostoyae"
+  },
+  {
+    "id": "ani-46",
+    "topic": "Picky Plant",
+    "q": "In the wild, Venus flytraps grow naturally only in a small coastal region of _____.",
+    "a": "the Carolinas",
+    "alt": ["Carolinas", "North and South Carolina", "North Carolina", "Carolina"],
+    "d": ["Madagascar", "Borneo", "Louisiana"],
+    "x": 0,
+    "src": "Wikipedia: Venus flytrap"
+  },
+  {
+    "id": "ani-47",
+    "topic": "Stinky Bloom",
+    "q": "The scientific name of the foul-smelling corpse flower, Amorphophallus titanum, translates roughly to 'giant misshapen _____'.",
+    "a": "phallus",
+    "alt": ["penis", "willy"],
+    "d": ["onion", "candle", "turnip"],
+    "x": 1,
+    "src": "Wikipedia: Amorphophallus titanum"
+  },
+  {
+    "id": "ani-48",
+    "topic": "Desert Survivor",
+    "q": "Welwitschia, a Namib Desert plant that can live for more than 1,000 years, only ever grows _____.",
+    "a": "two leaves",
+    "alt": ["2 leaves", "two leaves in its life"],
+    "d": ["one flower", "a single root", "three branches"],
+    "x": 0,
+    "src": "Wikipedia: Welwitschia"
+  },
+  {
+    "id": "ani-49",
+    "topic": "Jungle Partnership",
+    "q": "Some giant pitcher plants in Borneo get much of their nitrogen by serving as _____ for tree shrews.",
+    "a": "toilets",
+    "alt": ["toilet", "toilet bowls", "latrines", "bathrooms"],
+    "d": ["bathtubs", "nests", "pillows"],
+    "x": 0,
+    "src": "Wikipedia: Nepenthes lowii"
+  },
+  {
+    "id": "ani-50",
+    "topic": "Deadly Tree",
+    "q": "The fruit of the manchineel, one of the most toxic trees on Earth, is nicknamed the 'little _____ of death'.",
+    "a": "apple",
+    "alt": ["apples"],
+    "d": ["pear", "plum", "fig"],
+    "x": 0,
+    "src": "Wikipedia: Hippomane mancinella"
+  },
+  {
+    "id": "ani-51",
+    "topic": "Wartime Bandage",
+    "q": "During World War I, tons of _____ were gathered to make wound dressings because it soaks up liquid so well.",
+    "a": "sphagnum moss",
+    "alt": ["moss", "peat moss", "sphagnum", "bog moss"],
+    "d": ["cattail fluff", "seaweed", "dandelion fuzz"],
+    "x": 0,
+    "src": "Wikipedia: Sphagnum"
+  },
+  {
+    "id": "ani-52",
+    "topic": "Brainless Planner",
+    "q": "In a 2010 experiment, a brainless slime mold grew a network of tubes strikingly similar to _____.",
+    "a": "Tokyo's rail network",
+    "alt": ["the Tokyo rail system", "Tokyo rail network", "Tokyo railway", "Tokyo's railways", "the Tokyo subway"],
+    "d": ["Paris's sewers", "the Great Wall", "a honeycomb"],
+    "x": 0,
+    "src": "Tero et al., Science (2010)"
+  },
+  {
+    "id": "ani-53",
+    "topic": "Frozen Strands",
+    "q": "Hair ice, silky white strands that sprout from dead wood on winter nights, only forms when a particular _____ is living inside the wood.",
+    "a": "fungus",
+    "alt": ["fungi", "mold", "Exidiopsis effusa"],
+    "d": ["beetle", "moss", "worm"],
+    "x": 0,
+    "src": "Wikipedia: Hair ice"
+  },
+  {
+    "id": "ani-54",
+    "topic": "After the Storm",
+    "q": "That pleasant earthy smell when rain falls on dry ground has a scientific name: _____.",
+    "a": "petrichor",
+    "alt": [],
+    "d": ["terrasence", "pluvial musk", "ozonia"],
+    "x": 0,
+    "src": "Wikipedia: Petrichor"
+  },
+  {
+    "id": "ani-55",
+    "topic": "Desert Wall",
+    "q": "A towering wall of dust pushed ahead of a collapsing thunderstorm is known by the Arabic-derived name _____.",
+    "a": "haboob",
+    "alt": ["habub"],
+    "d": ["sandoom", "zaffara", "kaboosh"],
+    "x": 0,
+    "src": "Wikipedia: Haboob"
+  },
+  {
+    "id": "ani-56",
+    "topic": "Struck Sand",
+    "q": "When lightning strikes sand, it can fuse the grains into hollow, branching glass tubes called _____.",
+    "a": "fulgurites",
+    "alt": ["fulgurite", "petrified lightning"],
+    "d": ["stormstones", "thunderpipes", "voltites"],
+    "x": 0,
+    "src": "Wikipedia: Fulgurite"
+  },
+  {
+    "id": "ani-57",
+    "topic": "Everlasting Storm",
+    "q": "Lightning flashes over Venezuela's Lake Maracaibo on so many nights that sailors have long used it as a natural _____.",
+    "a": "lighthouse",
+    "alt": ["lighthouses", "beacon"],
+    "d": ["clock", "calendar", "weather vane"],
+    "x": 0,
+    "src": "Wikipedia: Catatumbo lightning"
+  },
+  {
+    "id": "ani-58",
+    "topic": "Odd Forecast",
+    "q": "Every year, the town of Yoro in Honduras celebrates a festival honoring its mysterious 'rain of _____'.",
+    "a": "fish",
+    "alt": ["fishes"],
+    "d": ["frogs", "spiders", "pennies"],
+    "x": 0,
+    "src": "Wikipedia: Lluvia de peces"
+  },
+  {
+    "id": "ani-59",
+    "topic": "Raindrop Shape",
+    "q": "Falling raindrops aren't teardrop-shaped; larger ones flatten out on the bottom and look more like _____.",
+    "a": "hamburger buns",
+    "alt": ["burger buns", "hamburger bun", "buns", "the top of a hamburger bun"],
+    "d": ["footballs", "golf tees", "pears"],
+    "x": 0,
+    "src": "NASA Global Precipitation Measurement: Anatomy of a Raindrop"
+  },
+  {
+    "id": "ani-60",
+    "topic": "Surfing the Sky",
+    "q": "Glider pilots flock to Burketown, Australia, each spring to surf a rare rolling tube of cloud nicknamed the '_____'.",
+    "a": "Morning Glory",
+    "alt": ["Morning Glory cloud"],
+    "d": ["Sky Sausage", "Outback Wave", "Big Swirly"],
+    "x": 0,
+    "src": "Wikipedia: Morning Glory cloud"
+  }
+]

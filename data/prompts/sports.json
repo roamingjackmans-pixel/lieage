@@ -1,0 +1,602 @@
+[
+  {
+    "id": "spt-01",
+    "topic": "Olympic Rope Battle",
+    "q": "At the 1908 London Olympics, every tug-of-war medal went to teams made up entirely of British _____.",
+    "a": "policemen",
+    "alt": ["police officers", "police", "policeman", "police officer", "cops", "bobbies", "policemen from London and Liverpool"],
+    "d": ["coal miners", "blacksmiths", "dockworkers"],
+    "x": 0,
+    "src": "Wikipedia: Tug of war at the 1908 Summer Olympics"
+  },
+  {
+    "id": "spt-02",
+    "topic": "River Race",
+    "q": "Held in the Seine, the 200-meter obstacle swim at the 1900 Paris Olympics made competitors climb over a pole, then scramble over and swim under rows of _____.",
+    "a": "boats",
+    "alt": ["boat", "rowboats", "row boats", "rowing boats"],
+    "d": ["barrels", "floating logs", "bathing huts"],
+    "x": 0,
+    "src": "Wikipedia: Swimming at the 1900 Summer Olympics - Men's 200 metre obstacle event"
+  },
+  {
+    "id": "spt-03",
+    "topic": "Exclusive Race",
+    "q": "One swimming race at the first modern Olympics in 1896 was open only to members of the Greek _____.",
+    "a": "Navy",
+    "alt": ["navy", "Royal Navy", "Greek Navy", "Royal Hellenic Navy", "sailors", "naval sailors"],
+    "d": ["Orthodox clergy", "royal family", "national choir"],
+    "x": 0,
+    "src": "Wikipedia: Swimming at the 1896 Summer Olympics - Men's 100 metre freestyle for sailors"
+  },
+  {
+    "id": "spt-04",
+    "topic": "Double Medalist",
+    "q": "Swimmer Alfred Hajos won Hungary's first Olympic gold in 1896, then took a silver medal in 1924 in the art competition for _____.",
+    "a": "architecture",
+    "alt": ["architectural design", "stadium design", "designing a stadium", "town planning"],
+    "d": ["poetry", "sculpture", "music"],
+    "x": 0,
+    "src": "Wikipedia: Alfred Hajos"
+  },
+  {
+    "id": "spt-05",
+    "topic": "Marathon Fuel",
+    "q": "Thomas Hicks won the chaotic 1904 Olympic marathon after his trainers dosed him mid-race with brandy, egg whites and _____.",
+    "a": "strychnine",
+    "alt": ["rat poison", "strychnine sulfate", "poison"],
+    "d": ["gunpowder", "turpentine", "horse liniment"],
+    "x": 1,
+    "src": "Wikipedia: Athletics at the 1904 Summer Olympics - Men's marathon"
+  },
+  {
+    "id": "spt-06",
+    "topic": "Rainy Final",
+    "q": "Berlin hosted the first Olympic basketball final in 1936, played outdoors on a _____ in a pouring rainstorm.",
+    "a": "tennis court",
+    "alt": ["tennis courts", "clay tennis court", "sand tennis court", "clay court", "dirt tennis court"],
+    "d": ["cobblestone square", "horse track", "parking lot"],
+    "x": 0,
+    "src": "Wikipedia: Basketball at the 1936 Summer Olympics"
+  },
+  {
+    "id": "spt-07",
+    "topic": "Mat Marathon",
+    "q": "A 1912 Olympic wrestling semifinal between Martin Klein and Alfred Asikainen lasted _____.",
+    "a": "11 hours 40 minutes",
+    "alt": ["11 hours", "eleven hours", "11 hours and 40 minutes", "nearly 12 hours", "almost 12 hours", "11h 40m", "over 11 hours"],
+    "d": ["3 days", "6 and a half hours", "2 hours 15 minutes"],
+    "x": 0,
+    "src": "Wikipedia: Wrestling at the 1912 Summer Olympics"
+  },
+  {
+    "id": "spt-08",
+    "topic": "Demo Event",
+    "q": "Calgary 1988 and Albertville 1992 both featured a Winter Olympic demonstration event called ski _____.",
+    "a": "ballet",
+    "alt": ["ballet skiing", "acro"],
+    "d": ["jousting", "limbo", "karate"],
+    "x": 0,
+    "src": "Wikipedia: Acro skiing"
+  },
+  {
+    "id": "spt-09",
+    "topic": "Mascot Makeover",
+    "q": "Atlanta's 1996 Olympic mascot, an abstract blue blob, was unveiled in 1992 under the name _____ before being renamed Izzy.",
+    "a": "Whatizit",
+    "alt": ["What Is It", "Whatisit", "What is it?", "Whatsit"],
+    "d": ["Blobby", "Thingamajig", "Peachy"],
+    "x": 0,
+    "src": "Wikipedia: Izzy (mascot)"
+  },
+  {
+    "id": "spt-10",
+    "topic": "Stolen Trophy",
+    "q": "Months before England hosted the 1966 World Cup, the trophy was stolen in London; a week later, a dog named _____ sniffed it out under a hedge.",
+    "a": "Pickles",
+    "alt": ["Pickle"],
+    "d": ["Biscuit", "Sherlock", "Bobby"],
+    "x": 0,
+    "src": "Wikipedia: Pickles (dog)"
+  },
+  {
+    "id": "spt-11",
+    "topic": "Kit Origins",
+    "q": "Juventus, the Italian football giant, wore _____ shirts before switching to black-and-white stripes in 1903.",
+    "a": "pink",
+    "alt": ["pink and black", "rose", "rose-pink"],
+    "d": ["orange", "lime green", "purple"],
+    "x": 0,
+    "src": "Wikipedia: Juventus FC (colours and badge)"
+  },
+  {
+    "id": "spt-12",
+    "topic": "Monkey Business",
+    "q": "In 2002, the man inside Hartlepool United's monkey mascot costume was elected the town's _____.",
+    "a": "mayor",
+    "alt": ["Mayor", "mayor of Hartlepool", "first elected mayor"],
+    "d": ["sheriff", "Member of Parliament", "fire chief"],
+    "x": 0,
+    "src": "Wikipedia: Stuart Drummond"
+  },
+  {
+    "id": "spt-13",
+    "topic": "Locker Room Visitor",
+    "q": "Florida Panthers fans began throwing plastic _____ onto the ice in 1995, after a player killed a real one in the locker room with his stick.",
+    "a": "rats",
+    "alt": ["rat", "plastic rats", "rodents"],
+    "d": ["snakes", "cockroaches", "lizards"],
+    "x": 0,
+    "src": "Wikipedia: Rat trick"
+  },
+  {
+    "id": "spt-14",
+    "topic": "Engraving Error",
+    "q": "Hockey's Stanley Cup still carries a famous typo: the 1972 champions are engraved as the '_____ Bruins.'",
+    "a": "Bqstqn",
+    "alt": ["BQSTQN", "Bqstqn Bruins"],
+    "d": ["Bostun", "Botson", "Bawston"],
+    "x": 0,
+    "src": "Hockey Hall of Fame: Stanley Cup Facts, Firsts & Faux Pas; Wikipedia: Stanley Cup"
+  },
+  {
+    "id": "spt-15",
+    "topic": "Short Stint",
+    "q": "As a 1951 publicity stunt, the St. Louis Browns sent 3-foot-7 Eddie Gaedel up to bat wearing uniform number _____.",
+    "a": "1/8",
+    "alt": ["one-eighth", "one eighth", "1/8th", "an eighth"],
+    "d": ["1/2", "0", "3.7"],
+    "x": 0,
+    "src": "Wikipedia: Eddie Gaedel"
+  },
+  {
+    "id": "spt-16",
+    "topic": "Trippy No-Hitter",
+    "q": "Pirates pitcher Dock Ellis later claimed he was high on _____ when he threw a no-hitter in 1970.",
+    "a": "LSD",
+    "alt": ["acid", "L.S.D."],
+    "d": ["cough syrup", "laughing gas", "four espressos"],
+    "x": 1,
+    "src": "Wikipedia: Dock Ellis"
+  },
+  {
+    "id": "spt-17",
+    "topic": "Secret Ingredient",
+    "q": "Before every Major League Baseball game, each new ball is rubbed with _____ dug from a secret spot in New Jersey.",
+    "a": "mud",
+    "alt": ["rubbing mud", "river mud", "special mud", "Lena Blackburne mud", "mud from a river"],
+    "d": ["beeswax", "goose fat", "lemon juice"],
+    "x": 0,
+    "src": "Wikipedia: Lena Blackburne Baseball Rubbing Mud"
+  },
+  {
+    "id": "spt-18",
+    "topic": "Coaching Record",
+    "q": "James Naismith invented basketball, yet he is the only head coach in University of Kansas men's basketball history with a _____.",
+    "a": "losing record",
+    "alt": ["losing career record", "career losing record", "sub-.500 record", "record below .500", "losing percentage"],
+    "d": ["undefeated season", "100-point game", "technical foul"],
+    "x": 0,
+    "src": "Wikipedia: List of Kansas Jayhawks men's basketball head coaches"
+  },
+  {
+    "id": "spt-19",
+    "topic": "Huddle Up",
+    "q": "The football huddle is credited to 1890s players at Gallaudet University, who circled up to hide their _____ from the other team.",
+    "a": "sign language",
+    "alt": ["signing", "signs", "hand signs", "hand signals"],
+    "d": ["playbooks", "nervous faces", "coach's notes"],
+    "x": 0,
+    "src": "Wikipedia: Huddle"
+  },
+  {
+    "id": "spt-20",
+    "topic": "First Halftime",
+    "q": "The halftime show at the very first Super Bowl, in 1967, featured men flying into the stadium on _____.",
+    "a": "jetpacks",
+    "alt": ["jet packs", "jetpack", "rocket belts", "rocket packs", "rocket belt"],
+    "d": ["hang gliders", "zip lines", "giant kites"],
+    "x": 0,
+    "src": "Smithsonian Magazine: The Super Bowl's Love Affair With Jetpacks"
+  },
+  {
+    "id": "spt-21",
+    "topic": "Endless Match",
+    "q": "The 1939 'Timeless Test' cricket match between South Africa and England was abandoned as a draw after 12 days, because the England team would otherwise have missed _____.",
+    "a": "their ship home",
+    "alt": ["the ship home", "their boat home", "the boat home", "their ship", "the boat", "their boat"],
+    "d": ["their own weddings", "the King's birthday", "the Grand National"],
+    "x": 0,
+    "src": "Wikipedia: Timeless Test"
+  },
+  {
+    "id": "spt-22",
+    "topic": "Golf's First Prize",
+    "q": "Starting in 1860, players in golf's Open Championship competed for a red leather _____ instead of a trophy.",
+    "a": "belt",
+    "alt": ["championship belt", "Challenge Belt", "belt with a silver buckle"],
+    "d": ["saddle", "top hat", "golf bag"],
+    "x": 0,
+    "src": "Wikipedia: The Open Championship"
+  },
+  {
+    "id": "spt-23",
+    "topic": "Grand Slam Beginnings",
+    "q": "The very first Wimbledon championship, in 1877, was organized to pay for a new _____ to keep the club's lawns in shape.",
+    "a": "pony roller",
+    "alt": ["pony-drawn roller", "roller", "lawn roller", "horse-drawn roller"],
+    "d": ["groundskeeper", "tea pavilion", "flock of sheep"],
+    "x": 0,
+    "src": "Wikipedia: 1877 Wimbledon Championship"
+  },
+  {
+    "id": "spt-24",
+    "topic": "National Sport",
+    "q": "Argentina's official national sport was originally played on horseback with a live _____ in a basket instead of a ball.",
+    "a": "duck",
+    "alt": ["ducks", "duck in a basket"],
+    "d": ["chicken", "piglet", "armadillo"],
+    "x": 0,
+    "src": "Wikipedia: Pato (sport)"
+  },
+  {
+    "id": "spt-25",
+    "topic": "Unlikely Winner",
+    "q": "Jockey Frank Hayes won a steeplechase at Belmont Park in 1923 despite having _____ partway through the race.",
+    "a": "died",
+    "alt": ["died of a heart attack", "a fatal heart attack", "a heart attack", "passed away", "dropped dead"],
+    "d": ["lost both stirrups", "fallen asleep", "been riding backwards"],
+    "x": 0,
+    "src": "Wikipedia: Frank Hayes (jockey)"
+  },
+  {
+    "id": "spt-26",
+    "topic": "Wartime Game Night",
+    "q": "During World War II, British intelligence smuggled _____ to Allied prisoners of war inside specially made Monopoly sets.",
+    "a": "escape maps",
+    "alt": ["maps", "silk maps", "silk escape maps", "escape kits", "maps and compasses"],
+    "d": ["carrier pigeons", "love letters", "chocolate bars"],
+    "x": 0,
+    "src": "Wikipedia: Monopoly (game)"
+  },
+  {
+    "id": "spt-27",
+    "topic": "Sweet Origins",
+    "q": "Candy Land was designed in 1948 by Eleanor Abbott while she was recovering from _____.",
+    "a": "polio",
+    "alt": ["poliomyelitis"],
+    "d": ["a broken leg", "scarlet fever", "a sugar addiction"],
+    "x": 0,
+    "src": "Wikipedia: Candy Land"
+  },
+  {
+    "id": "spt-28",
+    "topic": "Whodunit Victim",
+    "q": "In classic North American editions of the board game Clue, the murder victim is named _____.",
+    "a": "Mr. Boddy",
+    "alt": ["Mr Boddy", "Boddy", "Mr. Body", "Mr Body", "John Boddy"],
+    "d": ["Mr. Stiff", "Lord Gravely", "Dr. Corpse"],
+    "x": 0,
+    "src": "Wikipedia: Cluedo"
+  },
+  {
+    "id": "spt-29",
+    "topic": "World Domination",
+    "q": "French filmmaker Albert Lamorisse invented the board game Risk; he also made the Oscar-winning short film _____.",
+    "a": "The Red Balloon",
+    "alt": ["Red Balloon", "Le Ballon Rouge"],
+    "d": ["The Blue Kite", "The Paper Boat", "The Little Drum"],
+    "x": 0,
+    "src": "Wikipedia: Risk (game); Wikipedia: Albert Lamorisse"
+  },
+  {
+    "id": "spt-30",
+    "topic": "Card Game Creator",
+    "q": "UNO was invented in 1971 by Merle Robbins, an Ohio _____.",
+    "a": "barber",
+    "alt": ["barbershop owner", "hairdresser"],
+    "d": ["school bus driver", "mailman", "dentist"],
+    "x": 0,
+    "src": "Wikipedia: Uno (card game)"
+  },
+  {
+    "id": "spt-31",
+    "topic": "Spirit Board",
+    "q": "According to its early promoters, when the Ouija board was asked in 1890 what its own name meant, it spelled out '_____.'",
+    "a": "good luck",
+    "alt": ["Good Luck", "goodluck"],
+    "d": ["ask again", "hello friend", "yes yes"],
+    "x": 0,
+    "src": "Smithsonian Magazine: The Strange and Mysterious History of the Ouija Board"
+  },
+  {
+    "id": "spt-32",
+    "topic": "Puzzle Origins",
+    "q": "Sudoku first appeared in a 1979 American puzzle magazine under the name '_____.'",
+    "a": "Number Place",
+    "alt": ["Number-Place", "NumberPlace", "Number Places"],
+    "d": ["Nine Squares", "Digit Grid", "Magic Boxes"],
+    "x": 0,
+    "src": "Wikipedia: Sudoku"
+  },
+  {
+    "id": "spt-33",
+    "topic": "Royal Challenge",
+    "q": "Challenged by Cambridge students to a tiddlywinks match in 1958, Prince Philip appointed _____ as his champions.",
+    "a": "the Goons",
+    "alt": ["The Goons", "Goons", "Spike Milligan and Peter Sellers", "The Goon Show"],
+    "d": ["the Royal Marines", "his valet", "the Oxford rowing team"],
+    "x": 0,
+    "src": "Wikipedia: Tiddlywinks; University of Cambridge: Cambridge tiddlywinks anniversary"
+  },
+  {
+    "id": "spt-34",
+    "topic": "High-Stakes Hand",
+    "q": "In 2005, a Japanese electronics firm decided which auction house would sell its multimillion-dollar art collection with a game of _____.",
+    "a": "rock paper scissors",
+    "alt": ["rock-paper-scissors", "rock, paper, scissors", "paper scissors rock", "scissors paper rock", "roshambo", "janken"],
+    "d": ["musical chairs", "Go Fish", "tic-tac-toe"],
+    "x": 0,
+    "src": "Wikipedia: Rock paper scissors"
+  },
+  {
+    "id": "spt-35",
+    "topic": "Toy Inventor",
+    "q": "Slinky inventor Richard James left his family and company in 1960 and moved to _____ to join a religious group.",
+    "a": "Bolivia",
+    "alt": [],
+    "d": ["Paraguay", "Alaska", "Iceland"],
+    "x": 0,
+    "src": "Wikipedia: Richard T. James"
+  },
+  {
+    "id": "spt-36",
+    "topic": "Some Assembly Required",
+    "q": "When Mr. Potato Head launched in 1952, the kit came with plenty of plastic face parts but no _____.",
+    "a": "potato",
+    "alt": ["potato body", "body", "plastic potato", "head", "real potato"],
+    "d": ["nose", "hat", "mustache"],
+    "x": 0,
+    "src": "Wikipedia: Mr. Potato Head"
+  },
+  {
+    "id": "spt-37",
+    "topic": "Party Game Boost",
+    "q": "Sales of Twister took off in 1966 after _____ played it on TV with actress Eva Gabor.",
+    "a": "Johnny Carson",
+    "alt": ["Carson"],
+    "d": ["Ed Sullivan", "Dean Martin", "Bob Hope"],
+    "x": 0,
+    "src": "Wikipedia: Twister (game)"
+  },
+  {
+    "id": "spt-38",
+    "topic": "Security Threat",
+    "q": "In 1999, the U.S. National Security Agency banned _____ from its headquarters, fearing they could record secrets.",
+    "a": "Furbies",
+    "alt": ["Furbys", "Furby", "Furby toys"],
+    "d": ["Tamagotchis", "Tickle Me Elmos", "Teddy Ruxpins"],
+    "x": 0,
+    "src": "Wikipedia: Furby"
+  },
+  {
+    "id": "spt-39",
+    "topic": "Last Wishes",
+    "q": "Ed Headrick, designer of the modern Frisbee, asked that after his death his ashes be _____.",
+    "a": "molded into Frisbees",
+    "alt": ["made into Frisbees", "molded into discs", "mixed into Frisbees", "turned into Frisbees", "made into flying discs", "moulded into Frisbees"],
+    "d": ["launched into space", "scattered at Disneyland", "baked into a pie"],
+    "x": 0,
+    "src": "Wikipedia: Ed Headrick"
+  },
+  {
+    "id": "spt-40",
+    "topic": "Record Book Origins",
+    "q": "The Guinness Book of Records grew out of a 1951 argument about which was Europe's fastest _____.",
+    "a": "game bird",
+    "alt": ["gamebird", "game-bird", "bird", "game birds"],
+    "d": ["racehorse", "steam train", "sprinter"],
+    "x": 0,
+    "src": "Wikipedia: Guinness World Records"
+  },
+  {
+    "id": "spt-41",
+    "topic": "Puzzle Pioneer",
+    "q": "The first jigsaw puzzles, made by a London engraver in the 1760s, were cut-up _____ meant for teaching children.",
+    "a": "maps",
+    "alt": ["map", "world maps", "maps of the world", "maps of Europe"],
+    "d": ["Bible scenes", "alphabet charts", "royal portraits"],
+    "x": 0,
+    "src": "Wikipedia: Jigsaw puzzle"
+  },
+  {
+    "id": "spt-42",
+    "topic": "Finnish Folk Sport",
+    "q": "Finland's Wife Carrying World Championships honor the legend of Herkko Rosvo-Ronkainen, a 19th-century _____ said to steal women from villages.",
+    "a": "bandit",
+    "alt": ["robber", "thief", "outlaw", "brigand", "bandit leader"],
+    "d": ["lumberjack", "fisherman", "village priest"],
+    "x": 0,
+    "src": "Wikipedia: Wife-carrying"
+  },
+  {
+    "id": "spt-43",
+    "topic": "Welsh Championship",
+    "q": "Every August, Llanwrtyd Wells in Wales hosts a world championship in which snorkelers swim two lengths of a trench cut through a _____.",
+    "a": "peat bog",
+    "alt": ["bog", "marsh", "swamp", "peat marsh"],
+    "d": ["sewage farm", "sheep field", "rugby pitch"],
+    "x": 0,
+    "src": "Wikipedia: Bog snorkelling"
+  },
+  {
+    "id": "spt-44",
+    "topic": "Unusual Race",
+    "q": "Since 1980, the Welsh town of Llanwrtyd Wells has staged an annual race of about 22 miles between human runners and _____.",
+    "a": "horses",
+    "alt": ["horse", "horses and riders", "horse riders", "riders on horseback", "horseback riders"],
+    "d": ["sheepdogs", "tractors", "llamas"],
+    "x": 0,
+    "src": "Wikipedia: Man versus Horse Marathon"
+  },
+  {
+    "id": "spt-45",
+    "topic": "Pub Sport",
+    "q": "Since the 1970s, a village pub in England's Peak District has hosted the World _____ Wrestling Championships.",
+    "a": "Toe",
+    "alt": ["toe", "toes"],
+    "d": ["Ear", "Tongue", "Eyebrow"],
+    "x": 0,
+    "src": "Wikipedia: Toe wrestling"
+  },
+  {
+    "id": "spt-46",
+    "topic": "Messy Match",
+    "q": "Since 2007, a pub in Lancashire, England, has hosted world championships of wrestling in a pool of _____.",
+    "a": "gravy",
+    "alt": ["Bisto", "hot gravy", "beef gravy"],
+    "d": ["custard", "baked beans", "mushy peas"],
+    "x": 0,
+    "src": "Guinness World Records: Most wins of the World Gravy Wrestling Championships"
+  },
+  {
+    "id": "spt-47",
+    "topic": "Underground Contest",
+    "q": "At the World Worm Charming Championships in Willaston, England, _____ is banned because it counts as a stimulant for the worms.",
+    "a": "water",
+    "alt": ["watering", "pouring water", "using water"],
+    "d": ["whistling", "tap dancing", "bagpipe music"],
+    "x": 0,
+    "src": "Wikipedia: Worm charming"
+  },
+  {
+    "id": "spt-48",
+    "topic": "Cotswold Combat",
+    "q": "Shin-kicking competitors at England's Cotswold Olimpicks traditionally stuff their trousers with _____.",
+    "a": "straw",
+    "alt": ["hay"],
+    "d": ["newspaper", "cabbage leaves", "sausages"],
+    "x": 0,
+    "src": "Wikipedia: Shin-kicking"
+  },
+  {
+    "id": "spt-49",
+    "topic": "Underwater Sport",
+    "q": "Underwater hockey was invented in England in 1954, where it was first called _____.",
+    "a": "Octopush",
+    "alt": ["octopush", "Octo-push"],
+    "d": ["Squidball", "Fishpuck", "Sub-Stick"],
+    "x": 0,
+    "src": "Wikipedia: Underwater hockey"
+  },
+  {
+    "id": "spt-50",
+    "topic": "Board and Gloves",
+    "q": "The hybrid sport of chess boxing was inspired by a 1992 _____ by French artist Enki Bilal.",
+    "a": "graphic novel",
+    "alt": ["comic book", "comic", "comic strip", "comic album", "bande dessinee"],
+    "d": ["opera", "stage play", "art exhibit"],
+    "x": 0,
+    "src": "Wikipedia: Chess boxing"
+  },
+  {
+    "id": "spt-51",
+    "topic": "Outback Regatta",
+    "q": "Australia's Henley-on-Todd Regatta is a boat race held on a river that is almost always _____.",
+    "a": "dry",
+    "alt": ["bone dry", "completely dry", "dried up", "empty", "waterless", "without water"],
+    "d": ["frozen", "full of crocodiles", "underground"],
+    "x": 0,
+    "src": "Wikipedia: Henley-on-Todd Regatta"
+  },
+  {
+    "id": "spt-52",
+    "topic": "Carnival Battle",
+    "q": "During Carnival, the Italian town of Ivrea stages a three-day battle in which teams pelt each other with _____.",
+    "a": "oranges",
+    "alt": ["orange"],
+    "d": ["eggs", "flour bombs", "meatballs"],
+    "x": 0,
+    "src": "Wikipedia: Battle of the Oranges"
+  },
+  {
+    "id": "spt-53",
+    "topic": "Thai Feast",
+    "q": "Every November, the Thai province of Lopburi lays out a giant buffet of fruit and treats for its local _____.",
+    "a": "monkeys",
+    "alt": ["monkey", "macaques", "macaque monkeys"],
+    "d": ["elephants", "stray cats", "ghosts"],
+    "x": 0,
+    "src": "Wikipedia: Monkey Buffet Festival"
+  },
+  {
+    "id": "spt-54",
+    "topic": "December Carving",
+    "q": "On December 23, the Mexican city of Oaxaca holds a festival where artists carve elaborate scenes out of _____.",
+    "a": "radishes",
+    "alt": ["radish", "giant radishes"],
+    "d": ["pumpkins", "blocks of soap", "avocados"],
+    "x": 0,
+    "src": "Wikipedia: Night of the Radishes"
+  },
+  {
+    "id": "spt-55",
+    "topic": "Shetland Fire Festival",
+    "q": "Each January, the Shetland town of Lerwick ends its Up Helly Aa festival by setting fire to a replica _____.",
+    "a": "Viking longship",
+    "alt": ["Viking galley", "galley", "longship", "Viking ship", "Viking boat"],
+    "d": ["oil rig", "castle", "giant sheep"],
+    "x": 0,
+    "src": "Wikipedia: Up Helly Aa"
+  },
+  {
+    "id": "spt-56",
+    "topic": "Leap of Faith",
+    "q": "During Spain's El Colacho festival, men dressed as devils leap over rows of _____ lying on mattresses in the street.",
+    "a": "babies",
+    "alt": ["baby", "infants", "newborns", "newborn babies"],
+    "d": ["watermelons", "sleeping priests", "live chickens"],
+    "x": 0,
+    "src": "Wikipedia: Baby jumping"
+  },
+  {
+    "id": "spt-57",
+    "topic": "Sumo Tradition",
+    "q": "At Japan's Naki Sumo festival, sumo wrestlers hold infants and compete to see whose baby will _____ first.",
+    "a": "cry",
+    "alt": ["start crying", "burst into tears", "wail", "bawl", "cry loudest"],
+    "d": ["fall asleep", "giggle", "sneeze"],
+    "x": 0,
+    "src": "Wikipedia: Naki Sumo Crying Baby Festival"
+  },
+  {
+    "id": "spt-58",
+    "topic": "Christmas Target",
+    "q": "Since 1966, the Swedish town of Gavle has built a giant straw _____ each Christmas season, and vandals have burned it down many times.",
+    "a": "goat",
+    "alt": ["Yule goat", "Gavle goat", "julbock", "billy goat"],
+    "d": ["reindeer", "moose", "gnome"],
+    "x": 0,
+    "src": "Wikipedia: Gavle goat"
+  },
+  {
+    "id": "spt-59",
+    "topic": "Groundhog Day Drama",
+    "q": "In 2009, Staten Island Chuck, a weather-forecasting groundhog, bit _____ on the finger.",
+    "a": "Mayor Michael Bloomberg",
+    "alt": ["Michael Bloomberg", "Mayor Bloomberg", "Bloomberg", "the mayor", "the Mayor of New York"],
+    "d": ["Al Roker", "Donald Trump", "Rudy Giuliani"],
+    "x": 0,
+    "src": "Wikipedia: Staten Island Chuck"
+  },
+  {
+    "id": "spt-60",
+    "topic": "Silly Holiday",
+    "q": "Two friends in Oregon dreamed up International Talk Like a Pirate Day in 1995 during a game of _____.",
+    "a": "racquetball",
+    "alt": ["racketball", "racquet ball"],
+    "d": ["mini golf", "Monopoly", "bowling"],
+    "x": 0,
+    "src": "Wikipedia: International Talk Like a Pirate Day"
+  }
+]

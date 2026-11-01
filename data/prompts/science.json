@@ -1,0 +1,602 @@
+[
+  {
+    "id": "sci-01",
+    "topic": "Poppable Origins",
+    "q": "Before it became packing material, Bubble Wrap was invented in 1957 by two engineers who hoped to sell it as textured _____.",
+    "a": "wallpaper",
+    "alt": ["wall paper", "wall covering", "wallcovering"],
+    "d": ["shower curtains", "yoga mats", "raincoats"],
+    "x": 0,
+    "src": "Wikipedia: Bubble wrap"
+  },
+  {
+    "id": "sci-02",
+    "topic": "Sticky Situation",
+    "q": "During World War II, chemist Harry Coover first stumbled on super glue while trying to make clear plastic _____.",
+    "a": "gun sights",
+    "alt": ["gunsights", "gun sight", "rifle sights", "sights"],
+    "d": ["false teeth", "eyeglass lenses", "dog bowls"],
+    "x": 0,
+    "src": "Wikipedia: Cyanoacrylate"
+  },
+  {
+    "id": "sci-03",
+    "topic": "Bookmark Trouble",
+    "q": "3M engineer Art Fry dreamed up the Post-it Note because his paper bookmarks kept falling out of his _____.",
+    "a": "church hymnal",
+    "alt": ["hymnal", "hymn book", "hymnbook", "choir hymnal"],
+    "d": ["bowling scorebook", "grandma's cookbook", "phone book"],
+    "x": 0,
+    "src": "Wikipedia: Post-it Note"
+  },
+  {
+    "id": "sci-04",
+    "topic": "Sweet Mistake",
+    "q": "Saccharin, the first artificial sweetener, was discovered in 1879 because chemist Constantin Fahlberg forgot to _____ before eating dinner.",
+    "a": "wash his hands",
+    "alt": ["wash hands", "wash up", "clean his hands", "wash his hand"],
+    "d": ["take off his gloves", "shave his mustache", "rinse his spoon"],
+    "x": 0,
+    "src": "Wikipedia: Saccharin"
+  },
+  {
+    "id": "sci-05",
+    "topic": "Bent Wire",
+    "q": "Walter Hunt twisted a piece of wire into the first safety pin in 1849, mainly so he could pay off a _____.",
+    "a": "$15 debt",
+    "alt": ["debt", "15 dollar debt", "fifteen-dollar debt", "fifteen dollar debt", "$15 loan"],
+    "d": ["gambling bet", "doctor's bill", "bar tab"],
+    "x": 0,
+    "src": "Wikipedia: Safety pin"
+  },
+  {
+    "id": "sci-06",
+    "topic": "Moving Stairs",
+    "q": "When Harrods unveiled England's first 'moving staircase' in 1898, staff waited at the top to offer shaken riders smelling salts and _____.",
+    "a": "brandy",
+    "alt": ["cognac"],
+    "d": ["hot tea", "peppermints", "ginger biscuits"],
+    "x": 0,
+    "src": "Wikipedia: Harrods"
+  },
+  {
+    "id": "sci-07",
+    "topic": "Cutting Edge",
+    "q": "The first chainsaws, created by two Scottish doctors in the late 1700s, were hand-cranked tools meant to assist with difficult _____.",
+    "a": "childbirths",
+    "alt": ["childbirth", "births", "deliveries", "labor", "labour"],
+    "d": ["haircuts", "tooth extractions", "beard trims"],
+    "x": 0,
+    "src": "Wikipedia: Chainsaw"
+  },
+  {
+    "id": "sci-08",
+    "topic": "Standing Still",
+    "q": "The oldest known photo showing a person was taken on a busy Paris street in 1838. One man shows up only because he stood still while _____.",
+    "a": "getting his boots shined",
+    "alt": ["having his boots polished", "getting a shoeshine", "getting his shoes shined", "having his boots shined", "boots polished", "shoe shine"],
+    "d": ["waiting for a carriage", "reading a newspaper", "posing for a painter"],
+    "x": 0,
+    "src": "Wikipedia: Boulevard du Temple (photograph)"
+  },
+  {
+    "id": "sci-09",
+    "topic": "Rags and Soot",
+    "q": "William Addis made the first mass-produced toothbrush after deciding that scrubbing teeth with a rag and soot was useless. He came up with the idea while _____.",
+    "a": "in prison",
+    "alt": ["in jail", "locked up", "jailed", "imprisoned", "in gaol"],
+    "d": ["at sea", "on his honeymoon", "in the army"],
+    "x": 0,
+    "src": "Wikipedia: Toothbrush"
+  },
+  {
+    "id": "sci-10",
+    "topic": "Inventor's Sweetheart",
+    "q": "Nikola Tesla wrote that he loved a particular white _____ the way a man loves a woman.",
+    "a": "pigeon",
+    "alt": ["dove", "pigeons"],
+    "d": ["peacock", "poodle", "rabbit"],
+    "x": 0,
+    "src": "Wikipedia: Nikola Tesla"
+  },
+  {
+    "id": "sci-11",
+    "topic": "Phone Etiquette",
+    "q": "Alexander Graham Bell thought people should answer the telephone by saying _____, but Thomas Edison's 'hello' won out.",
+    "a": "ahoy",
+    "alt": ["ahoy-hoy", "ahoy hoy", "ahoy!"],
+    "d": ["howdy", "greetings", "speak up"],
+    "x": 0,
+    "src": "Wikipedia: Hello"
+  },
+  {
+    "id": "sci-12",
+    "topic": "Museum Oddity",
+    "q": "A sealed test tube at The Henry Ford museum in Michigan is said to contain Thomas Edison's _____.",
+    "a": "last breath",
+    "alt": ["final breath", "dying breath"],
+    "d": ["final sneeze", "earwax", "mustache hairs"],
+    "x": 0,
+    "src": "Wikipedia: Thomas Edison"
+  },
+  {
+    "id": "sci-13",
+    "topic": "Painful Optics",
+    "q": "To study how we see color, Isaac Newton slid a _____ between his eyeball and the bone of his eye socket and pressed.",
+    "a": "bodkin",
+    "alt": ["blunt needle", "needle", "bodkin needle"],
+    "d": ["teaspoon", "goose quill", "butter knife"],
+    "x": 0,
+    "src": "Cambridge University Library: Newton's Laboratory Notebook (MS Add. 3975)"
+  },
+  {
+    "id": "sci-14",
+    "topic": "Party Animal",
+    "q": "Astronomer Tycho Brahe kept a pet _____ that reportedly died after drinking too much beer and falling down a flight of stairs.",
+    "a": "elk",
+    "alt": ["moose"],
+    "d": ["bear", "peacock", "pig"],
+    "x": 0,
+    "src": "Wikipedia: Tycho Brahe"
+  },
+  {
+    "id": "sci-15",
+    "topic": "First Impressions",
+    "q": "Charles Darwin nearly lost his place on HMS Beagle because Captain FitzRoy, a believer in physiognomy, didn't like the shape of his _____.",
+    "a": "nose",
+    "alt": [],
+    "d": ["chin", "ears", "eyebrows"],
+    "x": 0,
+    "src": "The Autobiography of Charles Darwin; Wikipedia: Robert FitzRoy"
+  },
+  {
+    "id": "sci-16",
+    "topic": "Noise Complaint",
+    "q": "Computing pioneer Charles Babbage waged a furious public campaign against London's _____, claiming they wrecked a quarter of his working time.",
+    "a": "street musicians",
+    "alt": ["organ grinders", "organ-grinders", "street music", "buskers", "street performers"],
+    "d": ["church bells", "barking dogs", "chimney sweeps"],
+    "x": 0,
+    "src": "Wikipedia: Charles Babbage"
+  },
+  {
+    "id": "sci-17",
+    "topic": "Bold Patent",
+    "q": "In 1977, a Florida man and his son were granted a US patent for a method of styling a _____.",
+    "a": "comb-over",
+    "alt": ["combover", "comb over"],
+    "d": ["mullet", "beehive", "handlebar mustache"],
+    "x": 0,
+    "src": "Wikipedia: Comb over (US Patent 4,022,227)"
+  },
+  {
+    "id": "sci-18",
+    "topic": "Young Inventor",
+    "q": "A 5-year-old boy in Minnesota was granted a US patent in 2002 for a new method of _____.",
+    "a": "swinging on a swing",
+    "alt": ["swinging", "swinging sideways", "swinging on swings"],
+    "d": ["eating cereal", "tying shoelaces", "hiding vegetables"],
+    "x": 0,
+    "src": "US Patent 6,368,227 ('Method of swinging on a swing')"
+  },
+  {
+    "id": "sci-19",
+    "topic": "Prize Double",
+    "q": "Physicist Andre Geim won a joke Ig Nobel Prize for using magnets to levitate a live _____, then won a real Nobel Prize ten years later.",
+    "a": "frog",
+    "alt": ["frogs"],
+    "d": ["hamster", "goldfish", "hedgehog"],
+    "x": 0,
+    "src": "Wikipedia: Andre Geim"
+  },
+  {
+    "id": "sci-20",
+    "topic": "Relic Display",
+    "q": "Visitors to the Museo Galileo in Florence can see one of Galileo's _____, removed from his body nearly a century after he died.",
+    "a": "middle finger",
+    "alt": ["finger", "fingers", "middle fingers"],
+    "d": ["eyeballs", "kneecaps", "toenails"],
+    "x": 0,
+    "src": "Wikipedia: Museo Galileo"
+  },
+  {
+    "id": "sci-21",
+    "topic": "Early Transfusion",
+    "q": "In 1667, French physician Jean-Baptiste Denys performed one of the first recorded blood transfusions into a human, using blood from a _____.",
+    "a": "sheep",
+    "alt": ["lamb"],
+    "d": ["goat", "horse", "pig"],
+    "x": 0,
+    "src": "Wikipedia: Blood transfusion"
+  },
+  {
+    "id": "sci-22",
+    "topic": "Vaccine Origins",
+    "q": "The cowpox Edward Jenner used to create the first vaccine came from a milkmaid who had caught it from a cow named _____.",
+    "a": "Blossom",
+    "alt": [],
+    "d": ["Daisy", "Buttercup", "Bessie"],
+    "x": 0,
+    "src": "Wikipedia: Edward Jenner"
+  },
+  {
+    "id": "sci-23",
+    "topic": "Second-Hand Smiles",
+    "q": "Dentures made with teeth pulled from soldiers killed in battle were common enough in the 1800s to earn a nickname: _____.",
+    "a": "Waterloo teeth",
+    "alt": ["Waterloo Teeth"],
+    "d": ["Napoleon's grin", "trench teeth", "Redcoat chompers"],
+    "x": 0,
+    "src": "Wikipedia: Dentures"
+  },
+  {
+    "id": "sci-24",
+    "topic": "Retail Radiation",
+    "q": "From the 1920s into the 1950s, many _____ had X-ray machines so customers could see their own bones.",
+    "a": "shoe stores",
+    "alt": ["shoe shops", "shoe store", "shoe shop", "shoe stores"],
+    "d": ["barbershops", "candy stores", "movie theaters"],
+    "x": 0,
+    "src": "Wikipedia: Shoe-fitting fluoroscope"
+  },
+  {
+    "id": "sci-25",
+    "topic": "Revival Technique",
+    "q": "Rescuers in 18th-century London tried to revive people pulled from the River Thames by pumping _____ into their rear ends.",
+    "a": "tobacco smoke",
+    "alt": ["smoke", "tobacco"],
+    "d": ["warm brandy", "hot air", "peppermint oil"],
+    "x": 1,
+    "src": "Wikipedia: Tobacco smoke enema"
+  },
+  {
+    "id": "sci-26",
+    "topic": "Over the Counter",
+    "q": "When Bayer first sold heroin in 1898, the company marketed it as a _____.",
+    "a": "cough medicine",
+    "alt": ["cough suppressant", "cough syrup", "cough remedy", "cough medication"],
+    "d": ["hair tonic", "weight-loss pill", "energy tonic"],
+    "x": 1,
+    "src": "Wikipedia: Heroin"
+  },
+  {
+    "id": "sci-27",
+    "topic": "Theme Park Therapy",
+    "q": "A 2016 study found that riding a _____ at Walt Disney World could help small kidney stones pass.",
+    "a": "roller coaster",
+    "alt": ["rollercoaster", "coaster", "Big Thunder Mountain"],
+    "d": ["spinning teacup", "log flume", "carousel"],
+    "x": 0,
+    "src": "Wikipedia: Big Thunder Mountain Railroad; Journal of the American Osteopathic Association (2016)"
+  },
+  {
+    "id": "sci-28",
+    "topic": "Apothecary Shelf",
+    "q": "For centuries, European apothecaries sold a medicine made from ground-up _____.",
+    "a": "Egyptian mummies",
+    "alt": ["mummies", "mummy", "mummy powder", "mummified bodies"],
+    "d": ["meteorites", "lion whiskers", "shipwreck timber"],
+    "x": 0,
+    "src": "Wikipedia: Mummia"
+  },
+  {
+    "id": "sci-29",
+    "topic": "Market Find",
+    "q": "The super-productive mold used to mass-produce penicillin during World War II was found growing on a rotting _____ in Peoria, Illinois.",
+    "a": "cantaloupe",
+    "alt": ["melon", "cantaloupe melon", "cantaloup"],
+    "d": ["loaf of bread", "pumpkin", "wheel of cheese"],
+    "x": 0,
+    "src": "Wikipedia: Penicillin; Wikipedia: Mary Hunt (bacteriologist)"
+  },
+  {
+    "id": "sci-30",
+    "topic": "Sunlight Reaction",
+    "q": "Sneezing when you step into bright light is a real inherited trait, and scientists have given it the tongue-in-cheek acronym _____.",
+    "a": "ACHOO syndrome",
+    "alt": ["ACHOO", "A.C.H.O.O."],
+    "d": ["SUNNY syndrome", "BLESS syndrome", "GLARE syndrome"],
+    "x": 0,
+    "src": "Wikipedia: Photic sneeze reflex"
+  },
+  {
+    "id": "sci-31",
+    "topic": "Medical Jargon",
+    "q": "Doctors have a name for the rumbling noise your stomach makes when you're hungry: _____.",
+    "a": "borborygmus",
+    "alt": ["borborygmi"],
+    "d": ["gastrophonia", "ventral murmur", "peristaltic hum"],
+    "x": 0,
+    "src": "Wikipedia: Stomach rumble"
+  },
+  {
+    "id": "sci-32",
+    "topic": "Face Geography",
+    "q": "That smooth patch of skin between your eyebrows has its own anatomical name: the _____.",
+    "a": "glabella",
+    "alt": [],
+    "d": ["frontilla", "browbridge", "mesobrow"],
+    "x": 0,
+    "src": "Wikipedia: Glabella"
+  },
+  {
+    "id": "sci-33",
+    "topic": "Genetic Lottery",
+    "q": "Whether your _____ is wet and sticky or dry and flaky is controlled mostly by a single gene.",
+    "a": "earwax",
+    "alt": ["ear wax", "cerumen"],
+    "d": ["dandruff", "eye crust", "belly button lint"],
+    "x": 0,
+    "src": "Wikipedia: Earwax"
+  },
+  {
+    "id": "sci-34",
+    "topic": "Tiny Tenants",
+    "q": "Most adults have microscopic _____ living in the hair follicles on their faces, especially around the eyelashes.",
+    "a": "mites",
+    "alt": ["Demodex mites", "eyelash mites", "face mites", "Demodex"],
+    "d": ["worms", "jellyfish", "snails"],
+    "x": 0,
+    "src": "Wikipedia: Demodex"
+  },
+  {
+    "id": "sci-35",
+    "topic": "Rare Type",
+    "q": "Rh-null, one of the rarest blood types on Earth, is so precious to medicine that it's nicknamed _____.",
+    "a": "golden blood",
+    "alt": ["gold blood"],
+    "d": ["unicorn blood", "royal blood", "liquid diamond"],
+    "x": 0,
+    "src": "Wikipedia: Rh blood group system"
+  },
+  {
+    "id": "sci-36",
+    "topic": "Mission Contraband",
+    "q": "Astronaut John Young smuggled a _____ aboard Gemini 3 in 1965, and Congress later held a hearing about it.",
+    "a": "corned beef sandwich",
+    "alt": ["sandwich", "corned-beef sandwich", "corned beef"],
+    "d": ["jar of pickles", "live goldfish", "slice of pizza"],
+    "x": 0,
+    "src": "Wikipedia: Gemini 3"
+  },
+  {
+    "id": "sci-37",
+    "topic": "Quick Fix",
+    "q": "When a circuit-breaker switch snapped off inside Apollo 11's lunar module, Buzz Aldrin pushed the breaker in using a _____.",
+    "a": "felt-tip pen",
+    "alt": ["pen", "felt pen", "marker", "felt tip pen"],
+    "d": ["toothbrush", "moon rock", "fork"],
+    "x": 0,
+    "src": "Wikipedia: Apollo 11"
+  },
+  {
+    "id": "sci-38",
+    "topic": "Holiday Prank",
+    "q": "Gemini 6A astronaut Wally Schirra surprised Mission Control in December 1965 by playing 'Jingle Bells' on a smuggled _____.",
+    "a": "harmonica",
+    "alt": ["mouth organ"],
+    "d": ["kazoo", "ukulele", "recorder"],
+    "x": 0,
+    "src": "Wikipedia: Gemini 6A"
+  },
+  {
+    "id": "sci-39",
+    "topic": "Lunar Hitchhikers",
+    "q": "Apollo 14's Stuart Roosa carried hundreds of _____ around the Moon, and many were later planted across the United States.",
+    "a": "tree seeds",
+    "alt": ["seeds", "tree seed"],
+    "d": ["tulip bulbs", "potato eyes", "cactus cuttings"],
+    "x": 0,
+    "src": "Wikipedia: Moon tree"
+  },
+  {
+    "id": "sci-40",
+    "topic": "Long Journey",
+    "q": "The New Horizons probe, which flew past Pluto in 2015, carries a small container holding the _____ of Clyde Tombaugh, the man who discovered Pluto.",
+    "a": "ashes",
+    "alt": ["cremated remains", "remains"],
+    "d": ["baby teeth", "love letters", "lucky socks"],
+    "x": 0,
+    "src": "Wikipedia: Clyde Tombaugh"
+  },
+  {
+    "id": "sci-41",
+    "topic": "Moonwalk Fashion",
+    "q": "The spacesuits worn on the Moon were stitched together by seamstresses at a division of a company better known for making _____.",
+    "a": "bras",
+    "alt": ["bras and girdles", "girdles", "lingerie", "underwear", "bras and underwear"],
+    "d": ["parachutes", "sleeping bags", "wedding dresses"],
+    "x": 0,
+    "src": "Wikipedia: ILC Dover"
+  },
+  {
+    "id": "sci-42",
+    "topic": "Survival Kit",
+    "q": "From the 1980s into the 2000s, cosmonauts packed a triple-barreled _____ in their survival kits, in case they landed among wolves or bears.",
+    "a": "pistol",
+    "alt": ["gun", "handgun", "shotgun", "TP-82"],
+    "d": ["harpoon", "crossbow", "slingshot"],
+    "x": 0,
+    "src": "Wikipedia: TP-82"
+  },
+  {
+    "id": "sci-43",
+    "topic": "Last-Minute Swap",
+    "q": "Ken Mattingly was pulled from the Apollo 13 crew days before launch because he had been exposed to _____.",
+    "a": "German measles",
+    "alt": ["rubella", "measles"],
+    "d": ["chickenpox", "mumps", "whooping cough"],
+    "x": 0,
+    "src": "Wikipedia: Apollo 13"
+  },
+  {
+    "id": "sci-44",
+    "topic": "Mystery Signal",
+    "q": "For 17 years, strange radio bursts at Australia's Parkes Observatory puzzled astronomers, until they were traced to the staff _____.",
+    "a": "microwave oven",
+    "alt": ["microwave", "microwave ovens"],
+    "d": ["coffee machine", "electric kettle", "hair dryer"],
+    "x": 0,
+    "src": "Wikipedia: Peryton (astronomy)"
+  },
+  {
+    "id": "sci-45",
+    "topic": "Static Suspect",
+    "q": "When Arno Penzias and Robert Wilson first picked up the faint afterglow of the Big Bang, they suspected the hiss was caused by _____ in their antenna.",
+    "a": "pigeon droppings",
+    "alt": ["pigeon poop", "bird droppings", "pigeons", "pigeon dung", "bird poop"],
+    "d": ["a wasp nest", "rainwater", "a trapped mouse"],
+    "x": 0,
+    "src": "Wikipedia: Cosmic microwave background"
+  },
+  {
+    "id": "sci-46",
+    "topic": "Mars Keepsake",
+    "q": "NASA's Ingenuity helicopter, the first aircraft to fly on Mars, carried a stamp-sized scrap of fabric from _____.",
+    "a": "the Wright Flyer",
+    "alt": ["Wright Flyer", "the Wright brothers' plane", "Wright brothers' airplane", "the Wright brothers' Flyer"],
+    "d": ["Neil Armstrong's spacesuit", "Amelia Earhart's scarf", "the Hindenburg"],
+    "x": 0,
+    "src": "Wikipedia: Ingenuity (helicopter)"
+  },
+  {
+    "id": "sci-47",
+    "topic": "Apollo Software",
+    "q": "Apollo's guidance software was literally woven by hand into 'core rope memory' by skilled factory workers, so engineers nicknamed it _____.",
+    "a": "LOL memory",
+    "alt": ["little old lady memory", "LOL", "little old ladies memory"],
+    "d": ["granny code", "knitware", "yarnware"],
+    "x": 0,
+    "src": "Wikipedia: Core rope memory"
+  },
+  {
+    "id": "sci-48",
+    "topic": "Speedy Unit",
+    "q": "Physicists really do use the word _____ as a unit of time; one version is how long light takes to travel one centimeter.",
+    "a": "jiffy",
+    "alt": ["a jiffy", "jiffies"],
+    "d": ["blink", "twinkle", "flash"],
+    "x": 0,
+    "src": "Wikipedia: Jiffy (time)"
+  },
+  {
+    "id": "sci-49",
+    "topic": "Nuclear Measurements",
+    "q": "Nuclear physicists describe how big a target an atomic nucleus makes using a unit of area called the _____.",
+    "a": "barn",
+    "alt": ["barns"],
+    "d": ["silo", "haystack", "pigpen"],
+    "x": 0,
+    "src": "Wikipedia: Barn (unit)"
+  },
+  {
+    "id": "sci-50",
+    "topic": "Elemental Village",
+    "q": "Four different chemical elements are named after _____, a single small village in Sweden with a famous old mine.",
+    "a": "Ytterby",
+    "alt": [],
+    "d": ["Smorgasby", "Lundholm", "Kalmarby"],
+    "x": 0,
+    "src": "Wikipedia: Ytterby"
+  },
+  {
+    "id": "sci-51",
+    "topic": "Glowing Discovery",
+    "q": "Alchemist Hennig Brand discovered phosphorus in 1669 while boiling down huge amounts of _____ in search of the philosopher's stone.",
+    "a": "urine",
+    "alt": ["pee", "human urine"],
+    "d": ["seawater", "goat's milk", "beer"],
+    "x": 0,
+    "src": "Wikipedia: Phosphorus"
+  },
+  {
+    "id": "sci-52",
+    "topic": "First Sale",
+    "q": "The first item ever sold on eBay, back in 1995, was a _____, which went for $14.83.",
+    "a": "broken laser pointer",
+    "alt": ["laser pointer", "a broken laser pointer"],
+    "d": ["used Pez dispenser", "signed Beanie Baby", "half-eaten sandwich"],
+    "x": 0,
+    "src": "Wikipedia: eBay"
+  },
+  {
+    "id": "sci-53",
+    "topic": "Plumber's Namesake",
+    "q": "Mario got his name from Mario Segale, the _____ of Nintendo of America's warehouse in Washington state.",
+    "a": "landlord",
+    "alt": ["owner", "property owner", "building owner"],
+    "d": ["janitor", "night watchman", "pizza delivery guy"],
+    "x": 0,
+    "src": "Wikipedia: Mario"
+  },
+  {
+    "id": "sci-54",
+    "topic": "Soviet Puzzle",
+    "q": "Tetris got its name by combining 'tetra' (four) with _____, the favorite sport of its creator, Alexey Pajitnov.",
+    "a": "tennis",
+    "alt": [],
+    "d": ["chess", "polo", "darts"],
+    "x": 0,
+    "src": "Wikipedia: Tetris"
+  },
+  {
+    "id": "sci-55",
+    "topic": "Signed Malware",
+    "q": "The 1986 computer virus 'Brain' was written by two brothers in Lahore, Pakistan, who included their names, their address and their _____ inside the code.",
+    "a": "phone number",
+    "alt": ["phone numbers", "telephone number", "telephone numbers", "phone"],
+    "d": ["favorite recipe", "shoe sizes", "mother's birthday"],
+    "x": 0,
+    "src": "Wikipedia: Brain (computer virus)"
+  },
+  {
+    "id": "sci-56",
+    "topic": "First Call",
+    "q": "Motorola's Martin Cooper made the first public call from a handheld cellphone in 1973. He used it to call _____.",
+    "a": "his rival at Bell Labs",
+    "alt": ["a rival", "his rival", "a competitor", "his competitor", "Joel Engel", "a rival at Bell Labs"],
+    "d": ["his mother", "a pizza place", "the White House"],
+    "x": 0,
+    "src": "Wikipedia: Martin Cooper (inventor)"
+  },
+  {
+    "id": "sci-57",
+    "topic": "Prank Call",
+    "q": "As a young phone hacker, Steve Wozniak once called the Vatican while pretending to be _____.",
+    "a": "Henry Kissinger",
+    "alt": ["Kissinger"],
+    "d": ["Richard Nixon", "Frank Sinatra", "the Queen of England"],
+    "x": 0,
+    "src": "Wikipedia: Steve Wozniak"
+  },
+  {
+    "id": "sci-58",
+    "topic": "Arcade Breakdown",
+    "q": "The first Pong prototype, set up in a California bar in 1972, soon stopped working because _____.",
+    "a": "its coin box overflowed",
+    "alt": ["the coin box was full", "it was full of quarters", "too many quarters", "coin box overflowed", "coin box was full", "it was jammed with quarters"],
+    "d": ["someone spilled beer in it", "the bar cat chewed a wire", "it overheated"],
+    "x": 0,
+    "src": "Wikipedia: Pong"
+  },
+  {
+    "id": "sci-59",
+    "topic": "Happy Accident",
+    "q": "Minecraft's exploding Creeper was born from a coding mistake when Markus 'Notch' Persson was trying to make a _____.",
+    "a": "pig",
+    "alt": ["pigs"],
+    "d": ["cow", "sheep", "chicken"],
+    "x": 0,
+    "src": "Wikipedia: Creeper (Minecraft)"
+  },
+  {
+    "id": "sci-60",
+    "topic": "Side Hustles",
+    "q": "Before it found success with video games, Nintendo dabbled in instant rice and even ran a _____ company in the 1960s.",
+    "a": "taxi",
+    "alt": ["cab", "taxicab", "taxi cab"],
+    "d": ["funeral", "umbrella", "wedding"],
+    "x": 0,
+    "src": "Wikipedia: Nintendo"
+  }
+]
