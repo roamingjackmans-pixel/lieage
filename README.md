@@ -4,7 +4,7 @@ A bluffing trivia party game for the browser. One screen hosts the game, everyon
 each question is a strange but true fact with a word missing, everyone writes a believable lie to fill the
 blank, and then everyone tries to spot the real answer among the lies.
 
-**Play:** https://josephjackman.com/lieage/
+**Play:** https://josephjackman.com/games/lieage/
 
 ## The rules
 
@@ -76,7 +76,7 @@ service. The game code is the host's PeerJS id (`jjlieage-v1-<code>`).
   direct later if it can. Relayed players show a 📡 RELAY tag in the lobby. Messages through the public relay
   aren't private (names, lies, votes). Add `?forcerelay` to the address to test it; `lgTrace()` in the browser
   console shows how a tab connected. Horse Race's
-  [connection check](https://josephjackman.com/horserace/check.html) tests a phone's network.
+  [connection check](https://josephjackman.com/games/horserace/check.html) tests a phone's network.
 - **The game lives on the host screen.** If the host screen reloads, it grabs its code back and carries on
   where it was (the timer doesn't lose the time it was away), and phones reconnect by themselves. If the host
   tab is closed, opening Lieage on that browser again offers **Resume game CODE** for a few hours. Phones keep
@@ -106,10 +106,12 @@ and that phones never see the answer early.
 
 ## Deploying
 
-`.github/workflows/pages.yml` runs the checks and publishes `public/` to GitHub Pages on every push to `main`.
-It shows up at `josephjackman.com/lieage/` because this repo is named `lieage` and the account's user site
-(`roamingjackmans-pixel.github.io`) has the `josephjackman.com` custom domain. The workflow stamps the version
-and adds `?v=<commit>` to every file URL so phones never mix old and new code.
+`.github/workflows/ready.yml` runs the checks on every push to `main` and then moves the `ready` branch to that
+commit. The [games](https://github.com/roamingjackmans-pixel/games) repo publishes every game on
+josephjackman.com/games/ and puts this one at `josephjackman.com/games/lieage/`: it looks for new `ready`
+commits every 10 minutes, or starts right away when this repo has a `GAMES_DEPLOY_TOKEN` secret. That build
+also stamps the version and adds `?v=<commit>` to every file URL (`tools/stamp-build.mjs`) so phones never mix
+old and new code.
 
 ## Project layout
 

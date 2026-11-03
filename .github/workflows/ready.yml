@@ -1,0 +1,38 @@
+# Gets each push to main ready for josephjackman.com/games/lieage/.
+# Runs the checks; when they pass, the `ready` branch moves to that commit.
+# The `games` repo (roamingjackmans-pixel/games) publishes every game on josephjackman.com/games/.
+# It looks for new `ready` commits every 10 minutes, or hears right away when this repo has a
+# GAMES_DEPLOY_TOKEN secret (a fine-grained token allowed to run Actions on the games repo).
+name: Ready for the games site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ready
+  cancel-in-progress: true
+
+jobs:
+  ready:
+    runs-on: ubuntu-latest
+    env:
+      DEPLOY_TOKEN: ${{ secrets.GAMES_DEPLOY_TOKEN }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Question and rules checks
+        run: node tools/build-prompts.mjs --check && node tools/test.mjs
+      - name: Mark this commit ready
+        run: git push --force origin HEAD:refs/heads/ready
+      - name: Tell the games site
+        if: env.DEPLOY_TOKEN != ''
+        env:
+          GH_TOKEN: ${{ env.DEPLOY_TOKEN }}
+        run: gh workflow run deploy.yml -R roamingjackmans-pixel/games
